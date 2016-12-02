@@ -1,0 +1,1397 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: event_calendar_wd\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-02-05 15:04+0100\n"
+"PO-Revision-Date: 2016-08-29 09:19+0000\n"
+"Last-Translator: Søren <soeren@flytkjaer.com>\n"
+"Language-Team: Danish\n"
+"Language: da-DK\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Poedit-SearchPathExcluded-0: views/admin\n"
+"X-Poedit-SearchPathExcluded-1: js\n"
+"X-Poedit-SearchPathExcluded-2: includes/ecwd-cpt-class.php\n"
+"X-Poedit-SearchPathExcluded-3: includes/register-settings.php\n"
+"X-Poedit-SearchPathExcluded-4: includes/ecwd-ical-events-class.php\n"
+"X-Poedit-SearchPathExcluded-5: includes/ecwd-google-events-class.php\n"
+"X-Poedit-SearchPathExcluded-6: includes/ecwd-facebook-events-class.php\n"
+"X-Poedit-SearchPathExcluded-7: ecwd_admin_class.php\n"
+"X-Poedit-SearchPathExcluded-8: includes/ecwd-event-class.php\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Loco-Target-Locale: da_DK"
+
+#: ../views/admin/ecwd-event-meta.php:91 ../views/admin/ecwd-event-meta.php:446
+msgid "Repeat rate"
+msgstr ""
+
+#: ../views/admin/ecwd-event-meta.php:105
+msgid "Don't repeat"
+msgstr ""
+
+#: ../views/admin/ecwd-event-meta.php:173
+msgid "on "
+msgstr ""
+
+#: ../views/admin/ecwd-event-meta.php:181
+msgid "year(s) in "
+msgstr ""
+
+#: ../views/admin/ecwd-event-meta.php:426
+msgid "Repeat until"
+msgstr ""
+
+#: ../views/admin/ecwd-event-meta.php:438
+msgid "Specify the repeating rate of the event."
+msgstr ""
+
+#: ../views/admin/ecwd-event-meta.php:535
+msgid "Provide a custom URL which will display event details."
+msgstr ""
+
+#: ../views/admin/ecwd-event-meta.php:546
+msgid "Provide Youtube or Vimeo URL of the video to accompany the event."
+msgstr ""
+
+#: ../views/admin/ecwd-calendar-meta.php:27 ../includes/ecwd-cpt-class.php:1091
+msgid "Calendar Shortcode"
+msgstr ""
+
+#: ../views/admin/ecwd-calendar-meta.php:31
+msgid ""
+"Copy and paste this shortcode to display this Calendar event on any post or "
+"page."
+msgstr ""
+
+#: ../views/admin/ecwd-calendar-meta.php:100 
+#: ../includes/ecwd-cpt-class.php:522 .. includes/ecwd-cpt-class.php:524
+msgid "Theme"
+msgstr ""
+
+#: ../views/admin/ecwd-calendar-meta.php:112
+msgid "Upgrade to Pro for more themes."
+msgstr ""
+
+#: ../views/admin/ecwd-venue-meta.php:44
+msgid ""
+"Fill in the address of the venue or click on the map to drag and drop the "
+"marker to a specific location"
+msgstr ""
+
+#: ../views/admin/import.php:32
+msgid "Choose csv file"
+msgstr ""
+
+#: ../views/admin/import.php:47
+msgid "Download Export File"
+msgstr ""
+
+#: ../views/widgets.php:18
+msgid "Descr"
+msgstr ""
+
+#: ../views/widgets.php:62
+msgid ""
+"No valid Event IDs have been entered for this widget. Please check that you "
+"have entered the IDs correctly in the widget settings (Appearance > Widgets),"
+" and that the Events have not been deleted."
+msgstr ""
+
+#: ../views/widgets.php:146
+msgid "Title:"
+msgstr ""
+
+#: ../includes/activation_settings_page.php:112
+msgid "Install sample data"
+msgstr ""
+
+#: ../includes/activation_settings_page.php:113
+msgid "Check to install sample data."
+msgstr ""
+
+#: ../includes/register-settings.php:18
+msgid "Cache has been deleted."
+msgstr ""
+
+#: ../includes/register-settings.php:43
+msgid "Auto generated data has been deleted."
+msgstr ""
+
+#: ../includes/register-settings.php:45
+msgid "Auto generated data has already deleted."
+msgstr ""
+
+#: ../includes/register-settings.php:73
+msgid "Clear auto generated data"
+msgstr ""
+
+#: ../includes/register-settings.php:74
+msgid "Click to clear auto generated data"
+msgstr ""
+
+#: ../includes/register-settings.php:81
+msgid "Start tour"
+msgstr ""
+
+#: ../includes/register-settings.php:82
+msgid "Click to start tour."
+msgstr ""
+
+#: ../includes/register-settings.php:89
+msgid "TimeZone"
+msgstr ""
+
+#: ../includes/register-settings.php:90
+msgid ""
+"Use Continent/City format, e.g. Europe/Berlin. If left empty, the server "
+"timezone will be used (if set in php settings), otherwise default "
+"Europe/Berlin"
+msgstr ""
+
+#: ../includes/register-settings.php:97
+msgid "Set the format for displaying event dates. Ex Y-m-d or Y/m/d"
+msgstr ""
+
+#: ../includes/register-settings.php:104
+msgid "Set the format for displaying event time. Ex H:i or H/i"
+msgstr ""
+
+#: ../includes/register-settings.php:110
+msgid "Show AM/PM"
+msgstr ""
+
+#: ../includes/register-settings.php:111
+msgid "Select the time format type"
+msgstr ""
+
+#: ../includes/register-settings.php:117
+msgid "List,Week,Day views day format"
+msgstr ""
+
+#: ../includes/register-settings.php:118
+msgid "Note: Changed date format will not be translatable"
+msgstr ""
+
+#: ../includes/register-settings.php:125
+msgid "Week start day"
+msgstr ""
+
+#: ../includes/register-settings.php:126
+msgid "Define the starting day for the week."
+msgstr ""
+
+#: ../includes/register-settings.php:132
+msgid "Enable rewrite"
+msgstr ""
+
+#: ../includes/register-settings.php:134
+msgid "Check yes to enable event(s) url rewrite rule."
+msgstr ""
+
+#: ../includes/register-settings.php:140
+msgid "Events slug"
+msgstr ""
+
+#: ../includes/register-settings.php:142
+msgid "Define the slug for the events list page."
+msgstr ""
+
+#: ../includes/register-settings.php:148
+msgid "Single Event slug"
+msgstr ""
+
+#: ../includes/register-settings.php:150
+msgid "Define the slug for the single event page."
+msgstr ""
+
+#: ../includes/register-settings.php:157
+msgid "Check to enable commenting."
+msgstr ""
+
+#: ../includes/register-settings.php:162
+msgid "Include events in main loop"
+msgstr ""
+
+#: ../includes/register-settings.php:163
+msgid "Check to display events within website post list in main pages."
+msgstr ""
+
+#: ../includes/register-settings.php:168
+msgid "Order of Organizers and Venues by"
+msgstr ""
+
+#: ../includes/register-settings.php:169
+msgid "Select Order of Organizers and Venues."
+msgstr ""
+
+#: ../includes/register-settings.php:174
+msgid "Show events detail on hover"
+msgstr ""
+
+#: ../includes/register-settings.php:181
+msgid "Open events in new tab"
+msgstr ""
+
+#: ../includes/register-settings.php:189
+msgid "Check to display social icons in event, organizer and venue pages."
+msgstr ""
+
+#: ../includes/register-settings.php:201
+msgid "Apply category color to event title in event page"
+msgstr ""
+
+#: ../includes/register-settings.php:208
+msgid "Enable Category and Tags"
+msgstr ""
+
+#: ../includes/register-settings.php:209
+msgid "Check to display category and Tags."
+msgstr ""
+
+#: ../includes/register-settings.php:214
+msgid "Display Events in popup"
+msgstr ""
+
+#: ../includes/register-settings.php:215
+msgid "Check to display events in popup."
+msgstr ""
+
+#: ../includes/register-settings.php:222
+msgid "Define the default text for empty events description."
+msgstr ""
+
+#: ../includes/register-settings.php:228
+msgid "Show event date in the events list page"
+msgstr ""
+
+#: ../includes/register-settings.php:235
+msgid "Mark all days of multi-day event"
+msgstr ""
+
+#: ../includes/register-settings.php:242
+msgid "Related events count"
+msgstr ""
+
+#: ../includes/register-settings.php:249
+msgid "Order of events archive page"
+msgstr ""
+
+#: ../includes/register-settings.php:250
+msgid "Sort by event start"
+msgstr ""
+
+#: ../includes/register-settings.php:257
+msgid "Grab the first post image"
+msgstr ""
+
+#: ../includes/register-settings.php:266
+msgid "Events category slug"
+msgstr ""
+
+#: ../includes/register-settings.php:274
+msgid "Display Description"
+msgstr ""
+
+#: ../includes/register-settings.php:281
+msgid "Display Image"
+msgstr ""
+
+#: ../includes/register-settings.php:290
+msgid "Custom css"
+msgstr ""
+
+#: ../includes/register-settings.php:300
+msgid "Get key"
+msgstr ""
+
+#: ../includes/register-settings.php:308
+msgid "API key"
+msgstr ""
+
+#: ../includes/register-settings.php:323 ../includes/register-settings.php:363
+msgid "Show the repeat rate"
+msgstr ""
+
+#: ../includes/register-settings.php:324 ../includes/register-settings.php:364
+msgid "Check to show the repeat rate in event page ."
+msgstr ""
+
+#: ../includes/register-settings.php:329
+msgid "Add fixed height for events in posterboard view"
+msgstr ""
+
+#: ../includes/register-settings.php:336
+msgid "Period for List view"
+msgstr ""
+
+#: ../includes/register-settings.php:337
+msgid "Period for showing events"
+msgstr ""
+
+#: ../includes/register-settings.php:345
+msgid "Satellite Gmap Type"
+msgstr ""
+
+#: ../includes/register-settings.php:352
+msgid "Open Google map when Marker is clicked"
+msgstr ""
+
+#: ../includes/register-settings.php:817
+#, php-format
+msgid ""
+"The callback function used for the <strong>%s</strong> setting is missing."
+msgstr ""
+
+#: ../includes/ecwd-event-class.php:188
+#, php-format
+msgid "%s year"
+msgstr ""
+
+#: ../includes/ecwd-event-class.php:188
+#, php-format
+msgid "%s years"
+msgstr ""
+
+#: ../includes/ecwd-event-class.php:189
+#, php-format
+msgid "%s month"
+msgstr ""
+
+#: ../includes/ecwd-event-class.php:189
+#, php-format
+msgid "%s months"
+msgstr ""
+
+#: ../includes/ecwd-event-class.php:190
+#, php-format
+msgid "%s week"
+msgstr ""
+
+#: ../includes/ecwd-event-class.php:190
+#, php-format
+msgid "%s weeks"
+msgstr ""
+
+#: ../includes/ecwd-event-class.php:191
+#, php-format
+msgid "%s day"
+msgstr ""
+
+#: ../includes/ecwd-event-class.php:191
+#, php-format
+msgid "%s days"
+msgstr ""
+
+#: ../includes/ecwd-event-class.php:192
+#, php-format
+msgid "%s hour"
+msgstr ""
+
+#: ../includes/ecwd-event-class.php:192
+#, php-format
+msgid "%s hours"
+msgstr ""
+
+#: ../includes/ecwd-event-class.php:193
+#, php-format
+msgid "%s min"
+msgstr ""
+
+#: ../includes/ecwd-event-class.php:193
+#, php-format
+msgid "%s mins"
+msgstr ""
+
+#: ../includes/ecwd-event-class.php:221
+msgctxt "human_time_diff"
+msgid ", "
+msgstr ""
+
+#: ../includes/notices.php:19 ../includes/notices.php:41
+msgid "Hey! How's It Going?"
+msgstr ""
+
+#: ../includes/notices.php:28
+msgid "Leave A Review?"
+msgstr ""
+
+#: ../includes/notices.php:29
+msgid ""
+"We hope you've enjoyed using Event Calendar WD! Would you consider leaving "
+"us a review on WordPress.org?"
+msgstr ""
+
+#: ../includes/notices.php:30
+msgid "Sure! I'd love to!"
+msgstr ""
+
+#: ../includes/notices.php:31
+msgid "I've already left a review"
+msgstr ""
+
+#: ../includes/notices.php:42
+msgid ""
+"Thank you for using Events Calendar WD! We hope that you've found everything "
+"you need, but if you have any questions:"
+msgstr ""
+
+#: ../includes/notices.php:43
+msgid "Check out User Guide"
+msgstr ""
+
+#: ../includes/notices.php:44
+msgid "Get Some Help"
+msgstr ""
+
+#: ../includes/ecwd-cpt-class.php:486 ../includes/ecwd-cpt-class.php:527
+#, php-format
+msgid "%4$s updated."
+msgstr ""
+
+#: ../includes/ecwd-cpt-class.php:487 ../includes/ecwd-cpt-class.php:528
+#, php-format
+msgid "%4$s updated. "
+msgstr ""
+
+#: ../includes/ecwd-cpt-class.php:488 ../includes/ecwd-cpt-class.php:529
+#, php-format
+msgid "%4$s published."
+msgstr ""
+
+#: ../includes/ecwd-cpt-class.php:489 ../includes/ecwd-cpt-class.php:530
+#, php-format
+msgid "%4$s saved."
+msgstr ""
+
+#: ../includes/ecwd-cpt-class.php:490 ../includes/ecwd-cpt-class.php:531
+#, php-format
+msgid "%4$s submitted. "
+msgstr ""
+
+#: ../includes/ecwd-cpt-class.php:491 ../includes/ecwd-cpt-class.php:532
+#, php-format
+msgid "%4$s draft updated."
+msgstr ""
+
+#: ../includes/ecwd-cpt-class.php:577 ../includes/ecwd-cpt-class.php:578
+#, php-format
+msgid "%4$s updated. %1$sView %2$s%3$s"
+msgstr ""
+
+#: ../includes/ecwd-cpt-class.php:579
+#, php-format
+msgid "%4$s published. %1$sView %2$s%3$s"
+msgstr ""
+
+#: ../includes/ecwd-cpt-class.php:580
+#, php-format
+msgid "%4$s saved. %1$sView %2$s%3$s"
+msgstr ""
+
+#: ../includes/ecwd-cpt-class.php:581
+#, php-format
+msgid "%4$s submitted. %1$sView %2$s%3$s"
+msgstr ""
+
+#: ../includes/ecwd-cpt-class.php:582
+#, php-format
+msgid "%4$s draft updated. %1$sView %2$s%3$s"
+msgstr ""
+
+#: ../includes/ecwd-cpt-class.php:671
+msgid "Featured Image"
+msgstr ""
+
+#: ../includes/ecwd-cpt-class.php:1147
+msgctxt "taxonomy general name"
+msgid "Event Categories"
+msgstr ""
+
+#: ../includes/ecwd-cpt-class.php:1148
+msgctxt "taxonomy singular name"
+msgid "Event Category"
+msgstr ""
+
+#: ../includes/ecwd-cpt-class.php:1149
+msgid "Search Event Categories"
+msgstr ""
+
+#: ../includes/ecwd-cpt-class.php:1151
+msgid "Parent Category"
+msgstr ""
+
+#: ../includes/ecwd-cpt-class.php:1152
+msgid "Parent Category:"
+msgstr ""
+
+#: ../includes/ecwd-cpt-class.php:1174
+msgid "Event Tags"
+msgstr ""
+
+#: ../includes/ecwd-cpt-class.php:1175
+msgid "Event Tag"
+msgstr ""
+
+#: ../includes/register-settings.php:220
+msgid "Description for events."
+msgstr "Beskrivelsen for begivenheden"
+
+#: ../includes/notices.php:21 ../includes/notices.php:33 
+#: ../includes/notices.php:45
+msgid "Never show again"
+msgstr "Vis ikke dette igen."
+
+#: ../includes/notices.php:32
+msgid "Maybe Later"
+msgstr "Måske senerer"
+
+#: ../includes/ecwd-cpt-class.php:592
+msgid "Calendar Settings"
+msgstr "Kalender indstillinger"
+
+#: ../includes/ecwd-cpt-class.php:708
+msgid "Calendar Theme Settings"
+msgstr "Kalender tema indstillinger"
+
+#: ../includes/ecwd-cpt-class.php:810
+msgid "Venue Location"
+msgstr "Stedets placering."
+
+#: ../includes/ecwd-cpt-class.php:1090
+msgid "Calendar ID"
+msgstr "Kalender ID"
+
+#: ../includes/ecwd-cpt-class.php:1153
+msgid "Edit Category"
+msgstr "Ret Kategori"
+
+#: ../includes/ecwd-cpt-class.php:1154
+msgid "Update Category"
+msgstr "Opdater Kategori"
+
+#: ../includes/ecwd-cpt-class.php:1156
+msgid "New Event Category Name"
+msgstr "Nyt begivenheds kategori navn."
+
+#: ../includes/ecwd-cpt-class.php:1254 ../includes/ecwd-cpt-class.php:1272
+msgid "Icon"
+msgstr "Ikon"
+
+#: ../includes/ecwd-cpt-class.php:1255
+msgid "Color"
+msgstr "Farve"
+
+msgid "Event Calendar WD"
+msgstr "Event Calendar WD"
+
+msgid "https://web-dorado.com/products/wordpress-event-calendar-wd.html"
+msgstr "https://web-dorado.com/products/wordpress-event-calendar-wd.html"
+
+msgid ""
+"Event Calendar WD is an easy event management and planning tool with "
+"advanced features."
+msgstr ""
+"Event Calendar WD er et nemt planlægnings værktøj med meget avanceret "
+"muligheder."
+
+msgid "WebDorado"
+msgstr "WebDorado"
+
+msgid "http://web-dorado.com"
+msgstr "http://web-dorado.com"
+
+#: ../ecwd_admin_class.php:92 ../ecwd_admin_class.php:92 
+#: ../ecwd_admin_class.php: 571
+msgid "Settings"
+msgstr "Indstillinger"
+
+#: ../ecwd_admin_class.php:100 ../ecwd_admin_class.php:100
+msgid "Licensing"
+msgstr "Licensing"
+
+#: ../ecwd_admin_class.php:107 ../ecwd_admin_class.php:107
+msgid "Featured plugins"
+msgstr "Featured plugins"
+
+#: ../ecwd_admin_class.php:113 ../ecwd_admin_class.php:113
+msgid "Featured themes"
+msgstr "Featured themes"
+
+#: ../ecwd_admin_class.php:119 ../ecwd_admin_class.php:119
+msgid "Calendar Add-ons"
+msgstr "Kalender tilføjelser"
+
+#: ../ecwd_admin_class.php:125 ../ecwd_admin_class.php:125
+msgid "Calendar Themes"
+msgstr "Kalender temaer"
+
+#: ../ecwd_admin_class.php:132 ../ecwd_admin_class.php:132
+msgid "Config"
+msgstr "Konfiguration"
+
+#: ../ecwd_admin_class.php:376 ../ecwd_class.php:172 
+#: ../includes/ecwd-functions. php:12
+msgid "Loading..."
+msgstr "Arbejder..."
+
+#: ../ecwd_admin_class.php:572 ../views/admin/ecwd-calendar-meta.php:61 .. 
+#: views/admin/import.php:26 ../views/admin/import.php:41 
+#: ../includes/ecwd-cpt- class.php:320
+msgid "Events"
+msgstr "Begivenheder"
+
+#: ../views/ecwd-event-popup.php:145 ../views/ecwd-event-popup.php:248 .. 
+#: views/single-event.php:171 ../views/single-event.php:282 
+#: ../views/ecwd-event- content.php:71 ../views/ecwd-event-content.php:158
+msgid "Date"
+msgstr "Dato"
+
+#: ../views/ecwd-event-popup.php:155 ../views/ecwd-event-popup.php:253 .. 
+#: views/single-event.php:181 ../views/single-event.php:287 
+#: ../views/ecwd-event- content.php:80 ../views/ecwd-event-content.php:163 
+#: ../views/related_events.php: 54 ../views/admin/ecwd-event-meta.php:78 
+#: ../includes/calendar-class.php:443 .. includes/calendar-class.php:1035 
+#: ../includes/calendar-class.php:1175 .. includes/ecwd-functions.php:383
+msgid "All day"
+msgstr "Hele dagen"
+
+#: ../views/ecwd-event-popup.php:177 ../views/single-event.php:210 
+#: ../views/ecwd- event-content.php:95
+msgid "Url"
+msgstr "URL"
+
+#: ../views/ecwd-event-popup.php:184 ../views/single-event.php:217 
+#: ../views/ecwd- event-content.php:101 ../views/admin/import.php:27 
+#: ../views/admin/import.php: 42 ../includes/ecwd-cpt-class.php:280 
+#: ../includes/ecwd-cpt-class.php:662
+msgid "Organizers"
+msgstr "Organisatorer"
+
+#: ../views/ecwd-event-popup.php:196 ../views/single-event.php:229 .. 
+#: includes/ecwd-cpt-class.php:365 ../includes/ecwd-cpt-class.php:366
+msgid "Venue"
+msgstr "Sted"
+
+#: ../views/ecwd-event-popup.php:206 ../views/single-event.php:240
+msgid "Location"
+msgstr "Lokation"
+
+#: ../views/single-event.php:155 ../includes/texts.php:80
+msgid "Back"
+msgstr "Tilbage"
+
+#: ../views/admin/ecwd-event-organizers-meta.php:37
+msgid "Add organizer"
+msgstr "Tilføj Arrangør"
+
+#: ../views/admin/ecwd-event-meta.php:54 ../includes/ecwd-cpt-class.php:1101
+msgid "Event Dates"
+msgstr "Datoer for begivenhed"
+
+#: ../views/admin/ecwd-event-meta.php:56 ../includes/ecwd-cpt-filter.php:67
+msgid "From"
+msgstr "Fra"
+
+#: ../views/admin/ecwd-event-meta.php:63 ../includes/ecwd-cpt-filter.php:74
+msgid "To"
+msgstr "Til"
+
+#: ../views/admin/ecwd-event-meta.php:84
+msgid ""
+"Fill in the starting and ending dates and time of the event. If the event "
+"lasts entire day, check the box on the right."
+msgstr ""
+"Udfyld startdato og slutdato og klokkeslæt på begivenheden. Hvis "
+"begivenheden vare hele dagen, sæt da et kryds i boksen til højre."
+
+#: ../views/admin/ecwd-event-meta.php:115
+msgid "Daily"
+msgstr "Daglig"
+
+#: ../views/admin/ecwd-event-meta.php:127
+msgid "Weekly"
+msgstr "Ugentlig"
+
+#: ../views/admin/ecwd-event-meta.php:142
+msgid "Monthly"
+msgstr "Månedlig"
+
+#: ../views/admin/ecwd-event-meta.php:155
+msgid "Yearly"
+msgstr "Årlig"
+
+#: ../views/admin/ecwd-event-meta.php:161 ../includes/texts.php:60
+msgid "Repeat every"
+msgstr "Gentag hver"
+
+#: ../views/admin/ecwd-event-meta.php:167
+msgid "day(s)"
+msgstr "Dag(e)"
+
+#: ../views/admin/ecwd-event-meta.php:172
+msgid "weeks(s)"
+msgstr "Uge(r)"
+
+#: ../views/admin/ecwd-event-meta.php:177
+msgid "month(s)"
+msgstr "Måned(er)"
+
+#: ../views/admin/ecwd-event-meta.php:198 
+#: ../views/admin/ecwd-event-meta.php:318 . 
+#: ./views/admin/ecwd-event-meta.php:404 ../includes/texts.php:16
+msgid "Monday"
+msgstr "mandag"
+
+#: ../views/admin/ecwd-event-meta.php:210 
+#: ../views/admin/ecwd-event-meta.php:320 . 
+#: ./views/admin/ecwd-event-meta.php:406 ../includes/texts.php:17
+msgid "Tuesday"
+msgstr "tirsdag"
+
+#: ../views/admin/ecwd-event-meta.php:223 
+#: ../views/admin/ecwd-event-meta.php:322 . 
+#: ./views/admin/ecwd-event-meta.php:408 ../includes/texts.php:18
+msgid "Wednesday"
+msgstr "onsdag"
+
+#: ../views/admin/ecwd-event-meta.php:235 
+#: ../views/admin/ecwd-event-meta.php:324 . 
+#: ./views/admin/ecwd-event-meta.php:410 ../includes/texts.php:19
+msgid "Thursday"
+msgstr "torsdag"
+
+#: ../views/admin/ecwd-event-meta.php:247 
+#: ../views/admin/ecwd-event-meta.php:326 . 
+#: ./views/admin/ecwd-event-meta.php:412 ../includes/texts.php:20
+msgid "Friday"
+msgstr "fredag"
+
+#: ../views/admin/ecwd-event-meta.php:259 
+#: ../views/admin/ecwd-event-meta.php:328 . 
+#: ./views/admin/ecwd-event-meta.php:414 ../includes/texts.php:21
+msgid "Saturday"
+msgstr "lørdag"
+
+#: ../views/admin/ecwd-event-meta.php:271 
+#: ../views/admin/ecwd-event-meta.php:330 . 
+#: ./views/admin/ecwd-event-meta.php:416 ../includes/texts.php:15
+msgid "Sunday"
+msgstr "søndag"
+
+#: ../views/admin/ecwd-event-meta.php:284 
+#: ../views/admin/ecwd-event-meta.php:370
+msgid "On the same day"
+msgstr "På den samme dag"
+
+#: ../views/admin/ecwd-event-meta.php:301 
+#: ../views/admin/ecwd-event-meta.php:387
+msgid "On the: "
+msgstr "På den:"
+
+#: ../views/admin/ecwd-event-meta.php:305 
+#: ../views/admin/ecwd-event-meta.php:391
+msgid "First"
+msgstr "Første"
+
+#: ../views/admin/ecwd-event-meta.php:307 
+#: ../views/admin/ecwd-event-meta.php:393
+msgid "Second"
+msgstr "Anden"
+
+#: ../views/admin/ecwd-event-meta.php:309 
+#: ../views/admin/ecwd-event-meta.php:395
+msgid "Third"
+msgstr "Tredje"
+
+#: ../views/admin/ecwd-event-meta.php:311 
+#: ../views/admin/ecwd-event-meta.php:397
+msgid "Fourth"
+msgstr "Fjerde"
+
+#: ../views/admin/ecwd-event-meta.php:313 
+#: ../views/admin/ecwd-event-meta.php:399
+msgid "Last"
+msgstr "Sidste"
+
+#: ../views/admin/ecwd-event-meta.php:339 ../includes/texts.php:2
+msgid "January"
+msgstr "januar"
+
+#: ../views/admin/ecwd-event-meta.php:341 ../includes/texts.php:3
+msgid "February"
+msgstr "februar"
+
+#: ../views/admin/ecwd-event-meta.php:343 ../includes/texts.php:4
+msgid "March"
+msgstr "marts"
+
+#: ../views/admin/ecwd-event-meta.php:345 ../includes/texts.php:5
+msgid "April"
+msgstr "april"
+
+#: ../views/admin/ecwd-event-meta.php:347 ../includes/texts.php:6
+msgid "May"
+msgstr "maj"
+
+#: ../views/admin/ecwd-event-meta.php:349 ../includes/texts.php:7
+msgid "June"
+msgstr "juni"
+
+#: ../views/admin/ecwd-event-meta.php:351 ../includes/texts.php:8
+msgid "July"
+msgstr "juli"
+
+#: ../views/admin/ecwd-event-meta.php:353 ../includes/texts.php:9
+msgid "August"
+msgstr "august"
+
+#: ../views/admin/ecwd-event-meta.php:355 ../includes/texts.php:10
+msgid "September"
+msgstr "september"
+
+#: ../views/admin/ecwd-event-meta.php:357 ../includes/texts.php:11
+msgid "October"
+msgstr "oktober"
+
+#: ../views/admin/ecwd-event-meta.php:359 ../includes/texts.php:12
+msgid "November"
+msgstr "november"
+
+#: ../views/admin/ecwd-event-meta.php:361 ../includes/texts.php:13
+msgid "December"
+msgstr "december"
+
+#: ../views/admin/ecwd-event-meta.php:448
+msgid "Upgrade to Pro version"
+msgstr "Opgrader til Pro version"
+
+#: ../views/admin/ecwd-event-meta.php:453
+msgid "Event Venue"
+msgstr "Sted for begivenhed"
+
+#: ../views/admin/ecwd-event-meta.php:473
+msgid "Select the venue of the event."
+msgstr "Vælg sted for begivenhed."
+
+#: ../views/admin/ecwd-event-meta.php:477
+msgid "There is no venue added yet"
+msgstr "Der er ikke tilføjet nogen steder endnu!"
+
+#: ../views/admin/ecwd-event-meta.php:482
+msgid "Event Location"
+msgstr "Begivenheds lokation"
+
+#: ../views/admin/ecwd-event-meta.php:514
+msgid ""
+"If venue is not specified you can fill in the address of the event location "
+"or click on the map to drag and drop the marker to the event location."
+msgstr ""
+"Hvis stedet ikke er indtastet, kan du indtaste adressen på begivenheden "
+"eller klikke på kortet for at sætte eller flytte markøren til stedet for "
+"begivenheden."
+
+#: ../views/admin/ecwd-event-meta.php:519
+msgid "Show map in event page"
+msgstr "Vis kortet på siden for begivenhed."
+
+#: ../views/admin/ecwd-event-meta.php:529
+msgid "Event URL"
+msgstr "Begivenheds web adresse"
+
+#: ../views/admin/ecwd-event-meta.php:540
+msgid "Event Video URL"
+msgstr "Begivenheds video web adresse"
+
+#: ../views/admin/ecwd-event-cat-meta.php:4 
+#: ../views/admin/ecwd-event-cat-meta. php:31
+msgid "Image"
+msgstr "Billede"
+
+#: ../views/admin/ecwd-event-cat-meta.php:11 
+#: ../views/admin/ecwd-event-cat-meta. php:34
+msgid "Upload/Add image"
+msgstr "Indlæs/Tilføj billede"
+
+#: ../views/admin/ecwd-event-cat-meta.php:13
+msgid "Remove image"
+msgstr "Fjern billede"
+
+#: ../views/admin/ecwd-event-cat-meta.php:20 
+#: ../views/admin/ecwd-event-cat-meta. php:37
+msgid "Category color"
+msgstr "Kategori farve"
+
+#: ../views/admin/ecwd-event-cat-meta.php:26
+msgid "Choose the color"
+msgstr "Vælg farven"
+
+#: ../views/admin/ecwd-calendar-meta.php:24
+msgid "Preview"
+msgstr "smugkig"
+
+#: ../views/admin/ecwd-calendar-meta.php:24 
+#: ../views/admin/ecwd-calendar-meta.php: 80
+msgid "Add Event"
+msgstr "Tilføj begivenhed"
+
+#: ../views/admin/ecwd-calendar-meta.php:77
+msgid "Select Events from the list"
+msgstr "Vælg begivenhed fra listen"
+
+#: ../views/admin/import.php:28 ../views/admin/import.php:43 
+#: ../includes/texts. php:50 ../includes/ecwd-cpt-class.php:364
+msgid "Venues"
+msgstr "Steder"
+
+#: ../views/admin/import.php:34
+msgid "Import"
+msgstr "Importer"
+
+#: ../views/widgets.php:94
+msgid "You have not added any events yet."
+msgstr "Du har ikke tilføjet nogen begiveheder endnu."
+
+#: ../views/widgets.php:127
+msgid "There are no calendars created yet."
+msgstr "Der er ikke oprette nogne kalender endnu."
+
+#: ../views/widgets.php:128
+msgid "Add your first calendar!"
+msgstr "Tilføj den første kalender"
+
+#: ../views/widgets.php:151
+msgid "Calendar to display"
+msgstr "Kalender der vises"
+
+#: ../views/widgets.php:164
+msgid "Display Events as:"
+msgstr "Vis begivenheder som:"
+
+#: ../views/widgets.php:166 ../includes/calendar-class.php:204 .. 
+#: includes/calendar-class.php:208
+msgid "Month"
+msgstr "Måned"
+
+#: ../views/widgets.php:167 ../includes/calendar-class.php:212
+msgid "List"
+msgstr "Liste"
+
+#: ../views/widgets.php:168 ../includes/calendar-class.php:216
+msgid "Week"
+msgstr "Uge"
+
+#: ../views/widgets.php:169 ../includes/calendar-class.php:220
+msgid "Day"
+msgstr "Dag"
+
+#: ../views/widgets.php:173
+msgid "Events per page in list view:"
+msgstr "Begivenheder pr. side i liste visning:"
+
+#: ../views/taxonomy-ecwd_event_category.php:43
+msgid "Previous page"
+msgstr "Forige side"
+
+#: ../views/taxonomy-ecwd_event_category.php:44
+msgid "Next page"
+msgstr "Næste side"
+
+#: ../ecwd_class.php:173
+msgid "Event Details"
+msgstr "Begivenhed Detaljer"
+
+#: ../includes/calendar-class.php:520
+msgid "No Events"
+msgstr "Ingen Begivenheder"
+
+#: ../includes/calendar-class.php:1108
+msgid "More events"
+msgstr "Flere events"
+
+#: ../includes/calendar-class.php:1229
+msgid "No events"
+msgstr "Ingen begivenheder"
+
+#: ../includes/texts.php:25
+msgid "Sun"
+msgstr "søn"
+
+#: ../includes/texts.php:26
+msgid "Mon"
+msgstr "man"
+
+#: ../includes/texts.php:27
+msgid "Tue"
+msgstr "tir"
+
+#: ../includes/texts.php:28
+msgid "Wed"
+msgstr "ons"
+
+#: ../includes/texts.php:29
+msgid "Thu"
+msgstr "tor"
+
+#: ../includes/texts.php:30
+msgid "Fri"
+msgstr "fre"
+
+#: ../includes/texts.php:31
+msgid "Sat"
+msgstr "lør"
+
+#: ../includes/texts.php:34
+msgid "Su"
+msgstr "søn"
+
+#: ../includes/texts.php:35
+msgid "Mo"
+msgstr "man"
+
+#: ../includes/texts.php:36
+msgid "Tu"
+msgstr "tir"
+
+#: ../includes/texts.php:37
+msgid "We"
+msgstr "ons"
+
+#: ../includes/texts.php:38
+msgid "Th"
+msgstr "tor"
+
+#: ../includes/texts.php:39
+msgid "Fr"
+msgstr "fre"
+
+#: ../includes/texts.php:40
+msgid "Sa"
+msgstr "lør"
+
+#: ../includes/texts.php:44
+msgid "Show Filters"
+msgstr "Vis filtre"
+
+#: ../includes/texts.php:45
+msgid "Collapse Filters"
+msgstr "skjul filtre"
+
+#: ../includes/texts.php:46
+msgid "Reset Filters"
+msgstr "nulstil filtre"
+
+#: ../includes/texts.php:48
+msgid "Days"
+msgstr "Dage"
+
+#: ../includes/texts.php:49
+msgid "Categories"
+msgstr "Kategorier"
+
+#: ../includes/texts.php:53 ../includes/ecwd-functions.php:460
+msgid "DAYS"
+msgstr "DAGE"
+
+#: ../includes/texts.php:54 ../includes/ecwd-functions.php:461
+msgid "HOURS"
+msgstr "TIMER"
+
+#: ../includes/texts.php:55 ../includes/ecwd-functions.php:462
+msgid "MINUTES"
+msgstr "MINUTTER"
+
+#: ../includes/texts.php:56 ../includes/ecwd-functions.php:463
+msgid "SECONDS"
+msgstr "SEKUNDER"
+
+#: ../includes/texts.php:57
+msgid "The event has just started"
+msgstr "Denne begivenhed er lige startet"
+
+#: ../includes/texts.php:61
+msgid "Repeat every day"
+msgstr "Gentag hver dag"
+
+#: ../includes/texts.php:62
+msgid "Repeat every week"
+msgstr "Gentag hver uge"
+
+#: ../includes/texts.php:63
+msgid "Repeat every month"
+msgstr "Gentag hver måned"
+
+#: ../includes/texts.php:64
+msgid "Repeat every year"
+msgstr "Gentag hvert år"
+
+#: ../includes/texts.php:66
+msgid "days"
+msgstr "dage"
+
+#: ../includes/texts.php:67
+msgid "weeks"
+msgstr "uger"
+
+#: ../includes/texts.php:68
+msgid "months"
+msgstr "måneder"
+
+#: ../includes/texts.php:69
+msgid "years"
+msgstr "år"
+
+#: ../includes/texts.php:70
+msgid "until"
+msgstr "indtil"
+
+#: ../includes/texts.php:72
+msgid "Sundays"
+msgstr "Søndage"
+
+#: ../includes/texts.php:73
+msgid "Mondays"
+msgstr "Mandage"
+
+#: ../includes/texts.php:74
+msgid "Tuesdays"
+msgstr "Tirsdage"
+
+#: ../includes/texts.php:75
+msgid "Wednesdays"
+msgstr "Onsdage"
+
+#: ../includes/texts.php:76
+msgid "Thursdays"
+msgstr "Torsdage"
+
+#: ../includes/texts.php:77
+msgid "Fridays"
+msgstr "Fredage"
+
+#: ../includes/texts.php:78
+msgid "Saturdays"
+msgstr "Lørdage"
+
+#: ../includes/register-settings.php:96
+msgid "Date format"
+msgstr "Dato format"
+
+#: ../includes/register-settings.php:103
+msgid "Time format"
+msgstr "Tidsformat"
+
+#: ../includes/register-settings.php:156
+msgid "Enable comments for events"
+msgstr "Tillad kommentarer til begivenheden"
+
+#: ../includes/register-settings.php:188
+msgid "Enable Social Icons"
+msgstr "Slå sociale ikoner til."
+
+#: ../includes/register-settings.php:194
+msgid "Show related events in the event page"
+msgstr "Vi relaterede begivenheder på begivenheds siden."
+
+#: ../includes/register-settings.php:221
+msgid "No additional detail for this event."
+msgstr "Der er ikke flere oplysninger til denne begivenhed."
+
+#: ../includes/ecwd-cpt-class.php:123
+msgid "Duplicate Event"
+msgstr "Kopier begivenhed"
+
+#: ../includes/ecwd-cpt-class.php:237
+msgctxt "URL slug"
+msgid "venue"
+msgstr "Sted"
+
+#: ../includes/ecwd-cpt-class.php:238
+msgctxt "URL slug"
+msgid "organizer"
+msgstr "Arrangør"
+
+#: ../includes/ecwd-cpt-class.php:242 ../includes/ecwd-cpt-class.php:244 .. 
+#: includes/ecwd-cpt-class.php:658
+msgid "Calendars"
+msgstr "Kalendere"
+
+#: ../includes/ecwd-cpt-class.php:243 ../includes/ecwd-cpt-class.php:245 .. 
+#: includes/ecwd-cpt-class.php:483
+msgid "Calendar"
+msgstr "*KAlender"
+
+#: ../includes/ecwd-cpt-class.php:246 ../includes/ecwd-cpt-class.php:247
+msgid "Add New Calendar"
+msgstr "Tilføj ny kalender"
+
+#: ../includes/ecwd-cpt-class.php:248
+msgid "New Calendar"
+msgstr "Ny kalender"
+
+#: ../includes/ecwd-cpt-class.php:249
+msgid "Edit Calendar"
+msgstr "Ret kalender"
+
+#: ../includes/ecwd-cpt-class.php:250
+msgid "View Calendar"
+msgstr "Vis kalender"
+
+#: ../includes/ecwd-cpt-class.php:251
+msgid "All Calendars"
+msgstr "Alle kalendere"
+
+#: ../includes/ecwd-cpt-class.php:252
+msgid "Search Calendar"
+msgstr "Søg kalender"
+
+#: ../includes/ecwd-cpt-class.php:253
+msgid "No Calendars found."
+msgstr "Ingen kalender fundet."
+
+#: ../includes/ecwd-cpt-class.php:254
+msgid "No Calendars found in Trash."
+msgstr "Ingen kalender fundet i papirkurven."
+
+#: ../includes/ecwd-cpt-class.php:281 ../includes/ecwd-cpt-class.php:282
+msgid "Organizer"
+msgstr "Arrangør"
+
+#: ../includes/ecwd-cpt-class.php:283 ../includes/ecwd-cpt-class.php:323 .. 
+#: includes/ecwd-cpt-class.php:367
+msgid "Add New"
+msgstr "Tilføj ny"
+
+#: ../includes/ecwd-cpt-class.php:284
+msgid "Add New Organizer"
+msgstr "Tilføj ny arrangør"
+
+#: ../includes/ecwd-cpt-class.php:285
+msgid "New Organizer"
+msgstr "Ny arrangør"
+
+#: ../includes/ecwd-cpt-class.php:286
+msgid "Edit Organizer"
+msgstr "Ret arrangør"
+
+#: ../includes/ecwd-cpt-class.php:287
+msgid "View Organizer"
+msgstr "Vis arrangør"
+
+#: ../includes/ecwd-cpt-class.php:288
+msgid "All Organizers"
+msgstr "Alle arrangøre"
+
+#: ../includes/ecwd-cpt-class.php:289
+msgid "Search Organizer"
+msgstr "Søg arrangør"
+
+#: ../includes/ecwd-cpt-class.php:290
+msgid "No Organizers found."
+msgstr "Ingen arrangører fundet."
+
+#: ../includes/ecwd-cpt-class.php:291
+msgid "No Organizers found in Trash."
+msgstr "Ingen arrangører fundet i papirkurven."
+
+#: ../includes/ecwd-cpt-class.php:321 ../includes/ecwd-cpt-class.php:322 .. 
+#: includes/ecwd-cpt-class.php:574
+msgid "Event"
+msgstr "Begivenhed"
+
+#: ../includes/ecwd-cpt-class.php:324
+msgid "Add New Event"
+msgstr "Tilføj begivenhed"
+
+#: ../includes/ecwd-cpt-class.php:325
+msgid "New Event"
+msgstr "Ny begivenhed"
+
+#: ../includes/ecwd-cpt-class.php:326
+msgid "Edit Event"
+msgstr "Ret begivenhed"
+
+#: ../includes/ecwd-cpt-class.php:327
+msgid "View Event"
+msgstr "Vis begivenhed"
+
+#: ../includes/ecwd-cpt-class.php:328
+msgid "All Events"
+msgstr "Alle begivenheder"
+
+#: ../includes/ecwd-cpt-class.php:329
+msgid "Search Event"
+msgstr "Søg begivenheder"
+
+#: ../includes/ecwd-cpt-class.php:330
+msgid "No events found."
+msgstr "Ingen begivenheder fundet."
+
+#: ../includes/ecwd-cpt-class.php:331
+msgid "No events found in Trash."
+msgstr "Ingen begivenheder fundet i papirkurven."
+
+#: ../includes/ecwd-cpt-class.php:368
+msgid "Add New Venue"
+msgstr "Tilføj nyt sted"
+
+#: ../includes/ecwd-cpt-class.php:369
+msgid "New Venue"
+msgstr "Nyt sted"
+
+#: ../includes/ecwd-cpt-class.php:370
+msgid "Edit Venue"
+msgstr "Ret sted"
+
+#: ../includes/ecwd-cpt-class.php:371
+msgid "View Venue"
+msgstr "Vis steder"
+
+#: ../includes/ecwd-cpt-class.php:372
+msgid "All Venues"
+msgstr "Alle steder"
+
+#: ../includes/ecwd-cpt-class.php:373
+msgid "Search Venue"
+msgstr "søg sted"
+
+#: ../includes/ecwd-cpt-class.php:374
+msgid "No Venues found."
+msgstr "Sted ikke fundet"
+
+#: ../includes/ecwd-cpt-class.php:375
+msgid "No Venues found in Trash."
+msgstr "Sted ikke fundet i papirkurven."
+
+#: ../includes/ecwd-cpt-class.php:481
+msgid "calendar"
+msgstr "Kalender"
+
+#: ../includes/ecwd-cpt-class.php:572
+msgid "event"
+msgstr "begivenhed"
+
+#: ../includes/ecwd-cpt-class.php:666
+msgid "Event Settings"
+msgstr "Begivenheds indstillinger"
+
+#: ../includes/ecwd-cpt-class.php:1150
+msgid "All Event Categories"
+msgstr "Alle kategorier for begivenhed"
+
+#: ../includes/ecwd-cpt-class.php:1155
+msgid "Add New Event Category"
+msgstr "Tilføj ny begivenheds kategori"
+
+#: ../includes/ecwd-cpt-class.php:1157
+msgid "Event Categories"
+msgstr "Begivenheds kategori"

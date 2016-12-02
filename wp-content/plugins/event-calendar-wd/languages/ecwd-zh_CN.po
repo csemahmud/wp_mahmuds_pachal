@@ -1,0 +1,1445 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Event Calendar WD\n"
+"POT-Creation-Date: 2016-10-22 11:14+0800\n"
+"PO-Revision-Date: 2016-10-22 12:00+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: ecwd.php\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: ecwd_admin_class.php:129 ecwd_admin_class.php:626
+msgid "Settings"
+msgstr "设置"
+
+#: ecwd_admin_class.php:153
+msgid "Licensing"
+msgstr "许可"
+
+#: ecwd_admin_class.php:160
+msgid "Featured plugins"
+msgstr "特色插件"
+
+#: ecwd_admin_class.php:166
+msgid "Featured themes"
+msgstr "特色主题"
+
+#: ecwd_admin_class.php:172
+msgid "Calendar Add-ons"
+msgstr "日历扩展"
+
+#: ecwd_admin_class.php:178
+msgid "Calendar Themes"
+msgstr "日历主题"
+
+#: ecwd_admin_class.php:185
+msgid "Config"
+msgstr "配置"
+
+#: ecwd_admin_class.php:431 ecwd_class.php:172 includes/ecwd-functions.php:12
+msgid "Loading..."
+msgstr "加载中..."
+
+#. Plugin Name of the plugin/theme
+#: ecwd_admin_class.php:620 views/widgets.php:18
+msgid "Event Calendar WD"
+msgstr "活动日历WD"
+
+#: ecwd_admin_class.php:627 includes/ecwd-cpt-class.php:344
+#: views/admin/ecwd-calendar-meta.php:61 views/admin/import.php:26
+#: views/admin/import.php:41
+msgid "Events"
+msgstr "活动"
+
+#: ecwd_class.php:81
+msgid "Could not load the localization file: "
+msgstr "无法加载本地化文件："
+
+#: ecwd_class.php:173
+msgid "Event Details"
+msgstr "活动详情"
+
+#: includes/activation_settings_page.php:112
+msgid "Install sample data"
+msgstr "安装样本数据"
+
+#: includes/activation_settings_page.php:113
+msgid "Check to install sample data."
+msgstr "点击以安装示例数据。"
+
+#: includes/calendar-class.php:204 includes/calendar-class.php:208
+#: views/widgets.php:166
+msgid "Month"
+msgstr "月"
+
+#: includes/calendar-class.php:212 views/widgets.php:167
+msgid "List"
+msgstr "列表"
+
+#: includes/calendar-class.php:216 views/widgets.php:168
+msgid "Week"
+msgstr "周"
+
+#: includes/calendar-class.php:220 views/widgets.php:169
+msgid "Day"
+msgstr "天"
+
+#: includes/calendar-class.php:443 includes/calendar-class.php:1035
+#: includes/calendar-class.php:1175 includes/ecwd-functions.php:383
+#: views/admin/ecwd-event-meta.php:78 views/ecwd-event-content.php:80
+#: views/ecwd-event-content.php:163 views/ecwd-event-popup.php:155
+#: views/ecwd-event-popup.php:253 views/related_events.php:54
+#: views/single-event.php:181 views/single-event.php:287
+msgid "All day"
+msgstr "全天"
+
+#: includes/calendar-class.php:520
+msgid "No Events"
+msgstr "没有活动"
+
+#: includes/calendar-class.php:1108
+msgid "More events"
+msgstr "更多活动"
+
+#: includes/calendar-class.php:1229
+msgid "No events"
+msgstr "没有活动"
+
+#: includes/ecwd-cpt-class.php:147
+msgid "Duplicate Event"
+msgstr "复制活动"
+
+#: includes/ecwd-cpt-class.php:261
+msgctxt "URL slug"
+msgid "venue"
+msgstr "地点"
+
+#: includes/ecwd-cpt-class.php:262
+msgctxt "URL slug"
+msgid "organizer"
+msgstr "组织者"
+
+#: includes/ecwd-cpt-class.php:266 includes/ecwd-cpt-class.php:268
+#: includes/ecwd-cpt-class.php:275 includes/ecwd-cpt-class.php:682
+msgid "Calendars"
+msgstr "日历"
+
+#: includes/ecwd-cpt-class.php:267 includes/ecwd-cpt-class.php:269
+#: includes/ecwd-cpt-class.php:507
+msgid "Calendar"
+msgstr "日历"
+
+#: includes/ecwd-cpt-class.php:270 includes/ecwd-cpt-class.php:271
+msgid "Add New Calendar"
+msgstr "添加新日历"
+
+#: includes/ecwd-cpt-class.php:272
+msgid "New Calendar"
+msgstr "新日历"
+
+#: includes/ecwd-cpt-class.php:273
+msgid "Edit Calendar"
+msgstr "编辑日历"
+
+#: includes/ecwd-cpt-class.php:274
+msgid "View Calendar"
+msgstr "查看日历"
+
+#: includes/ecwd-cpt-class.php:276
+msgid "Search Calendar"
+msgstr "搜索日历"
+
+#: includes/ecwd-cpt-class.php:277
+msgid "No Calendars found."
+msgstr "发现没有日历。"
+
+#: includes/ecwd-cpt-class.php:278
+msgid "No Calendars found in Trash."
+msgstr "回收站中未找到日历"
+
+#: includes/ecwd-cpt-class.php:304 includes/ecwd-cpt-class.php:686
+#: views/admin/import.php:27 views/admin/import.php:42
+#: views/ecwd-event-content.php:101 views/ecwd-event-popup.php:184
+#: views/single-event.php:217
+msgid "Organizers"
+msgstr "组织者"
+
+#: includes/ecwd-cpt-class.php:305 includes/ecwd-cpt-class.php:306
+msgid "Organizer"
+msgstr "组织者"
+
+#: includes/ecwd-cpt-class.php:307 includes/ecwd-cpt-class.php:347
+#: includes/ecwd-cpt-class.php:391
+msgid "Add New"
+msgstr "新增"
+
+#: includes/ecwd-cpt-class.php:308
+msgid "Add New Organizer"
+msgstr "新增组织者"
+
+#: includes/ecwd-cpt-class.php:309
+msgid "New Organizer"
+msgstr "新组织者"
+
+#: includes/ecwd-cpt-class.php:310
+msgid "Edit Organizer"
+msgstr "编辑组织者"
+
+#: includes/ecwd-cpt-class.php:311
+msgid "View Organizer"
+msgstr "查看组织者"
+
+#: includes/ecwd-cpt-class.php:312
+msgid "All Organizers"
+msgstr "所有组织者"
+
+#: includes/ecwd-cpt-class.php:313
+msgid "Search Organizer"
+msgstr "搜索组织者"
+
+#: includes/ecwd-cpt-class.php:314
+msgid "No Organizers found."
+msgstr "未发现组织者"
+
+#: includes/ecwd-cpt-class.php:315
+msgid "No Organizers found in Trash."
+msgstr "回收站中未发现组织者"
+
+#: includes/ecwd-cpt-class.php:345 includes/ecwd-cpt-class.php:346
+#: includes/ecwd-cpt-class.php:598
+msgid "Event"
+msgstr "活动"
+
+#: includes/ecwd-cpt-class.php:348
+msgid "Add New Event"
+msgstr "新增活动"
+
+#: includes/ecwd-cpt-class.php:349
+msgid "New Event"
+msgstr "新活动"
+
+#: includes/ecwd-cpt-class.php:350
+msgid "Edit Event"
+msgstr "编辑活动"
+
+#: includes/ecwd-cpt-class.php:351
+msgid "View Event"
+msgstr "查看活动"
+
+#: includes/ecwd-cpt-class.php:352
+msgid "All Events"
+msgstr "所有活动"
+
+#: includes/ecwd-cpt-class.php:353
+msgid "Search Event"
+msgstr "搜索活动"
+
+#: includes/ecwd-cpt-class.php:354
+msgid "No events found."
+msgstr "未找到活动"
+
+#: includes/ecwd-cpt-class.php:355
+msgid "No events found in Trash."
+msgstr "没有在回收站找到活动态"
+
+#: includes/ecwd-cpt-class.php:388 includes/texts.php:50
+#: views/admin/import.php:28 views/admin/import.php:43
+msgid "Venues"
+msgstr "地点"
+
+#: includes/ecwd-cpt-class.php:389 includes/ecwd-cpt-class.php:390
+#: views/ecwd-event-popup.php:196 views/single-event.php:229
+msgid "Venue"
+msgstr "地点"
+
+#: includes/ecwd-cpt-class.php:392
+msgid "Add New Venue"
+msgstr "添加新的地点"
+
+#: includes/ecwd-cpt-class.php:393
+msgid "New Venue"
+msgstr "新地点"
+
+#: includes/ecwd-cpt-class.php:394
+msgid "Edit Venue"
+msgstr "编辑地点"
+
+#: includes/ecwd-cpt-class.php:395
+msgid "View Venue"
+msgstr "查看地点"
+
+#: includes/ecwd-cpt-class.php:396
+msgid "All Venues"
+msgstr "所有地点"
+
+#: includes/ecwd-cpt-class.php:397
+msgid "Search Venue"
+msgstr "搜索地点"
+
+#: includes/ecwd-cpt-class.php:398
+msgid "No Venues found."
+msgstr "未找到地点"
+
+#: includes/ecwd-cpt-class.php:399
+msgid "No Venues found in Trash."
+msgstr "回收站中未发现地点"
+
+#: includes/ecwd-cpt-class.php:505
+msgid "calendar"
+msgstr "日历"
+
+#: includes/ecwd-cpt-class.php:510 includes/ecwd-cpt-class.php:551
+#, php-format
+msgid "%4$s updated."
+msgstr "%4$s 更新。"
+
+#: includes/ecwd-cpt-class.php:511 includes/ecwd-cpt-class.php:552
+#, php-format
+msgid "%4$s updated. "
+msgstr "%4$s 更新。"
+
+#: includes/ecwd-cpt-class.php:512 includes/ecwd-cpt-class.php:553
+#, php-format
+msgid "%4$s published."
+msgstr "%4$s 发布。"
+
+#: includes/ecwd-cpt-class.php:513 includes/ecwd-cpt-class.php:554
+#, php-format
+msgid "%4$s saved."
+msgstr "%4$s 保存。"
+
+#: includes/ecwd-cpt-class.php:514 includes/ecwd-cpt-class.php:555
+#, php-format
+msgid "%4$s submitted. "
+msgstr "%4$s 提交。"
+
+#: includes/ecwd-cpt-class.php:515 includes/ecwd-cpt-class.php:556
+#, php-format
+msgid "%4$s draft updated."
+msgstr "%4$s 草稿已更新。"
+
+#: includes/ecwd-cpt-class.php:546 includes/ecwd-cpt-class.php:548
+#: views/admin/ecwd-calendar-meta.php:100
+msgid "Theme"
+msgstr "主题"
+
+#: includes/ecwd-cpt-class.php:596
+msgid "event"
+msgstr "活动"
+
+#: includes/ecwd-cpt-class.php:601 includes/ecwd-cpt-class.php:602
+#, php-format
+msgid "%4$s updated. %1$sView %2$s%3$s"
+msgstr "%4$s 更新。%1$s查看%2$s%3$s"
+
+#: includes/ecwd-cpt-class.php:603
+#, php-format
+msgid "%4$s published. %1$sView %2$s%3$s"
+msgstr "%4$s 出版。%1$s查看%2$s%3$s"
+
+#: includes/ecwd-cpt-class.php:604
+#, php-format
+msgid "%4$s saved. %1$sView %2$s%3$s"
+msgstr "%4$s 保存。%1$s查看%2$s%3$s"
+
+#: includes/ecwd-cpt-class.php:605
+#, php-format
+msgid "%4$s submitted. %1$sView %2$s%3$s"
+msgstr "%4$s 提交。%1$s查看%2$s%3$s"
+
+#: includes/ecwd-cpt-class.php:606
+#, php-format
+msgid "%4$s draft updated. %1$sView %2$s%3$s"
+msgstr "%4$s 草案更新。%1$s查看%2$s%3$s"
+
+#: includes/ecwd-cpt-class.php:616
+msgid "Calendar Settings"
+msgstr "日历设置"
+
+#: includes/ecwd-cpt-class.php:690
+msgid "Event Settings"
+msgstr "活动设置"
+
+#: includes/ecwd-cpt-class.php:695
+msgid "Featured Image"
+msgstr "特色图像"
+
+#: includes/ecwd-cpt-class.php:732
+msgid "Calendar Theme Settings"
+msgstr "日历主题设置"
+
+#: includes/ecwd-cpt-class.php:834
+msgid "Venue Location"
+msgstr "地点位置"
+
+#: includes/ecwd-cpt-class.php:1114
+msgid "Calendar ID"
+msgstr "日历ID"
+
+#: includes/ecwd-cpt-class.php:1115 views/admin/ecwd-calendar-meta.php:27
+msgid "Calendar Shortcode"
+msgstr "Calendar短码"
+
+#: includes/ecwd-cpt-class.php:1125 views/admin/ecwd-event-meta.php:54
+msgid "Event Dates"
+msgstr "活动日期"
+
+#: includes/ecwd-cpt-class.php:1171
+msgctxt "taxonomy general name"
+msgid "Event Categories"
+msgstr "活动分类"
+
+#: includes/ecwd-cpt-class.php:1172
+msgctxt "taxonomy singular name"
+msgid "Event Category"
+msgstr "活动分类"
+
+#: includes/ecwd-cpt-class.php:1173
+msgid "Search Event Categories"
+msgstr "搜索活动分类"
+
+#: includes/ecwd-cpt-class.php:1174
+msgid "All Event Categories"
+msgstr "所有活动分类"
+
+#: includes/ecwd-cpt-class.php:1175
+msgid "Parent Category"
+msgstr "父系分类"
+
+#: includes/ecwd-cpt-class.php:1176
+msgid "Parent Category:"
+msgstr "父系分类："
+
+#: includes/ecwd-cpt-class.php:1177
+msgid "Edit Category"
+msgstr "编辑分类"
+
+#: includes/ecwd-cpt-class.php:1178
+msgid "Update Category"
+msgstr "更新分类"
+
+#: includes/ecwd-cpt-class.php:1179
+msgid "Add New Event Category"
+msgstr "新增活动分类"
+
+#: includes/ecwd-cpt-class.php:1180
+msgid "New Event Category Name"
+msgstr "新活动分类名称"
+
+#: includes/ecwd-cpt-class.php:1181
+msgid "Event Categories"
+msgstr "活动分类"
+
+#: includes/ecwd-cpt-class.php:1198
+msgid "Event Tags"
+msgstr "活动标签"
+
+#: includes/ecwd-cpt-class.php:1199
+msgid "Event Tag"
+msgstr "活动标签"
+
+#: includes/ecwd-cpt-class.php:1278 includes/ecwd-cpt-class.php:1296
+msgid "Icon"
+msgstr "图标 "
+
+#: includes/ecwd-cpt-class.php:1279
+msgid "Color"
+msgstr "颜色"
+
+#: includes/ecwd-cpt-filter.php:67 views/admin/ecwd-event-meta.php:56
+msgid "From"
+msgstr "从"
+
+#: includes/ecwd-cpt-filter.php:74 views/admin/ecwd-event-meta.php:63
+msgid "To"
+msgstr "到"
+
+#: includes/ecwd-event-class.php:188
+#, php-format
+msgid "%s year"
+msgstr "%s 年"
+
+#: includes/ecwd-event-class.php:188
+#, php-format
+msgid "%s years"
+msgstr "%s 年"
+
+#: includes/ecwd-event-class.php:189
+#, php-format
+msgid "%s month"
+msgstr "%s 月"
+
+#: includes/ecwd-event-class.php:189
+#, php-format
+msgid "%s months"
+msgstr "%s 月"
+
+#: includes/ecwd-event-class.php:190
+#, php-format
+msgid "%s week"
+msgstr "%s 周"
+
+#: includes/ecwd-event-class.php:190
+#, php-format
+msgid "%s weeks"
+msgstr "%s 周"
+
+#: includes/ecwd-event-class.php:191
+#, php-format
+msgid "%s day"
+msgstr "%s 天"
+
+#: includes/ecwd-event-class.php:191
+#, php-format
+msgid "%s days"
+msgstr "%s 天"
+
+#: includes/ecwd-event-class.php:192
+#, php-format
+msgid "%s hour"
+msgstr "%s 小时"
+
+#: includes/ecwd-event-class.php:192
+#, php-format
+msgid "%s hours"
+msgstr "%s 小时"
+
+#: includes/ecwd-event-class.php:193
+#, php-format
+msgid "%s min"
+msgstr "%s 分钟"
+
+#: includes/ecwd-event-class.php:193
+#, php-format
+msgid "%s mins"
+msgstr "%s 分钟"
+
+#: includes/ecwd-event-class.php:221
+msgctxt "human_time_diff"
+msgid ", "
+msgstr ", "
+
+#: includes/ecwd-functions.php:460 includes/texts.php:53
+msgid "DAYS"
+msgstr "天"
+
+#: includes/ecwd-functions.php:461 includes/texts.php:54
+msgid "HOURS"
+msgstr "时"
+
+#: includes/ecwd-functions.php:462 includes/texts.php:55
+msgid "MINUTES"
+msgstr "分"
+
+#: includes/ecwd-functions.php:463 includes/texts.php:56
+msgid "SECONDS"
+msgstr "秒"
+
+#: includes/notices.php:19 includes/notices.php:41
+msgid "Hey! How's It Going?"
+msgstr "嘿 ！它怎么了？"
+
+#: includes/notices.php:21 includes/notices.php:33 includes/notices.php:45
+msgid "Never show again"
+msgstr "永远不会再显示"
+
+#: includes/notices.php:28
+msgid "Leave A Review?"
+msgstr "发布评价？"
+
+#: includes/notices.php:29
+msgid ""
+"We hope you've enjoyed using Event Calendar WD! Would you consider leaving "
+"us a review on WordPress.org?"
+msgstr "我们希望你喜欢使用活动日历WD! 你会考虑给我们在Wordpress.org上评价吗?"
+
+#: includes/notices.php:30
+msgid "Sure! I'd love to!"
+msgstr "确定 ！我很乐意去 ！"
+
+#: includes/notices.php:31
+msgid "I've already left a review"
+msgstr "我已经评论了"
+
+#: includes/notices.php:32
+msgid "Maybe Later"
+msgstr "以后再说"
+
+#: includes/notices.php:42
+msgid ""
+"Thank you for using Events Calendar WD! We hope that you've found everything "
+"you need, but if you have any questions:"
+msgstr ""
+"感谢您使用活动日历 WD ！我们希望你已经找到了一切你所需要的但是如果你有任何问"
+"题︰"
+
+#: includes/notices.php:43
+msgid "Check out User Guide"
+msgstr "查阅用户指南"
+
+#: includes/notices.php:44
+msgid "Get Some Help"
+msgstr "获取帮助"
+
+#: includes/register-settings.php:18
+msgid "Cache has been deleted."
+msgstr "缓存中已被删除。"
+
+#: includes/register-settings.php:43
+msgid "Auto generated data has been deleted."
+msgstr "自动生成数据已被删除。"
+
+#: includes/register-settings.php:45
+msgid "Auto generated data has already deleted."
+msgstr "已删除自动生成的数据。"
+
+#: includes/register-settings.php:74
+msgid "Start tour"
+msgstr "进入新手引导"
+
+#: includes/register-settings.php:75
+msgid "Click to start tour."
+msgstr "点击进入新手引导，"
+
+#: includes/register-settings.php:82
+msgid "Clear auto generated data"
+msgstr "清除自动生成的数据"
+
+#: includes/register-settings.php:83
+msgid "Click to clear auto generated data"
+msgstr "单击以清除自动生成的数据"
+
+#: includes/register-settings.php:90
+msgid "TimeZone"
+msgstr "时区"
+
+#: includes/register-settings.php:91
+msgid ""
+"Use Continent/City format, e.g. Europe/Berlin. If left empty, the server "
+"timezone will be used (if set in php settings), otherwise default Europe/"
+"Berlin"
+msgstr ""
+"使用国家/城市格式，例如 欧洲/柏林。 如果留空，将使用服务器时区（如果在php设置"
+"中设置），否则默认为欧洲/柏林"
+
+#: includes/register-settings.php:97
+msgid "Date format"
+msgstr "日期格式"
+
+#: includes/register-settings.php:98
+msgid "Set the format for displaying event dates. Ex Y-m-d or Y/m/d"
+msgstr "设置显示活动日期的格式。 例如 Y-m-d或Y / m / d"
+
+#: includes/register-settings.php:104
+msgid "Time format"
+msgstr "时间格式"
+
+#: includes/register-settings.php:105
+msgid "Set the format for displaying event time. Ex H:i or H/i"
+msgstr "设置显示活动时间的格式。 例如 H：i或H / i"
+
+#: includes/register-settings.php:111
+msgid "Show AM/PM"
+msgstr "显示上午/下午"
+
+#: includes/register-settings.php:112
+msgid "Select the time format type"
+msgstr "选择时间格式类型"
+
+#: includes/register-settings.php:118
+msgid "List,Week,Day views day format"
+msgstr "列表，周，天预览格式"
+
+#: includes/register-settings.php:119
+msgid "Note: Changed date format will not be translatable"
+msgstr "注意：更改日期格式不能翻译"
+
+#: includes/register-settings.php:126
+msgid "Week start day"
+msgstr "每周开始日期"
+
+#: includes/register-settings.php:127
+msgid "Define the starting day for the week."
+msgstr "定义一周的开始日期。"
+
+#: includes/register-settings.php:133
+msgid "Enable rewrite"
+msgstr "启用重写"
+
+#: includes/register-settings.php:135
+msgid "Check yes to enable event(s) url rewrite rule."
+msgstr "选中是以启用活动url重写规则。"
+
+#: includes/register-settings.php:141
+msgid "Order of Organizers and Venues by"
+msgstr "组织者和场地的顺序"
+
+#: includes/register-settings.php:142
+msgid "Select Order of Organizers and Venues."
+msgstr "选择主办方和场地的顺序。"
+
+#: includes/register-settings.php:147
+msgid "Enable Social Icons"
+msgstr "启用社交图标"
+
+#: includes/register-settings.php:148
+msgid "Check to display social icons in event, organizer and venue pages."
+msgstr "选中以在活动，组织者和场地页面中显示社交图标。"
+
+#: includes/register-settings.php:153
+msgid "Apply category color to event title in event page"
+msgstr "在活动页面中将类别颜色应用于活动标题"
+
+#: includes/register-settings.php:160
+msgid "Enable Category and Tags"
+msgstr "启用类别和标签"
+
+#: includes/register-settings.php:161
+msgid "Check to display category and Tags."
+msgstr "选中以显示类别和标签。"
+
+#: includes/register-settings.php:166
+msgid "Grab the first post image"
+msgstr "抓取第一个文章图片"
+
+#: includes/register-settings.php:176
+msgid "Order of events archive page"
+msgstr "活动归档页面顺序"
+
+#: includes/register-settings.php:177
+msgid "Sort by event start"
+msgstr "按活动开始排序"
+
+#: includes/register-settings.php:184
+msgid "Enable sidebar in event page"
+msgstr "启用在活动页侧边栏"
+
+#: includes/register-settings.php:190
+msgid "Description for events."
+msgstr "活动的说明。"
+
+#: includes/register-settings.php:191
+msgid "No additional detail for this event."
+msgstr "没有为此活动的附加详细信息。"
+
+#: includes/register-settings.php:192
+msgid "Define the default text for empty events description."
+msgstr "定义空事件描述的默认文本。"
+
+#: includes/register-settings.php:198
+msgid "Show event date in the events list page"
+msgstr "在活动列表页面中显示活动日期"
+
+#: includes/register-settings.php:205
+msgid "Mark all days of multi-day event"
+msgstr "标记所有天的多天活动"
+
+#: includes/register-settings.php:212
+msgid "Related events count"
+msgstr "相关的活动计数"
+
+#: includes/register-settings.php:219
+msgid "Display Events in popup"
+msgstr "在弹出窗口中显示活动"
+
+#: includes/register-settings.php:220
+msgid "Check to display events in popup."
+msgstr "选中以在弹出窗口中显示活动。"
+
+#: includes/register-settings.php:225
+msgid "Events slug"
+msgstr "活动slug"
+
+#: includes/register-settings.php:227
+msgid "Define the slug for the events list page."
+msgstr "定义事件列表页面的slug。"
+
+#: includes/register-settings.php:233
+msgid "Single Event slug"
+msgstr "单个活动slug"
+
+#: includes/register-settings.php:235
+msgid "Define the slug for the single event page."
+msgstr "定义单个活动页面slug。"
+
+#: includes/register-settings.php:241
+msgid "Enable comments for events"
+msgstr "为活动启用评论"
+
+#: includes/register-settings.php:242
+msgid "Check to enable commenting."
+msgstr "选中以启用评论。"
+
+#: includes/register-settings.php:247
+msgid "Include events in main loop"
+msgstr "在主循环中包含活动"
+
+#: includes/register-settings.php:248
+msgid "Check to display events within website post list in main pages."
+msgstr "选中以在主页面的网站文章列表中显示活动。"
+
+#: includes/register-settings.php:253
+msgid "Show events detail on hover"
+msgstr "在悬停上显示活动详细信息"
+
+#: includes/register-settings.php:260
+msgid "Open events in new tab"
+msgstr "在新标签页中打开活动"
+
+#: includes/register-settings.php:267
+msgid "Show related events in the event page"
+msgstr "在活动页面中显示相关活动"
+
+#: includes/register-settings.php:276
+msgid "Events category slug"
+msgstr "活动分类slug"
+
+#: includes/register-settings.php:284
+msgid "Display Description"
+msgstr "显示描述"
+
+#: includes/register-settings.php:291
+msgid "Display Image"
+msgstr "显示图象"
+
+#: includes/register-settings.php:300
+msgid "Custom css"
+msgstr "自定义CSS"
+
+#: includes/register-settings.php:310
+msgid "Get key"
+msgstr "获取密钥"
+
+#: includes/register-settings.php:318
+msgid "API key"
+msgstr "API 密钥"
+
+#: includes/register-settings.php:333 includes/register-settings.php:373
+msgid "Show the repeat rate"
+msgstr "显示重复率"
+
+#: includes/register-settings.php:334 includes/register-settings.php:374
+msgid "Check to show the repeat rate in event page ."
+msgstr "选中以在活动页中显示重复率。"
+
+#: includes/register-settings.php:339
+msgid "Add fixed height for events in posterboard view"
+msgstr "在广告牌视图中为活动添加固定高度"
+
+#: includes/register-settings.php:346
+msgid "Period for List view"
+msgstr "列表视图的周期"
+
+#: includes/register-settings.php:347
+msgid "Period for showing events"
+msgstr "显示活动的时间段"
+
+#: includes/register-settings.php:355
+msgid "Satellite Gmap Type"
+msgstr "卫星地图类型"
+
+#: includes/register-settings.php:362
+msgid "Open Google map when Marker is clicked"
+msgstr "打开Google地图点击标记"
+
+#: includes/register-settings.php:827
+#, php-format
+msgid ""
+"The callback function used for the <strong>%s</strong> setting is missing."
+msgstr "缺少用于<strong>%s</strong>设置的回调函数。"
+
+#: includes/texts.php:2 views/admin/ecwd-event-meta.php:339
+msgid "January"
+msgstr "一月"
+
+#: includes/texts.php:3 views/admin/ecwd-event-meta.php:341
+msgid "February"
+msgstr "二月"
+
+#: includes/texts.php:4 views/admin/ecwd-event-meta.php:343
+msgid "March"
+msgstr "三月"
+
+#: includes/texts.php:5 views/admin/ecwd-event-meta.php:345
+msgid "April"
+msgstr "四月"
+
+#: includes/texts.php:6 views/admin/ecwd-event-meta.php:347
+msgid "May"
+msgstr "五月"
+
+#: includes/texts.php:7 views/admin/ecwd-event-meta.php:349
+msgid "June"
+msgstr "六月"
+
+#: includes/texts.php:8 views/admin/ecwd-event-meta.php:351
+msgid "July"
+msgstr "七月"
+
+#: includes/texts.php:9 views/admin/ecwd-event-meta.php:353
+msgid "August"
+msgstr "八月"
+
+#: includes/texts.php:10 views/admin/ecwd-event-meta.php:355
+msgid "September"
+msgstr "九月"
+
+#: includes/texts.php:11 views/admin/ecwd-event-meta.php:357
+msgid "October"
+msgstr "十月"
+
+#: includes/texts.php:12 views/admin/ecwd-event-meta.php:359
+msgid "November"
+msgstr "十一月"
+
+#: includes/texts.php:13 views/admin/ecwd-event-meta.php:361
+msgid "December"
+msgstr "十二月"
+
+#: includes/texts.php:15 views/admin/ecwd-event-meta.php:271
+#: views/admin/ecwd-event-meta.php:330 views/admin/ecwd-event-meta.php:416
+msgid "Sunday"
+msgstr "星期天"
+
+#: includes/texts.php:16 views/admin/ecwd-event-meta.php:198
+#: views/admin/ecwd-event-meta.php:318 views/admin/ecwd-event-meta.php:404
+msgid "Monday"
+msgstr "星期一"
+
+#: includes/texts.php:17 views/admin/ecwd-event-meta.php:210
+#: views/admin/ecwd-event-meta.php:320 views/admin/ecwd-event-meta.php:406
+msgid "Tuesday"
+msgstr "星期二"
+
+#: includes/texts.php:18 views/admin/ecwd-event-meta.php:223
+#: views/admin/ecwd-event-meta.php:322 views/admin/ecwd-event-meta.php:408
+msgid "Wednesday"
+msgstr "星期三"
+
+#: includes/texts.php:19 views/admin/ecwd-event-meta.php:235
+#: views/admin/ecwd-event-meta.php:324 views/admin/ecwd-event-meta.php:410
+msgid "Thursday"
+msgstr "星期四"
+
+#: includes/texts.php:20 views/admin/ecwd-event-meta.php:247
+#: views/admin/ecwd-event-meta.php:326 views/admin/ecwd-event-meta.php:412
+msgid "Friday"
+msgstr "星期五"
+
+#: includes/texts.php:21 views/admin/ecwd-event-meta.php:259
+#: views/admin/ecwd-event-meta.php:328 views/admin/ecwd-event-meta.php:414
+msgid "Saturday"
+msgstr "星期六"
+
+#: includes/texts.php:25
+msgid "Sun"
+msgstr "周日"
+
+#: includes/texts.php:26
+msgid "Mon"
+msgstr "周一"
+
+#: includes/texts.php:27
+msgid "Tue"
+msgstr "周二"
+
+#: includes/texts.php:28
+msgid "Wed"
+msgstr "周三"
+
+#: includes/texts.php:29
+msgid "Thu"
+msgstr "周四"
+
+#: includes/texts.php:30
+msgid "Fri"
+msgstr "周五"
+
+#: includes/texts.php:31
+msgid "Sat"
+msgstr "周六"
+
+#: includes/texts.php:34
+msgid "Su"
+msgstr "周日"
+
+#: includes/texts.php:35
+msgid "Mo"
+msgstr "周一"
+
+#: includes/texts.php:36
+msgid "Tu"
+msgstr "周二"
+
+#: includes/texts.php:37
+msgid "We"
+msgstr "周三"
+
+#: includes/texts.php:38
+msgid "Th"
+msgstr "周四"
+
+#: includes/texts.php:39
+msgid "Fr"
+msgstr "周五"
+
+#: includes/texts.php:40
+msgid "Sa"
+msgstr "周六"
+
+#: includes/texts.php:44
+msgid "Show Filters"
+msgstr "显示筛选器"
+
+#: includes/texts.php:45
+msgid "Collapse Filters"
+msgstr "折叠筛选器"
+
+#: includes/texts.php:46
+msgid "Reset Filters"
+msgstr "重置筛选器"
+
+#: includes/texts.php:48
+msgid "Days"
+msgstr "天"
+
+#: includes/texts.php:49
+msgid "Categories"
+msgstr "分类"
+
+#: includes/texts.php:57
+msgid "The event has just started"
+msgstr "该活动只被开始"
+
+#: includes/texts.php:60 views/admin/ecwd-event-meta.php:161
+msgid "Repeat every"
+msgstr "每重复"
+
+#: includes/texts.php:61
+msgid "Repeat every day"
+msgstr "每天重复"
+
+#: includes/texts.php:62
+msgid "Repeat every week"
+msgstr "每周重复"
+
+#: includes/texts.php:63
+msgid "Repeat every month"
+msgstr "每月重复"
+
+#: includes/texts.php:64
+msgid "Repeat every year"
+msgstr "每年重复"
+
+#: includes/texts.php:66
+msgid "days"
+msgstr "天"
+
+#: includes/texts.php:67
+msgid "weeks"
+msgstr "周"
+
+#: includes/texts.php:68
+msgid "months"
+msgstr "月"
+
+#: includes/texts.php:69
+msgid "years"
+msgstr "年"
+
+#: includes/texts.php:70
+msgid "until"
+msgstr "直到"
+
+#: includes/texts.php:72
+msgid "Sundays"
+msgstr "星期天"
+
+#: includes/texts.php:73
+msgid "Mondays"
+msgstr "星期一"
+
+#: includes/texts.php:74
+msgid "Tuesdays"
+msgstr "星期二"
+
+#: includes/texts.php:75
+msgid "Wednesdays"
+msgstr "星期三"
+
+#: includes/texts.php:76
+msgid "Thursdays"
+msgstr "星期四"
+
+#: includes/texts.php:77
+msgid "Fridays"
+msgstr "星期五"
+
+#: includes/texts.php:78
+msgid "Saturdays"
+msgstr "星期六"
+
+#: includes/texts.php:80 views/single-event.php:155
+msgid "Back"
+msgstr "返回"
+
+#: views/admin/ecwd-calendar-meta.php:24
+msgid "Preview"
+msgstr "预览 "
+
+#: views/admin/ecwd-calendar-meta.php:24 views/admin/ecwd-calendar-meta.php:80
+msgid "Add Event"
+msgstr "增加活动"
+
+#: views/admin/ecwd-calendar-meta.php:31
+msgid ""
+"Copy and paste this shortcode to display this Calendar event on any post or "
+"page."
+msgstr "复制并粘贴此简码在任何文章或页面上显示此日历事件。"
+
+#: views/admin/ecwd-calendar-meta.php:77
+msgid "Select Events from the list"
+msgstr "从列表中选择活动"
+
+#: views/admin/ecwd-calendar-meta.php:112
+msgid "Upgrade to Pro for more themes."
+msgstr "升级到专业版更多的主题。"
+
+#: views/admin/ecwd-event-cat-meta.php:4 views/admin/ecwd-event-cat-meta.php:31
+msgid "Image"
+msgstr "图像 "
+
+#: views/admin/ecwd-event-cat-meta.php:11
+#: views/admin/ecwd-event-cat-meta.php:34
+msgid "Upload/Add image"
+msgstr "上传/添加图像"
+
+#: views/admin/ecwd-event-cat-meta.php:13
+msgid "Remove image"
+msgstr "删除图片"
+
+#: views/admin/ecwd-event-cat-meta.php:20
+#: views/admin/ecwd-event-cat-meta.php:37
+msgid "Category color"
+msgstr "分类颜色"
+
+#: views/admin/ecwd-event-cat-meta.php:26
+msgid "Choose the color"
+msgstr "选择颜色"
+
+#: views/admin/ecwd-event-meta.php:84
+msgid ""
+"Fill in the starting and ending dates and time of the event. If the event "
+"lasts entire day, check the box on the right."
+msgstr "填写活动的开始和结束日期和时间。 如果活动持续整天，请选中右侧的框。"
+
+#: views/admin/ecwd-event-meta.php:91 views/admin/ecwd-event-meta.php:446
+msgid "Repeat rate"
+msgstr "重复速率"
+
+#: views/admin/ecwd-event-meta.php:105
+msgid "Don't repeat"
+msgstr "不重复"
+
+#: views/admin/ecwd-event-meta.php:115
+msgid "Daily"
+msgstr "每日"
+
+#: views/admin/ecwd-event-meta.php:127
+msgid "Weekly"
+msgstr "每周"
+
+#: views/admin/ecwd-event-meta.php:142
+msgid "Monthly"
+msgstr "每月"
+
+#: views/admin/ecwd-event-meta.php:155
+msgid "Yearly"
+msgstr "每年"
+
+#: views/admin/ecwd-event-meta.php:167
+msgid "day(s)"
+msgstr "天"
+
+#: views/admin/ecwd-event-meta.php:172
+msgid "weeks(s)"
+msgstr "周 (s)"
+
+#: views/admin/ecwd-event-meta.php:173
+msgid "on "
+msgstr "在"
+
+#: views/admin/ecwd-event-meta.php:177
+msgid "month(s)"
+msgstr "月"
+
+#: views/admin/ecwd-event-meta.php:181
+msgid "year(s) in "
+msgstr "年份"
+
+#: views/admin/ecwd-event-meta.php:284 views/admin/ecwd-event-meta.php:370
+msgid "On the same day"
+msgstr "在同一天"
+
+#: views/admin/ecwd-event-meta.php:301 views/admin/ecwd-event-meta.php:387
+msgid "On the: "
+msgstr "在"
+
+#: views/admin/ecwd-event-meta.php:305 views/admin/ecwd-event-meta.php:391
+msgid "First"
+msgstr "第一"
+
+#: views/admin/ecwd-event-meta.php:307 views/admin/ecwd-event-meta.php:393
+msgid "Second"
+msgstr "第二"
+
+#: views/admin/ecwd-event-meta.php:309 views/admin/ecwd-event-meta.php:395
+msgid "Third"
+msgstr "第三"
+
+#: views/admin/ecwd-event-meta.php:311 views/admin/ecwd-event-meta.php:397
+msgid "Fourth"
+msgstr "第四"
+
+#: views/admin/ecwd-event-meta.php:313 views/admin/ecwd-event-meta.php:399
+msgid "Last"
+msgstr "最后"
+
+#: views/admin/ecwd-event-meta.php:426
+msgid "Repeat until"
+msgstr "重复直到"
+
+#: views/admin/ecwd-event-meta.php:438
+msgid "Specify the repeating rate of the event."
+msgstr "指定活动的重复速率。"
+
+#: views/admin/ecwd-event-meta.php:448
+msgid "Upgrade to Pro version"
+msgstr "升级成专业版"
+
+#: views/admin/ecwd-event-meta.php:453
+msgid "Event Venue"
+msgstr "活动场地"
+
+#: views/admin/ecwd-event-meta.php:473
+msgid "Select the venue of the event."
+msgstr "选择活动的地点。"
+
+#: views/admin/ecwd-event-meta.php:477
+msgid "There is no venue added yet"
+msgstr "还有尚未添加任何地点"
+
+#: views/admin/ecwd-event-meta.php:482
+msgid "Event Location"
+msgstr "活动地点"
+
+#: views/admin/ecwd-event-meta.php:514
+msgid ""
+"If venue is not specified you can fill in the address of the event location "
+"or click on the map to drag and drop the marker to the event location."
+msgstr ""
+"如果没有指定地点，您可以填写活动地点的地址，或者点击地图将标记拖放到活动地"
+"点。"
+
+#: views/admin/ecwd-event-meta.php:519
+msgid "Show map in event page"
+msgstr "在活动页面中显示地图"
+
+#: views/admin/ecwd-event-meta.php:529
+msgid "Event URL"
+msgstr "活动链接"
+
+#: views/admin/ecwd-event-meta.php:535
+msgid "Provide a custom URL which will display event details."
+msgstr "提供将显示活动详细信息的自定义网址。"
+
+#: views/admin/ecwd-event-meta.php:540
+msgid "Event Video URL"
+msgstr "活动视频链接"
+
+#: views/admin/ecwd-event-meta.php:546
+msgid "Provide Youtube or Vimeo URL of the video to accompany the event."
+msgstr "提供Youtube或Vimeo视频的链接以配合活动。"
+
+#: views/admin/ecwd-event-organizers-meta.php:37
+msgid "Add organizer"
+msgstr "新增组织者"
+
+#: views/admin/ecwd-featured-themes.php:213
+msgid ""
+"Business Elite is a robust parallax theme for business websites. The theme "
+"uses smooth transitions and many functional sections."
+msgstr ""
+"Business Elite是一个强大的视差主题的商业网站。 主题使用平滑过渡和许多功能部"
+"分。"
+
+#: views/admin/ecwd-featured-themes.php:220
+msgid ""
+"Portfolio Gallery helps to display images using various color schemes and "
+"layouts combined with elegant fonts and content parts."
+msgstr ""
+"作品图库有助于使用各种配色方案和布局以及优雅的字体和内容部分来显示图像。"
+
+#: views/admin/ecwd-featured-themes.php:227
+msgid ""
+"Sauron is a multipurpose parallax theme, which uses multiple interactive "
+"sections designed for the client-engagement."
+msgstr "Sauron是一个多用途视差主题，它使用多个交互部分设计用于客户互动。"
+
+#: views/admin/ecwd-featured-themes.php:234
+msgid ""
+"Business World is an innovative WordPress theme great for Business websites."
+msgstr "Business World是一个创新的WordPress主题伟大的商业网站。"
+
+#: views/admin/ecwd-featured-themes.php:241
+msgid ""
+"Best Magazine is an ultimate selection when you are dealing with multi-"
+"category news websites."
+msgstr "Best Magazine是一个终极的选择，当你在处理多类别的新闻网站。"
+
+#: views/admin/ecwd-featured-themes.php:248
+msgid ""
+"Magazine theme is a perfect solution when creating news and informational "
+"websites. It comes with a wide range of layout options."
+msgstr ""
+"Magazine theme是创建新闻和信息网站时的完美解决方案。 它提供了广泛的布局选项。"
+
+#: views/admin/ecwd-featured-themes.php:258
+msgid "Featured Themes"
+msgstr "特色主题"
+
+#: views/admin/ecwd-featured-themes.php:262
+msgid "WORDPRESS THEMES"
+msgstr "WordPress 主题"
+
+#: views/admin/ecwd-featured-themes.php:263
+msgid "ALL FOR $40 ONLY "
+msgstr "所有为仅要40美元"
+
+#: views/admin/ecwd-featured-themes.php:263
+msgid "SAVE 80%"
+msgstr "节省 80%"
+
+#: views/admin/ecwd-featured-themes.php:265
+msgid "TRY NOW"
+msgstr "现在试试"
+
+#: views/admin/ecwd-featured-themes.php:282
+msgid "Demo"
+msgstr "演示"
+
+#: views/admin/ecwd-featured-themes.php:283
+msgid "Free Download"
+msgstr "免费下载"
+
+#: views/admin/ecwd-venue-meta.php:44
+msgid ""
+"Fill in the address of the venue or click on the map to drag and drop the "
+"marker to a specific location"
+msgstr "填写场地地址或点击地图将标记拖放到特定位置"
+
+#: views/admin/import.php:32
+msgid "Choose csv file"
+msgstr "选择csv文件"
+
+#: views/admin/import.php:34
+msgid "Import"
+msgstr "导入"
+
+#: views/admin/import.php:47
+msgid "Download Export File"
+msgstr "下载导出文件"
+
+#: views/ecwd-event-content.php:71 views/ecwd-event-content.php:158
+#: views/ecwd-event-popup.php:145 views/ecwd-event-popup.php:248
+#: views/single-event.php:171 views/single-event.php:282
+msgid "Date"
+msgstr "日期"
+
+#: views/ecwd-event-content.php:95 views/ecwd-event-popup.php:177
+#: views/single-event.php:210
+msgid "Url"
+msgstr "链接"
+
+#: views/ecwd-event-popup.php:206 views/single-event.php:240
+msgid "Location"
+msgstr "地点"
+
+#: views/taxonomy-ecwd_event_category.php:43
+msgid "Previous page"
+msgstr "上一页"
+
+#: views/taxonomy-ecwd_event_category.php:44
+msgid "Next page"
+msgstr "下一页"
+
+#: views/widgets.php:18
+msgid "Descr"
+msgstr "描述"
+
+#: views/widgets.php:62
+msgid ""
+"No valid Event IDs have been entered for this widget. Please check that you "
+"have entered the IDs correctly in the widget settings (Appearance > "
+"Widgets), and that the Events have not been deleted."
+msgstr ""
+"未为此窗口小部件输入有效的活动ID。 请检查您是否已在小部件设置（外观>窗口小部"
+"件）中正确输入ID，并且尚未删除活动。"
+
+#: views/widgets.php:94
+msgid "You have not added any events yet."
+msgstr "尚未添加任何事件。"
+
+#: views/widgets.php:127
+msgid "There are no calendars created yet."
+msgstr "没有尚未创建的日历。"
+
+#: views/widgets.php:128
+msgid "Add your first calendar!"
+msgstr "添加您的第一个日历 ！"
+
+#: views/widgets.php:146
+msgid "Title:"
+msgstr "标题："
+
+#: views/widgets.php:151
+msgid "Calendar to display"
+msgstr "要显示的日程"
+
+#: views/widgets.php:164
+msgid "Display Events as:"
+msgstr "显示事件为︰"
+
+#: views/widgets.php:173
+msgid "Events per page in list view:"
+msgstr "每页显示在列表视图中的事件︰"
+
+#. Plugin URI of the plugin/theme
+msgid "https://web-dorado.com/products/wordpress-event-calendar-wd.html"
+msgstr "https://web-dorado.com/products/wordpress-event-calendar-wd.html"
+
+#. Description of the plugin/theme
+msgid ""
+"Event Calendar WD is an easy event management and planning tool with "
+"advanced features."
+msgstr "活动日历 WD 是容易活动管理和规划工具的高级功能。"
+
+#. Author of the plugin/theme
+msgid "WebDorado"
+msgstr "WebDorado"
+
+#. Author URI of the plugin/theme
+msgid "http://web-dorado.com"
+msgstr "http://web-dorado.com"

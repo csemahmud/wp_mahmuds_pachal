@@ -1,0 +1,105 @@
+.slider-licens {
+    font-family: 'Roboto', sans-serif;
+}
+
+.slider-licens .slider-block {
+    display: flex;
+    justify-content: center;
+    flex-flow: row wrap;
+    padding-top: 50px;
+}
+
+
+.slider-licens .slider-block .licens {
+    width: 324px;
+    height: 115px;
+    background-color: #00508a;
+    border-radius: 3px;
+    background-image: url(../images/sprite.png);
+    background-position: -37px -78px;
+    position: relative;
+    margin: 0 7px;
+    margin-bottom: 14px;
+}
+
+.slider-licens .slider-block .licens a {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    flex-flow: row wrap;
+}
+
+.slider-licens .slider-block .licens:hover {
+    box-shadow: 0px 0px 5px 3px rgba(0, 0, 0, 0.25);
+}
+
+.slider-licens .slider-block .licens .icon {
+    background-image: url(../images/sprite.png);
+}
+
+.slider-licens .slider-block .licens .text {
+    color: #fff;
+    font-size: 19px;
+    text-transform: uppercase;
+    width: 100%;
+    text-align: center;
+    position: absolute;
+    bottom: 20px;
+}
+
+.slider-licens .slider-block .licens .post-slider {
+    width: 49px;
+    height: 49px;
+    background-position: -31px -555px;
+    margin-top: 19px;
+}
+
+.slider-licens .slider-block .licens .youtube {
+    width: 73px;
+    height: 51px;
+    background-position: -97px -554px;
+    margin-top: 17px;
+}
+
+.slider-licens .slider-block .licens .vimeo {
+    width: 60px;
+    height: 52px;
+    background-position: -190px -552px;
+    margin-top: 16px;
+}
+
+.slider-licens .slider-block .licens .advanced {
+    width: 54px;
+    height: 54px;
+    background-position: -262px -550px;
+    margin-top: 15px;
+}
+
+.slider-licens .slider-block .licens .full-option {
+    width: 63px;
+    height: 46px;
+    background-position: -331px -557px;
+    margin-top: 22px;
+}
+
+.slider-licens .slider-block .licens .description {
+    width: 67px;
+    height: 48px;
+    background-position: -409px -556px;
+    margin-top: 19px;
+}
+
+.slider-licens .slider-block .licens .slider-arrow {
+    width: 81px;
+    height: 58px;
+    background-position: -531px -649px;
+    margin-top: 13px;
+}
+
+.slider-licens .slider-block .licens .design {
+    width: 57px;
+    height: 52px;
+    background-position: -661px -651px;
+    margin-top: 16px;
+}

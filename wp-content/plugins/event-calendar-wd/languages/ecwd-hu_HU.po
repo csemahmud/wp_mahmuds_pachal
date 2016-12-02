@@ -1,0 +1,1495 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Event Calendar WD v1.0.22\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-06-15 12:22+0400\n"
+"Last-Translator: szabolcs <sz.egerhazi@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Language: hu_HU\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ ecwd
+#: ecwd_admin_class.php:93 ecwd_admin_class.php:470
+msgid "Settings"
+msgstr "Beállítások"
+
+# @ ecwd
+#: ecwd_admin_class.php:101
+msgid "Licensing"
+msgstr "Licencelés"
+
+# @ ecwd
+#: ecwd_admin_class.php:107
+msgid "Featured plugins"
+msgstr "Ajánlott bővítmények"
+
+# @ ecwd
+#: ecwd_admin_class.php:113
+msgid "Featured themes"
+msgstr "Ajánlott sablonok"
+
+# @ ecwd
+#: ecwd_admin_class.php:119
+msgid "Calendar Add-ons"
+msgstr "Naptár kiegészítők"
+
+# @ ecwd
+#: ecwd_admin_class.php:125
+msgid "Calendar Themes"
+msgstr "Naptár sablonok"
+
+# @ ecwd
+#: ecwd_admin_class.php:464 views/widgets.php:19
+msgid "Event Calendar WD"
+msgstr "Esemény naptár WD"
+
+# @ ecwd
+#: ecwd_admin_class.php:471 includes/ecwd-cpt-class.php:296
+#: views/admin/ecwd-calendar-meta.php:61 views/admin/ecwd-calendar-meta.php:89
+#: views/admin/import.php:26 views/admin/import.php:41
+msgid "Events"
+msgstr "Események"
+
+# @ ecwd
+#: ecwd_class.php:55
+msgid "Could not load the localization file: "
+msgstr "Nem sikerült betölteni a lokalizációs fájlt"
+
+# @ ecwd
+#: includes/calendar-class.php:186 includes/calendar-class.php:187
+#: views/widgets.php:168
+msgid "Month"
+msgstr "Hónap"
+
+# @ ecwd
+#: includes/calendar-class.php:188 views/widgets.php:169
+msgid "List"
+msgstr "Eseménylista"
+
+# @ ecwd
+#: includes/calendar-class.php:190
+msgid "Week"
+msgstr "Hét"
+
+# @ ecwd
+#: includes/calendar-class.php:194
+msgid "Day"
+msgstr "Nap"
+
+# @ ecwd
+#: includes/calendar-class.php:421 includes/calendar-class.php:1023
+#: includes/calendar-class.php:1177 includes/ecwd-functions.php:367
+#: views/ecwd-event-content.php:80 views/ecwd-event-content.php:162
+#: views/ecwd-organizer-content.php:146 views/ecwd-venue-content.php:178
+#: views/single-event.php:172 views/single-event.php:277
+#: views/single-event.php:515
+msgid "All day"
+msgstr "Összes nap"
+
+# @ ecwd
+#: includes/calendar-class.php:494
+msgid "No Events"
+msgstr "Nincs esemény"
+
+# @ ecwd
+#: includes/calendar-class.php:1103
+msgid "More events"
+msgstr "Több esemény"
+
+# @ ecwd
+#: includes/calendar-class.php:1233
+msgid "No events"
+msgstr "Nincsenek események"
+
+# @ ecwd
+#: includes/ecwd-cpt-class.php:96
+msgid "Duplicate Event"
+msgstr "Esemény duplikálása"
+
+# @ ecwd
+#: includes/ecwd-cpt-class.php:213
+msgctxt "URL slug"
+msgid "venue"
+msgstr "Helyszín"
+
+# @ ecwd
+#: includes/ecwd-cpt-class.php:214
+msgctxt "URL slug"
+msgid "organizer"
+msgstr "Esemény szerző"
+
+# @ ecwd
+#: includes/ecwd-cpt-class.php:218 includes/ecwd-cpt-class.php:220
+#: includes/ecwd-cpt-class.php:626
+msgid "Calendars"
+msgstr "Naptárak"
+
+# @ ecwd
+#: includes/ecwd-cpt-class.php:219 includes/ecwd-cpt-class.php:221
+#: includes/ecwd-cpt-class.php:446
+msgid "Calendar"
+msgstr "Naptár"
+
+# @ ecwd
+#: includes/ecwd-cpt-class.php:222 includes/ecwd-cpt-class.php:223
+msgid "Add New Calendar"
+msgstr "Új naptár hozzáadása"
+
+# @ ecwd
+#: includes/ecwd-cpt-class.php:224
+msgid "New Calendar"
+msgstr "Új naptár"
+
+# @ ecwd
+#: includes/ecwd-cpt-class.php:225
+msgid "Edit Calendar"
+msgstr "Naptár szerkesztése"
+
+# @ ecwd
+#: includes/ecwd-cpt-class.php:226
+msgid "View Calendar"
+msgstr "Naptár megtekintése"
+
+# @ ecwd
+#: includes/ecwd-cpt-class.php:227
+msgid "All Calendars"
+msgstr "Összes naptár"
+
+# @ ecwd
+#: includes/ecwd-cpt-class.php:228
+msgid "Search Calendar"
+msgstr "Naptár keresése"
+
+# @ ecwd
+#: includes/ecwd-cpt-class.php:229
+msgid "No Calendars found."
+msgstr "Nem találtam naptárt"
+
+# @ ecwd
+#: includes/ecwd-cpt-class.php:230
+msgid "No Calendars found in Trash."
+msgstr "Nem találtam naptárt a szemétben."
+
+# @ ecwd
+#: includes/ecwd-cpt-class.php:256 includes/ecwd-cpt-class.php:630
+#: views/admin/import.php:27 views/admin/import.php:42
+#: views/ecwd-event-content.php:101 views/single-event.php:208
+msgid "Organizers"
+msgstr "Szervezők"
+
+# @ ecwd
+#: includes/ecwd-cpt-class.php:257 includes/ecwd-cpt-class.php:258
+msgid "Organizer"
+msgstr "Szervező"
+
+# @ ecwd
+#: includes/ecwd-cpt-class.php:259 includes/ecwd-cpt-class.php:299
+#: includes/ecwd-cpt-class.php:343
+msgid "Add New"
+msgstr "Új hozzáadása"
+
+# @ ecwd
+#: includes/ecwd-cpt-class.php:260
+msgid "Add New Organizer"
+msgstr "Új szervező hozzáadása"
+
+# @ ecwd
+#: includes/ecwd-cpt-class.php:261
+msgid "New Organizer"
+msgstr "Új szervező"
+
+# @ ecwd
+#: includes/ecwd-cpt-class.php:262
+msgid "Edit Organizer"
+msgstr "Szervező szerkesztése"
+
+# @ ecwd
+#: includes/ecwd-cpt-class.php:263
+msgid "View Organizer"
+msgstr "Szervező megtekintése"
+
+# @ ecwd
+#: includes/ecwd-cpt-class.php:264
+msgid "All Organizers"
+msgstr "Összes szervező"
+
+# @ ecwd
+#: includes/ecwd-cpt-class.php:265
+msgid "Search Organizer"
+msgstr "Szervező keresése"
+
+# @ ecwd
+#: includes/ecwd-cpt-class.php:266
+msgid "No Organizers found."
+msgstr "Nem találtam szervezőt."
+
+# @ ecwd
+#: includes/ecwd-cpt-class.php:267
+msgid "No Organizers found in Trash."
+msgstr "Nem találtam törölt szervezőt."
+
+# @ ecwd
+#: includes/ecwd-cpt-class.php:297 includes/ecwd-cpt-class.php:298
+#: includes/ecwd-cpt-class.php:538
+msgid "Event"
+msgstr "Esemény"
+
+# @ ecwd
+#: includes/ecwd-cpt-class.php:300
+msgid "Add New Event"
+msgstr "Új esemény hozzáadása"
+
+# @ ecwd
+#: includes/ecwd-cpt-class.php:301
+msgid "New Event"
+msgstr "Új esemény"
+
+# @ ecwd
+#: includes/ecwd-cpt-class.php:302
+msgid "Edit Event"
+msgstr "Esemény szerkesztése"
+
+# @ ecwd
+#: includes/ecwd-cpt-class.php:303
+msgid "View Event"
+msgstr "Esemény megtekintése"
+
+# @ ecwd
+#: includes/ecwd-cpt-class.php:304
+msgid "All Events"
+msgstr "Összes esemény"
+
+# @ ecwd
+#: includes/ecwd-cpt-class.php:305
+msgid "Search Event"
+msgstr "Esemény keresése"
+
+# @ ecwd
+#: includes/ecwd-cpt-class.php:306
+msgid "No events found."
+msgstr "Nem találtam eseményt."
+
+# @ ecwd
+#: includes/ecwd-cpt-class.php:307
+msgid "No events found in Trash."
+msgstr "Nem találtam törölt eseményt."
+
+# @ ecwd
+#: includes/ecwd-cpt-class.php:340 includes/texts.php:50
+#: views/admin/import.php:28 views/admin/import.php:43
+msgid "Venues"
+msgstr "Helyszínek"
+
+# @ ecwd
+#: includes/ecwd-cpt-class.php:341 includes/ecwd-cpt-class.php:342
+#: views/single-event.php:220
+msgid "Venue"
+msgstr "Helyszín"
+
+# @ ecwd
+#: includes/ecwd-cpt-class.php:344
+msgid "Add New Venue"
+msgstr "Új helyszín hozzáadása"
+
+# @ ecwd
+#: includes/ecwd-cpt-class.php:345
+msgid "New Venue"
+msgstr "Új helyszín"
+
+# @ ecwd
+#: includes/ecwd-cpt-class.php:346
+msgid "Edit Venue"
+msgstr "Helyszín szerkesztése"
+
+# @ ecwd
+#: includes/ecwd-cpt-class.php:347
+msgid "View Venue"
+msgstr "Helyszín megtekintése"
+
+# @ ecwd
+#: includes/ecwd-cpt-class.php:348
+msgid "All Venues"
+msgstr "Összes helyszín"
+
+# @ ecwd
+#: includes/ecwd-cpt-class.php:349
+msgid "Search Venue"
+msgstr "Helyszín keresése"
+
+# @ ecwd
+#: includes/ecwd-cpt-class.php:350
+msgid "No Venues found."
+msgstr "Nem találtam helyszínt."
+
+# @ ecwd
+#: includes/ecwd-cpt-class.php:351
+msgid "No Venues found in Trash."
+msgstr "Nem találtam törölt helyszínt."
+
+# @ ecwd
+#: includes/ecwd-cpt-class.php:444
+msgid "calendar"
+msgstr "Naptár"
+
+# @ ecwd
+#: includes/ecwd-cpt-class.php:449 includes/ecwd-cpt-class.php:491
+#, php-format
+msgid "%4$s updated."
+msgstr "%4$s frissítve."
+
+# @ ecwd
+#: includes/ecwd-cpt-class.php:450 includes/ecwd-cpt-class.php:492
+#, php-format
+msgid "%4$s updated. "
+msgstr "%4$s frissítve. "
+
+# @ ecwd
+#: includes/ecwd-cpt-class.php:451 includes/ecwd-cpt-class.php:493
+#, php-format
+msgid "%4$s published."
+msgstr "%4$s közzétéve."
+
+# @ ecwd
+#: includes/ecwd-cpt-class.php:452 includes/ecwd-cpt-class.php:494
+#, php-format
+msgid "%4$s saved."
+msgstr "%4$s mentve."
+
+# @ ecwd
+#: includes/ecwd-cpt-class.php:453 includes/ecwd-cpt-class.php:495
+#, php-format
+msgid "%4$s submitted. "
+msgstr "%4$s benyújtva."
+
+# @ ecwd
+#: includes/ecwd-cpt-class.php:454 includes/ecwd-cpt-class.php:496
+#, php-format
+msgid "%4$s draft updated."
+msgstr "%4$s vázlat frissítve."
+
+# @ ecwd
+#: includes/ecwd-cpt-class.php:486 includes/ecwd-cpt-class.php:488
+#: views/admin/ecwd-calendar-meta.php:108
+msgid "Theme"
+msgstr "Sablon"
+
+# @ ecwd
+#: includes/ecwd-cpt-class.php:536
+msgid "event"
+msgstr "esemény"
+
+# @ ecwd
+#: includes/ecwd-cpt-class.php:541 includes/ecwd-cpt-class.php:542
+#, php-format
+msgid "%4$s updated. %1$sView %2$s%3$s"
+msgstr "%4$s frissítve. %1$sMegtekintve %2$s%3$s"
+
+# @ ecwd
+#: includes/ecwd-cpt-class.php:543
+#, php-format
+msgid "%4$s published. %1$sView %2$s%3$s"
+msgstr "%4$s közzétéve. %1$sMegtekintés %2$s%3$s"
+
+# @ ecwd
+#: includes/ecwd-cpt-class.php:544
+#, php-format
+msgid "%4$s saved. %1$sView %2$s%3$s"
+msgstr "%4$s mentve. %1$sMegtekintés %2$s%3$s"
+
+# @ ecwd
+#: includes/ecwd-cpt-class.php:545
+#, php-format
+msgid "%4$s submitted. %1$sView %2$s%3$s"
+msgstr "%4$s benyújtva. %1$sMegtekintés %2$s%3$s"
+
+# @ ecwd
+#: includes/ecwd-cpt-class.php:546
+#, php-format
+msgid "%4$s draft updated. %1$sView %2$s%3$s"
+msgstr "%4$s vázlat frissítve. %1$sMegtekintés %2$s%3$s"
+
+# @ ecwd
+#: includes/ecwd-cpt-class.php:556
+msgid "Calendar Settings"
+msgstr "Naptár beállítások"
+
+# @ ecwd
+#: includes/ecwd-cpt-class.php:634
+msgid "Event Settings"
+msgstr "Esemény beállítások"
+
+# @ default
+#: includes/ecwd-cpt-class.php:639
+msgid "Featured Image"
+msgstr "Kiemelt kép"
+
+# @ ecwd
+#: includes/ecwd-cpt-class.php:676
+msgid "Calendar Theme Settings"
+msgstr "Naptár Sablon beállítása"
+
+# @ ecwd
+#: includes/ecwd-cpt-class.php:778
+msgid "Venue Location"
+msgstr "Helyszín lokáció"
+
+# @ ecwd
+#: includes/ecwd-cpt-class.php:1075
+msgid "Calendar ID"
+msgstr "Naptár ID"
+
+# @ ecwd
+#: includes/ecwd-cpt-class.php:1076 views/admin/ecwd-calendar-meta.php:24
+msgid "Calendar Shortcode"
+msgstr "Naptár rövidkód"
+
+# @ ecwd
+#: includes/ecwd-cpt-class.php:1086 views/admin/ecwd-event-meta.php:130
+msgid "Event Dates"
+msgstr "Esemény dátuma"
+
+# @ default
+#: includes/ecwd-cpt-class.php:1130
+msgctxt "taxonomy general name"
+msgid "Event Categories"
+msgstr "Esemény kategóriák"
+
+# @ default
+#: includes/ecwd-cpt-class.php:1131
+msgctxt "taxonomy singular name"
+msgid "Event Category"
+msgstr "Esemény kategória"
+
+# @ default
+#: includes/ecwd-cpt-class.php:1132
+msgid "Search Event Categories"
+msgstr "Esemény kategória keresése"
+
+# @ default
+#: includes/ecwd-cpt-class.php:1133
+msgid "All Event Categories"
+msgstr "Összes esemény kategória"
+
+# @ default
+#: includes/ecwd-cpt-class.php:1134
+msgid "Parent Category"
+msgstr "Szülő kategória"
+
+# @ default
+#: includes/ecwd-cpt-class.php:1135
+msgid "Parent Category:"
+msgstr "Szülő kategória:"
+
+# @ default
+#: includes/ecwd-cpt-class.php:1136
+msgid "Edit Category"
+msgstr "Kategória szerkesztése"
+
+# @ default
+#: includes/ecwd-cpt-class.php:1137
+msgid "Update Category"
+msgstr "Kategória frissítése"
+
+# @ default
+#: includes/ecwd-cpt-class.php:1138
+msgid "Add New Event Category"
+msgstr "Új eseménykategória hozzáadása"
+
+# @ default
+#: includes/ecwd-cpt-class.php:1139
+msgid "New Event Category Name"
+msgstr "Új eseménykategória neve"
+
+# @ default
+#: includes/ecwd-cpt-class.php:1140
+msgid "Event Categories"
+msgstr "Esemény kategóriák"
+
+# @ ecwd
+#: includes/ecwd-cpt-class.php:1159
+msgid "Event Tags"
+msgstr "Esemény cimkék"
+
+# @ ecwd
+#: includes/ecwd-cpt-class.php:1160
+msgid "Event Tag"
+msgstr "Esemény cimke"
+
+# @ ecwd
+#: includes/ecwd-cpt-class.php:1244 includes/ecwd-cpt-class.php:1262
+msgid "Icon"
+msgstr "Ikon"
+
+# @ ecwd
+#: includes/ecwd-cpt-class.php:1245
+msgid "Color"
+msgstr "Szín"
+
+# @ ecwd
+#: includes/ecwd-cpt-filter.php:67 views/admin/ecwd-event-meta.php:132
+msgid "From"
+msgstr "Kezdete"
+
+# @ ecwd
+#: includes/ecwd-cpt-filter.php:74 views/admin/ecwd-event-meta.php:139
+msgid "To"
+msgstr "Befejezése"
+
+# @ ecwd
+#: includes/ecwd-event-class.php:188
+#, php-format
+msgid "%s year"
+msgstr "%s év"
+
+# @ ecwd
+#: includes/ecwd-event-class.php:188
+#, php-format
+msgid "%s years"
+msgstr "%s év"
+
+# @ ecwd
+#: includes/ecwd-event-class.php:189
+#, php-format
+msgid "%s month"
+msgstr "%s hónap"
+
+# @ ecwd
+#: includes/ecwd-event-class.php:189
+#, php-format
+msgid "%s months"
+msgstr "%s hónap"
+
+# @ ecwd
+#: includes/ecwd-event-class.php:190
+#, php-format
+msgid "%s week"
+msgstr "%s hét"
+
+# @ ecwd
+#: includes/ecwd-event-class.php:190
+#, php-format
+msgid "%s weeks"
+msgstr "%s hét"
+
+# @ ecwd
+#: includes/ecwd-event-class.php:191
+#, php-format
+msgid "%s day"
+msgstr "%s nap"
+
+# @ ecwd
+#: includes/ecwd-event-class.php:191
+#, php-format
+msgid "%s days"
+msgstr "%s nap"
+
+# @ ecwd
+#: includes/ecwd-event-class.php:192
+#, php-format
+msgid "%s hour"
+msgstr "%s óra"
+
+# @ ecwd
+#: includes/ecwd-event-class.php:192
+#, php-format
+msgid "%s hours"
+msgstr "%s óra"
+
+# @ ecwd
+#: includes/ecwd-event-class.php:193
+#, php-format
+msgid "%s min"
+msgstr "%s perc"
+
+# @ ecwd
+#: includes/ecwd-event-class.php:193
+#, php-format
+msgid "%s mins"
+msgstr "%s perc"
+
+# @ default
+#: includes/ecwd-event-class.php:221
+msgctxt "human_time_diff"
+msgid ", "
+msgstr ""
+
+# @ ecwd
+#: ecwd_admin_class.php:277 ecwd_class.php:140 includes/ecwd-functions.php:8
+msgid "Loading..."
+msgstr "Betöltés..."
+
+# @ ecwd
+#: includes/ecwd-functions.php:446 includes/texts.php:53
+msgid "DAYS"
+msgstr "NAP"
+
+# @ ecwd
+#: includes/ecwd-functions.php:447 includes/texts.php:54
+msgid "HOURS"
+msgstr "ÓRA"
+
+# @ ecwd
+#: includes/ecwd-functions.php:448 includes/texts.php:55
+msgid "MINUTES"
+msgstr "PERC"
+
+# @ ecwd
+#: includes/ecwd-functions.php:449 includes/texts.php:56
+msgid "SECONDS"
+msgstr "MÁSODPERC"
+
+# @ ecwd
+#: includes/register-settings.php:18
+msgid "Cache has been deleted."
+msgstr "Cache törölve lett."
+
+# @ ecwd
+#: includes/register-settings.php:47
+msgid "TimeZone"
+msgstr "Időzóna"
+
+# @ ecwd
+#: includes/register-settings.php:48
+msgid ""
+"If the timezone is not set, the server timezone will be used (if set in php "
+"settings), otherwise the Europe/Berlin timezone will be used"
+msgstr ""
+"Ha az időzóna nincs beállítva, a kiszolgáló időzónát fogja használni (ha be "
+"van állítva a PHP beállítások), különben a Europe / Berlin időzónát fogja "
+"használni"
+
+# @ ecwd
+#: includes/register-settings.php:54
+msgid "Date format"
+msgstr "Dátum formátum"
+
+# @ ecwd
+#: includes/register-settings.php:55
+msgid "Set the format for displaying event dates. Ex Y-m-d or Y/m/d"
+msgstr ""
+"Állítsa be az esemény dátum megjelenési formátumát. Pl. Y-m-d or Y/m/d (Év-"
+"hónap-nap vagy Év/hónap/nap)"
+
+# @ ecwd
+#: includes/register-settings.php:61
+msgid "Time format"
+msgstr "Idő formátum"
+
+# @ ecwd
+#: includes/register-settings.php:62
+msgid "Set the format for displaying event time. Ex H:i or H/i"
+msgstr "Állítsa be az esemény idő megjelenési formátumát. Pl. H:i or H/i"
+
+# @ ecwd
+#: includes/register-settings.php:68
+msgid "Show AM/PM"
+msgstr "Mutassa AM/PM (délelőtt/délután) "
+
+# @ ecwd
+#: includes/register-settings.php:69
+msgid "Select the time format type"
+msgstr "Válassz idő formátum típust"
+
+# @ ecwd
+#: includes/register-settings.php:75
+msgid "Week start day"
+msgstr "Hét kezdőnapja"
+
+# @ ecwd
+#: includes/register-settings.php:76
+msgid "Define the starting day for the week."
+msgstr "Definiáld a hét kezdőnapját."
+
+# @ ecwd
+#: includes/register-settings.php:82
+msgid "Enable rewrite"
+msgstr "Felülírás engedélyezése"
+
+# @ ecwd
+#: includes/register-settings.php:84
+msgid "Check yes to enable event(s) url rewrite rule."
+msgstr ""
+"Ellenőrizze az Igen lehetőséget az esemény (ek) URL-átírási szabályánál."
+
+# @ ecwd
+#: includes/register-settings.php:90
+msgid "Events slug"
+msgstr "Esemény slug"
+
+# @ ecwd
+#: includes/register-settings.php:92
+msgid "Define the slug for the events list page."
+msgstr "Adjuk meg a slug-ot az események listája oldalon."
+
+# @ ecwd
+#: includes/register-settings.php:98
+msgid "Single Event slug"
+msgstr "Egyetlen esemény slug"
+
+# @ ecwd
+#: includes/register-settings.php:100
+msgid "Define the slug for the single event page."
+msgstr "Adjuk meg a slug-ot az egyetlen esemény oldalon."
+
+# @ ecwd
+#: includes/register-settings.php:106
+msgid "Enable comments for events"
+msgstr "Kommentek engedélyezése az eseményekhez"
+
+# @ ecwd
+#: includes/register-settings.php:107
+msgid "Check to enable commenting."
+msgstr "Kommentek engedélyezésének ellenőrzése."
+
+# @ ecwd
+#: includes/register-settings.php:112
+msgid "Include events in main loop"
+msgstr "Tartalmazza események fő hurok"
+
+# @ ecwd
+#: includes/register-settings.php:113
+msgid "Check to display events within website post list in main pages."
+msgstr ""
+"Ellenőrizze, hogy megjelenjen belüli események honlapján hozzászólás listája "
+"fő oldalakra."
+
+# @ ecwd
+#: includes/register-settings.php:118
+msgid "Order of Organizers and Venues by"
+msgstr "Szervezők és helyszínek választása"
+
+# @ ecwd
+#: includes/register-settings.php:119
+msgid "Select Order of Organizers and Venues."
+msgstr "Szervezők és helyszínek választása"
+
+# @ ecwd
+#: includes/register-settings.php:124
+msgid "Open events in new tab"
+msgstr "Esemény megnyitása új lapon"
+
+# @ ecwd
+#: includes/register-settings.php:131
+msgid "Enable Social Icons"
+msgstr "Közösségi ikonok engedélyezése"
+
+# @ ecwd
+#: includes/register-settings.php:132
+msgid "Check to display social icons in event, organizer and venue pages."
+msgstr ""
+"Ellenőrizze, hogy megjelenítse a társadalmi ikonok esemény szervezője és "
+"helyszíne oldalakon."
+
+# @ ecwd
+#: includes/register-settings.php:137
+msgid "Show related events in the event page"
+msgstr "Mutassa kapcsolódó eseményeket az esemény oldalán"
+
+# @ ecwd
+#: includes/register-settings.php:144
+msgid "Apply category color to event title in event page"
+msgstr "Alkalmazza a kategória színt az esemény címében az esemény oldalon"
+
+# @ ecwd
+#: includes/register-settings.php:151
+msgid "Enable Category and Tags"
+msgstr "Kategóriák és címkék engedélyezése"
+
+# @ ecwd
+#: includes/register-settings.php:152
+msgid "Check to display category and Tags."
+msgstr "Ellenőrizze a kategóriák és címkék megjelenését."
+
+# @ ecwd
+#: includes/register-settings.php:161
+msgid "Show the repeat rate"
+msgstr "Ismétlődések mutatása"
+
+# @ ecwd
+#: includes/register-settings.php:162
+msgid "Check to show the repeat rate in event page ."
+msgstr "Ellenőrizze, hogy mutassa a ismétlődési rátát az esemény oldalán."
+
+# @ ecwd
+#: includes/register-settings.php:445
+#, php-format
+msgid ""
+"The callback function used for the <strong>%s</strong> setting is missing."
+msgstr ""
+"A visszahívás funkciót <strong>használni%s</strong> beállítás hiányzik."
+
+# @ ecwd
+#: views/admin/ecwd-calendar-meta.php:21
+msgid "Preview"
+msgstr "Előnézet"
+
+# @ ecwd
+#: views/admin/ecwd-calendar-meta.php:21 views/admin/ecwd-calendar-meta.php:80
+msgid "Add Event"
+msgstr "Esemény hozzáadása"
+
+# @ ecwd
+#: views/admin/ecwd-calendar-meta.php:55
+msgid ""
+"Copy and paste this shortcode to display this Calendar event on any post or "
+"page."
+msgstr ""
+"Másold és illeszd be ezt a rövid kódot, hogy megjelenítsd a naptár "
+"eseményeket oldalakon vagy bejegyzésekben. "
+
+# @ ecwd
+#: views/admin/ecwd-calendar-meta.php:77
+msgid "Select Events from the list"
+msgstr "Válassz eseményt a listáról"
+
+# @ ecwd
+#: views/admin/ecwd-calendar-meta.php:110
+msgid "Default"
+msgstr "Alapértelmezett"
+
+# @ ecwd
+#: views/admin/ecwd-event-cat-meta.php:4
+#: views/admin/ecwd-event-cat-meta.php:31
+msgid "Image"
+msgstr "Kép"
+
+# @ ecwd
+#: views/admin/ecwd-event-cat-meta.php:11
+#: views/admin/ecwd-event-cat-meta.php:34
+msgid "Upload/Add image"
+msgstr "Kép feltöltése/hozzáadása"
+
+# @ ecwd
+#: views/admin/ecwd-event-cat-meta.php:13
+msgid "Remove image"
+msgstr "Kép eltávolítása"
+
+#: views/admin/ecwd-event-cat-meta.php:20
+#: views/admin/ecwd-event-cat-meta.php:37
+msgid "Category color"
+msgstr "Kategória szín"
+
+#: views/admin/ecwd-event-cat-meta.php:26
+msgid "Choose the color"
+msgstr "Válassz színt"
+
+# @ ecwd
+#: views/admin/ecwd-event-meta.php:54
+msgid "Event Venue"
+msgstr "Esemény helyszín"
+
+# @ ecwd
+#: views/admin/ecwd-event-meta.php:74
+msgid "Select the venue of the event."
+msgstr "Válassz esemény helyszínt"
+
+# @ ecwd
+#: views/admin/ecwd-event-meta.php:78
+msgid "There is no venue added yet"
+msgstr "Még nincs helyszín felvéve"
+
+# @ ecwd
+#: views/admin/ecwd-event-meta.php:83
+msgid "Event Location"
+msgstr "Esemény helyszín"
+
+# @ ecwd
+#: views/admin/ecwd-event-meta.php:115
+msgid ""
+"If venue is not specified you can fill in the address of the event location "
+"or click on the map to drag and drop the marker to the event location."
+msgstr ""
+"Ha helyszín nincs megadva, akkor adja meg az esemény helyének címét, vagy a "
+"térképen fogd és vidd módszerrel jelöld ki a rendezvény helyszínét."
+
+# @ ecwd
+#: views/admin/ecwd-event-meta.php:120
+msgid "Show map in event page"
+msgstr "Mutassa a térképet az esemény oldalán"
+
+# @ ecwd
+#: views/admin/ecwd-event-meta.php:160
+msgid ""
+"Fill in the starting and ending dates and time of the event. If the event "
+"lasts entire day, check the box on the right."
+msgstr ""
+"Töltse ki az esemény kezdetének és befejezésének dátumát és időpontját. Ha "
+"az esemény tart egész nap, jelölje be a jobb oldalon."
+
+# @ ecwd
+#: views/admin/ecwd-event-meta.php:167 views/admin/ecwd-event-meta.php:520
+msgid "Repeat rate"
+msgstr "Esemény ismétlődés beállítása"
+
+# @ ecwd
+#: views/admin/ecwd-event-meta.php:181
+msgid "Don't repeat"
+msgstr "Ne ismételje"
+
+# @ ecwd
+#: views/admin/ecwd-event-meta.php:191
+msgid "Daily"
+msgstr "Napi"
+
+# @ ecwd
+#: views/admin/ecwd-event-meta.php:203
+msgid "Weekly"
+msgstr "Heti"
+
+# @ ecwd
+#: views/admin/ecwd-event-meta.php:218
+msgid "Monthly"
+msgstr "Havi"
+
+# @ ecwd
+#: views/admin/ecwd-event-meta.php:231
+msgid "Yearly"
+msgstr "Éves"
+
+# @ ecwd
+#: includes/texts.php:60 views/admin/ecwd-event-meta.php:237
+msgid "Repeat every"
+msgstr "Ismétlés"
+
+# @ ecwd
+#: views/admin/ecwd-event-meta.php:243
+msgid "day(s)"
+msgstr "nap"
+
+# @ ecwd
+#: views/admin/ecwd-event-meta.php:248
+msgid "weeks(s)"
+msgstr "hét"
+
+# @ ecwd
+#: views/admin/ecwd-event-meta.php:249
+msgid "on "
+msgstr "ekkor:"
+
+# @ ecwd
+#: views/admin/ecwd-event-meta.php:253
+msgid "month(s)"
+msgstr "hónap"
+
+# @ ecwd
+#: views/admin/ecwd-event-meta.php:257
+msgid "year(s) in "
+msgstr "év(ek)ben"
+
+# @ ecwd
+#: includes/texts.php:16 views/admin/ecwd-event-meta.php:274
+#: views/admin/ecwd-event-meta.php:394 views/admin/ecwd-event-meta.php:480
+msgid "Monday"
+msgstr "Hétfő"
+
+# @ ecwd
+#: includes/texts.php:17 views/admin/ecwd-event-meta.php:286
+#: views/admin/ecwd-event-meta.php:396 views/admin/ecwd-event-meta.php:482
+msgid "Tuesday"
+msgstr "Kedd"
+
+# @ ecwd
+#: includes/texts.php:18 views/admin/ecwd-event-meta.php:299
+#: views/admin/ecwd-event-meta.php:398 views/admin/ecwd-event-meta.php:484
+msgid "Wednesday"
+msgstr "Szerda"
+
+# @ ecwd
+#: includes/texts.php:19 views/admin/ecwd-event-meta.php:311
+#: views/admin/ecwd-event-meta.php:400 views/admin/ecwd-event-meta.php:486
+msgid "Thursday"
+msgstr "Csütörtök"
+
+# @ ecwd
+#: includes/texts.php:20 views/admin/ecwd-event-meta.php:323
+#: views/admin/ecwd-event-meta.php:402 views/admin/ecwd-event-meta.php:488
+msgid "Friday"
+msgstr "Péntek"
+
+# @ ecwd
+#: includes/texts.php:21 views/admin/ecwd-event-meta.php:335
+#: views/admin/ecwd-event-meta.php:404 views/admin/ecwd-event-meta.php:490
+msgid "Saturday"
+msgstr "Szombat"
+
+# @ ecwd
+#: includes/texts.php:15 views/admin/ecwd-event-meta.php:347
+#: views/admin/ecwd-event-meta.php:406 views/admin/ecwd-event-meta.php:492
+msgid "Sunday"
+msgstr "Vasárnap"
+
+# @ ecwd
+#: views/admin/ecwd-event-meta.php:360 views/admin/ecwd-event-meta.php:446
+msgid "On the same day"
+msgstr "Ugyanezen a napon"
+
+# @ ecwd
+#: views/admin/ecwd-event-meta.php:377 views/admin/ecwd-event-meta.php:463
+msgid "On the: "
+msgstr "A"
+
+# @ ecwd
+#: views/admin/ecwd-event-meta.php:381 views/admin/ecwd-event-meta.php:467
+msgid "First"
+msgstr "Első"
+
+# @ ecwd
+#: views/admin/ecwd-event-meta.php:383 views/admin/ecwd-event-meta.php:469
+msgid "Second"
+msgstr "Második"
+
+# @ ecwd
+#: views/admin/ecwd-event-meta.php:385 views/admin/ecwd-event-meta.php:471
+msgid "Third"
+msgstr "Harmadik"
+
+# @ ecwd
+#: views/admin/ecwd-event-meta.php:387 views/admin/ecwd-event-meta.php:473
+msgid "Fourth"
+msgstr "Negyedik"
+
+# @ ecwd
+#: views/admin/ecwd-event-meta.php:389 views/admin/ecwd-event-meta.php:475
+msgid "Last"
+msgstr "Utolsó"
+
+# @ ecwd
+#: includes/texts.php:2 views/admin/ecwd-event-meta.php:415
+msgid "January"
+msgstr "Január"
+
+# @ ecwd
+#: includes/texts.php:3 views/admin/ecwd-event-meta.php:417
+msgid "February"
+msgstr "Február"
+
+# @ ecwd
+#: includes/texts.php:4 views/admin/ecwd-event-meta.php:419
+msgid "March"
+msgstr "Március"
+
+# @ ecwd
+#: includes/texts.php:5 views/admin/ecwd-event-meta.php:421
+msgid "April"
+msgstr "Április"
+
+# @ ecwd
+#: includes/texts.php:6 views/admin/ecwd-event-meta.php:423
+msgid "May"
+msgstr "Május"
+
+# @ ecwd
+#: includes/texts.php:7 views/admin/ecwd-event-meta.php:425
+msgid "June"
+msgstr "Június"
+
+# @ ecwd
+#: includes/texts.php:8 views/admin/ecwd-event-meta.php:427
+msgid "July"
+msgstr "Július"
+
+# @ ecwd
+#: includes/texts.php:9 views/admin/ecwd-event-meta.php:429
+msgid "August"
+msgstr "Augusztus"
+
+# @ ecwd
+#: includes/texts.php:10 views/admin/ecwd-event-meta.php:431
+msgid "September"
+msgstr "Szeptember"
+
+# @ ecwd
+#: includes/texts.php:11 views/admin/ecwd-event-meta.php:433
+msgid "October"
+msgstr "Október"
+
+# @ ecwd
+#: includes/texts.php:12 views/admin/ecwd-event-meta.php:435
+msgid "November"
+msgstr "November"
+
+# @ ecwd
+#: includes/texts.php:13 views/admin/ecwd-event-meta.php:437
+msgid "December"
+msgstr "December"
+
+# @ ecwd
+#: views/admin/ecwd-event-meta.php:502
+msgid "Repeat until"
+msgstr "Ismételjük amíg"
+
+# @ ecwd
+#: views/admin/ecwd-event-meta.php:514
+msgid "Specify the repeating rate of the event."
+msgstr "Adja meg az esemény ismétlődésének ütemét."
+
+# @ ecwd
+#: views/admin/ecwd-event-meta.php:522
+msgid "Upgrade to Pro version"
+msgstr "Frissítsen Pro verzióra!"
+
+# @ ecwd
+#: views/admin/ecwd-event-meta.php:527
+msgid "Event URL"
+msgstr "Esemény URL"
+
+# @ ecwd
+#: views/admin/ecwd-event-meta.php:533
+msgid "Provide a custom URL which will display event details."
+msgstr "Adjon meg egy egyéni URL-t amely megjeleníti az esemény részleteit."
+
+# @ ecwd
+#: views/admin/ecwd-event-meta.php:538
+msgid "Event Video URL"
+msgstr "Esemény videó URL"
+
+# @ ecwd
+#: views/admin/ecwd-event-meta.php:544
+msgid "Provide Youtube or Vimeo URL of the video to accompany the event."
+msgstr ""
+"Adjon meg egy Youtube vagy Vimeo URL-t amely megjeleníti az esemény "
+"részleteit."
+
+# @ ecwd
+#: views/admin/ecwd-event-organizers-meta.php:37
+msgid "Add organizer"
+msgstr "Szervező hozzáadása"
+
+# @ ecwd
+#: views/admin/ecwd-venue-meta.php:44
+msgid ""
+"Fill in the address of the venue or click on the map to drag and drop the "
+"marker to a specific location"
+msgstr ""
+"Töltse ki az esemény helyszínének címét, vagy a térképen fogd és vidd "
+"módszerrel vigye a jelölőt egy meghatározott helyre"
+
+# @ ecwd
+#: views/admin/import.php:32
+msgid "Choose csv file"
+msgstr "Válasszon csv fájlt"
+
+# @ ecwd
+#: views/admin/import.php:34
+msgid "Import"
+msgstr "Importálás"
+
+# @ ecwd
+#: views/admin/import.php:47
+msgid "Download Export File"
+msgstr "Export fájl letöltése"
+
+# @ ecwd
+#: views/ecwd-event-content.php:71 views/ecwd-event-content.php:157
+#: views/single-event.php:162 views/single-event.php:272
+msgid "Date"
+msgstr "Dátum"
+
+# @ ecwd
+#: views/ecwd-event-content.php:95 views/single-event.php:201
+msgid "Url"
+msgstr "Url"
+
+# @ ecwd
+#: views/ecwd-organizer-content.php:110
+msgid "upcoming events"
+msgstr "Közelgő események"
+
+# @ ecwd
+#: views/ecwd-venue-content.php:141
+msgid "events"
+msgstr "események"
+
+# @ ecwd
+#: views/single-event.php:230
+msgid "Location"
+msgstr "Lokáció, helyszín"
+
+# @ ecwd
+#: views/single-event.php:475
+msgid "Related events"
+msgstr "Javasolt események"
+
+# @ ecwd
+#: views/widgets.php:19
+msgid "Descr"
+msgstr "Descr"
+
+# @ ecwd
+#: views/widgets.php:63
+msgid ""
+"No valid Event IDs have been entered for this widget. Please check that you "
+"have entered the IDs correctly in the widget settings (Appearance > "
+"Widgets), and that the Events have not been deleted."
+msgstr ""
+"Nincs érvényes eseményazonosító. Kérjük, ellenőrizze, hogy beírta a "
+"azonosítót helyesen a widget-be (Megjelenés> Widgets), és hogy az események "
+"nem lettek-e törölve."
+
+# @ ecwd
+#: views/widgets.php:95
+msgid "You have not added any events yet."
+msgstr "Még nem adtál hozzá eseményt."
+
+# @ ecwd
+#: views/widgets.php:128
+msgid "There are no calendars created yet."
+msgstr "Még nincs naptár létrehozva."
+
+# @ ecwd
+#: views/widgets.php:129
+msgid "Add your first calendar!"
+msgstr "Első naptár létrehozása"
+
+# @ ecwd
+#: views/widgets.php:147
+msgid "Title:"
+msgstr "Cím:"
+
+# @ ecwd
+#: views/widgets.php:152
+msgid "Calendar to display"
+msgstr "Naptár megjelenítése"
+
+# @ ecwd
+#: views/widgets.php:166
+msgid "Display Events as:"
+msgstr "Esemény megjelenítése, mint"
+
+# @ ecwd
+#: views/widgets.php:173
+msgid "Events per page in list view:"
+msgstr "Esemény/oldal eseménylista nézetben"
+
+# @ ecwd
+#: includes/notices.php:17
+msgid "Leave A Review?"
+msgstr "Elmondod a véleményed?"
+
+# @ ecwd
+#: includes/notices.php:18
+msgid ""
+"We hope you've enjoyed using Event Calendar WD! Would you consider leaving "
+"us a review on WordPress.org?"
+msgstr ""
+"Reméljük, hogy tetszik és használja az Event Calendar  WD eseménynaptár "
+"bővítményt! Elmondaná a véleményét a WordPress.org-on?"
+
+# @ ecwd
+#: includes/notices.php:19
+msgid "Sure! I'd love to!"
+msgstr "Igen, szeretném!"
+
+# @ ecwd
+#: includes/notices.php:20
+msgid "I've already left a review"
+msgstr "Már van egy balra fent vélemény"
+
+# @ ecwd
+#: includes/notices.php:21
+msgid "Maybe Later"
+msgstr "Később"
+
+# @ ecwd
+#: includes/notices.php:22
+msgid "Never show again"
+msgstr "Nem mutassa újra"
+
+# @ ecwd
+#: includes/texts.php:25
+msgid "Sun"
+msgstr "V."
+
+# @ ecwd
+#: includes/texts.php:26
+msgid "Mon"
+msgstr "H."
+
+# @ ecwd
+#: includes/texts.php:27
+msgid "Tue"
+msgstr "K."
+
+# @ ecwd
+#: includes/texts.php:28
+msgid "Wed"
+msgstr "Sze."
+
+# @ ecwd
+#: includes/texts.php:29
+msgid "Thu"
+msgstr "Cs."
+
+# @ ecwd
+#: includes/texts.php:30
+msgid "Fri"
+msgstr "P."
+
+# @ ecwd
+#: includes/texts.php:31
+msgid "Sat"
+msgstr "Szo."
+
+# @ ecwd
+#: includes/texts.php:34
+msgid "Su"
+msgstr "V."
+
+# @ ecwd
+#: includes/texts.php:35
+msgid "Mo"
+msgstr "H."
+
+# @ ecwd
+#: includes/texts.php:36
+msgid "Tu"
+msgstr "K."
+
+# @ ecwd
+#: includes/texts.php:37
+msgid "We"
+msgstr "Sze."
+
+# @ ecwd
+#: includes/texts.php:38
+msgid "Th"
+msgstr "Cs."
+
+# @ ecwd
+#: includes/texts.php:39
+msgid "Fr"
+msgstr "P."
+
+# @ ecwd
+#: includes/texts.php:40
+msgid "Sa"
+msgstr "Szo."
+
+# @ ecwd
+#: includes/texts.php:44
+msgid "Show Filters"
+msgstr "Mutassa a szűrőket"
+
+# @ ecwd
+#: includes/texts.php:45
+msgid "Collapse Filters"
+msgstr "Szűrők összezárása"
+
+# @ ecwd
+#: includes/texts.php:46
+msgid "Reset Filters"
+msgstr "Szűrőket vissza"
+
+# @ ecwd
+#: includes/texts.php:48
+msgid "Days"
+msgstr "Napok"
+
+# @ ecwd
+#: includes/texts.php:49
+msgid "Categories"
+msgstr "Kategóriák"
+
+# @ ecwd
+#: includes/texts.php:57
+msgid "The event has just started"
+msgstr "Az esemény elkezdődött"
+
+# @ ecwd
+#: includes/texts.php:61
+msgid "Repeat every day"
+msgstr "Ismlődés naponta"
+
+# @ ecwd
+#: includes/texts.php:62
+msgid "Repeat every week"
+msgstr "Ismétlődés hetente"
+
+# @ ecwd
+#: includes/texts.php:63
+msgid "Repeat every month"
+msgstr "Ismétlődés havonta"
+
+# @ ecwd
+#: includes/texts.php:64
+msgid "Repeat every year"
+msgstr "Ismétlődés évente"
+
+# @ ecwd
+#: includes/texts.php:66
+msgid "days"
+msgstr "napok"
+
+# @ ecwd
+#: includes/texts.php:67
+msgid "weeks"
+msgstr "hetek"
+
+# @ ecwd
+#: includes/texts.php:68
+msgid "months"
+msgstr "hónapok"
+
+# @ ecwd
+#: includes/texts.php:69
+msgid "years"
+msgstr "évek"
+
+# @ ecwd
+#: includes/texts.php:70
+msgid "until"
+msgstr "amíg"
+
+# @ ecwd
+#: includes/texts.php:72
+msgid "Sundays"
+msgstr "Vasárnap"
+
+# @ ecwd
+#: includes/texts.php:73
+msgid "Mondays"
+msgstr "Hétfő"
+
+# @ ecwd
+#: includes/texts.php:74
+msgid "Tuesdays"
+msgstr "Kedd"
+
+# @ ecwd
+#: includes/texts.php:75
+msgid "Wednesdays"
+msgstr "Szerda"
+
+# @ ecwd
+#: includes/texts.php:76
+msgid "Thursdays"
+msgstr "Csütörtök"
+
+# @ ecwd
+#: includes/texts.php:77
+msgid "Fridays"
+msgstr "Péntek"
+
+# @ ecwd
+#: includes/texts.php:78
+msgid "Saturdays"
+msgstr "Szombat"
+
+#: views/single-event.php:163
+msgid "Back"
+msgstr "Hát"
+
+#: ecwd_class.php:173
+msgid "Event Details"
+msgstr "esemény részletei"

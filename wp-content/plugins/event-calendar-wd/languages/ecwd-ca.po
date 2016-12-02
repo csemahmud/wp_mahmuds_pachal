@@ -1,0 +1,387 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: event_calendar_wd\n"
+"POT-Creation-Date: 2015-07-23 13:04+0400\n"
+"PO-Revision-Date: 2016-06-15 12:28+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"Language: ca_ES\n"
+"X-Poedit-SearchPathExcluded-0: views/admin\n"
+"X-Poedit-SearchPathExcluded-1: js\n"
+"X-Poedit-SearchPathExcluded-2: includes/ecwd-cpt-class.php\n"
+"X-Poedit-SearchPathExcluded-3: includes/register-settings.php\n"
+"X-Poedit-SearchPathExcluded-4: includes/ecwd-ical-events-class.php\n"
+"X-Poedit-SearchPathExcluded-5: includes/ecwd-google-events-class.php\n"
+"X-Poedit-SearchPathExcluded-6: includes/ecwd-facebook-events-class.php\n"
+"X-Poedit-SearchPathExcluded-7: ecwd_admin_class.php\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/calendar-class.php:175 includes/calendar-class.php:176
+#: views/widgets.php:168
+msgid "Month"
+msgstr "Mes"
+
+#: includes/calendar-class.php:177 views/widgets.php:169
+msgid "List"
+msgstr "Llista"
+
+#: includes/calendar-class.php:179
+msgid "Week"
+msgstr "Setmana"
+
+#: includes/calendar-class.php:183
+msgid "Day"
+msgstr "Dia"
+
+#: includes/calendar-class.php:186
+msgid "Map"
+msgstr "Mapa"
+
+#: includes/calendar-class.php:188
+msgid "4 Days"
+msgstr "4 dies"
+
+#: includes/calendar-class.php:191
+msgid "Posterboard"
+msgstr "Poster"
+
+#: includes/calendar-class.php:383 includes/calendar-class.php:417
+#: includes/calendar-class.php:572 includes/calendar-class.php:1181
+#: includes/calendar-class.php:1330 includes/ecwd-functions.php:360
+#: views/ecwd-event-content.php:76 views/ecwd-event-content.php:158
+#: views/ecwd-organizer-content.php:145 views/ecwd-venue-content.php:178
+#: views/single-event.php:151 views/single-event.php:247
+#: views/single-event.php:487
+msgid "All day"
+msgstr "Tot el dia"
+
+#: includes/calendar-class.php:440 includes/calendar-class.php:520
+#: includes/calendar-class.php:1386
+msgid "No events"
+msgstr "Sense esdeveniments"
+
+#: includes/calendar-class.php:644
+msgid "No Events"
+msgstr "Sense esdeveniments"
+
+#: includes/calendar-class.php:1256
+msgid "More events"
+msgstr "Més esdeveniments"
+
+#: includes/ecwd-cpt-filter.php:67
+msgid "From"
+msgstr "Des de"
+
+#: includes/ecwd-cpt-filter.php:74
+msgid "To"
+msgstr "Fins"
+
+#: includes/ecwd-display-class.php:876 includes/ecwd-display-class.php:882
+#: includes/ecwd-display-class.php:900 includes/ecwd-display-class.php:917
+#: includes/texts.php:60
+msgid "Repeat every"
+msgstr "Repetir cada"
+
+#: includes/ecwd-display-class.php:876 includes/texts.php:66
+msgid "days"
+msgstr "dies"
+
+#: includes/ecwd-display-class.php:878 includes/texts.php:61
+msgid "Repeat every day"
+msgstr "Repetir cada dia"
+
+#: includes/ecwd-display-class.php:882 includes/texts.php:67
+msgid "weeks"
+msgstr "setmanes"
+
+#: includes/ecwd-display-class.php:884 includes/texts.php:62
+msgid "Repeat every week"
+msgstr "Repetir cada setmana"
+
+#: includes/ecwd-display-class.php:889
+msgid "on"
+msgstr "de"
+
+#: includes/ecwd-display-class.php:900 includes/texts.php:68
+msgid "months"
+msgstr "mesos"
+
+#: includes/ecwd-display-class.php:902 includes/texts.php:63
+msgid "Repeat every month"
+msgstr "Repetir cada mes"
+
+#: includes/ecwd-display-class.php:907 includes/ecwd-display-class.php:931
+msgid "on the same day"
+msgstr "el mateix dia"
+
+#: includes/ecwd-display-class.php:912 includes/ecwd-display-class.php:936
+msgid "on the"
+msgstr "el"
+
+#: includes/ecwd-display-class.php:917 includes/texts.php:69
+msgid "years"
+msgstr "anys"
+
+#: includes/ecwd-display-class.php:919 includes/texts.php:64
+msgid "Repeat every year"
+msgstr "Repetir cada any"
+
+#: includes/ecwd-display-class.php:940 includes/texts.php:70
+msgid "until"
+msgstr "fins"
+
+#: includes/ecwd-functions.php:8
+msgid "Loading..."
+msgstr "Carregant..."
+
+#: includes/ecwd-functions.php:439 includes/texts.php:53
+msgid "DAYS"
+msgstr "DIES"
+
+#: includes/ecwd-functions.php:440 includes/texts.php:54
+msgid "HOURS"
+msgstr "HORES"
+
+#: includes/ecwd-functions.php:441 includes/texts.php:55
+msgid "MINUTES"
+msgstr "MINUTS"
+
+#: includes/ecwd-functions.php:442 includes/texts.php:56
+msgid "SECONDS"
+msgstr "SEGONS"
+
+#: includes/texts.php:2
+msgid "January"
+msgstr "Gener"
+
+#: includes/texts.php:3
+msgid "February"
+msgstr "Febrer"
+
+#: includes/texts.php:4
+msgid "March"
+msgstr "Març"
+
+#: includes/texts.php:5
+msgid "April"
+msgstr "Abril"
+
+#: includes/texts.php:6
+msgid "May"
+msgstr "Maig"
+
+#: includes/texts.php:7
+msgid "June"
+msgstr "Juny"
+
+#: includes/texts.php:8
+msgid "July"
+msgstr "Juliol"
+
+#: includes/texts.php:9
+msgid "August"
+msgstr "Agost"
+
+#: includes/texts.php:10
+msgid "September"
+msgstr "Setembre"
+
+#: includes/texts.php:11
+msgid "October"
+msgstr "Octubre"
+
+#: includes/texts.php:12
+msgid "November"
+msgstr "Novembre"
+
+#: includes/texts.php:13
+msgid "December"
+msgstr "Desembre"
+
+#: includes/texts.php:15
+msgid "Sunday"
+msgstr "Diumenge"
+
+#: includes/texts.php:16
+msgid "Monday"
+msgstr "Dilluns"
+
+#: includes/texts.php:17
+msgid "Tuesday"
+msgstr "Dimarts"
+
+#: includes/texts.php:18
+msgid "Wednesday"
+msgstr "Dimecres"
+
+#: includes/texts.php:19
+msgid "Thursday"
+msgstr "Dijous"
+
+#: includes/texts.php:20
+msgid "Friday"
+msgstr "Divendres"
+
+#: includes/texts.php:21
+msgid "Saturday"
+msgstr "Dissabte"
+
+#: includes/texts.php:25
+msgid "Sun"
+msgstr "Dg"
+
+#: includes/texts.php:26
+msgid "Mon"
+msgstr "Dl"
+
+#: includes/texts.php:27
+msgid "Tue"
+msgstr "Dm"
+
+#: includes/texts.php:28
+msgid "Wed"
+msgstr "Dc"
+
+#: includes/texts.php:29
+msgid "Thu"
+msgstr "Dj"
+
+#: includes/texts.php:30
+msgid "Fri"
+msgstr "Dv"
+
+#: includes/texts.php:31
+msgid "Sat"
+msgstr "Ds"
+
+#: includes/texts.php:34
+msgid "Su"
+msgstr "Dg"
+
+#: includes/texts.php:35
+msgid "Mo"
+msgstr "Dl"
+
+#: includes/texts.php:36
+msgid "Tu"
+msgstr "Dm"
+
+#: includes/texts.php:37
+msgid "We"
+msgstr "Dc"
+
+#: includes/texts.php:38
+msgid "Th"
+msgstr "Dj"
+
+#: includes/texts.php:39
+msgid "Fr"
+msgstr "Dv"
+
+#: includes/texts.php:40
+msgid "Sa"
+msgstr "Ds"
+
+#: includes/texts.php:44
+msgid "Show Filters"
+msgstr "Mostrar filtres"
+
+#: includes/texts.php:45
+msgid "Collapse Filters"
+msgstr "Amagar filtres"
+
+#: includes/texts.php:46
+msgid "Reset Filters"
+msgstr "Resetejar filtres"
+
+#: includes/texts.php:48
+msgid "Days"
+msgstr "Dies"
+
+#: includes/texts.php:49
+msgid "Categories"
+msgstr "Categories"
+
+#: includes/texts.php:50
+msgid "Venues"
+msgstr "Llocs"
+
+#: includes/texts.php:57
+msgid "The event has just started"
+msgstr "L'esdeveniment ha començat"
+
+#: includes/texts.php:72
+msgid "Sundays"
+msgstr "Diumenges"
+
+#: includes/texts.php:73
+msgid "Mondays"
+msgstr "Dilluns"
+
+#: includes/texts.php:74
+msgid "Tuesdays"
+msgstr "Dimarts"
+
+#: includes/texts.php:75
+msgid "Wednesdays"
+msgstr "Dimecres"
+
+#: includes/texts.php:76
+msgid "Thursdays"
+msgstr "Dijous"
+
+#: includes/texts.php:77
+msgid "Fridays"
+msgstr "Divendres"
+
+#: includes/texts.php:78
+msgid "Saturdays"
+msgstr "Dissabtes"
+
+#: views/ecwd-event-content.php:67 views/ecwd-event-content.php:153
+#: views/single-event.php:142 views/single-event.php:242
+msgid "Date"
+msgstr "Dada"
+
+#: views/ecwd-event-content.php:91 views/single-event.php:170
+msgid "Url"
+msgstr "Url"
+
+#: views/ecwd-event-content.php:97 views/single-event.php:177
+msgid "Organizers"
+msgstr "Organitzadors"
+
+#: views/ecwd-organizer-content.php:109
+msgid "upcoming events"
+msgstr "propers esdeveniments"
+
+#: views/ecwd-venue-content.php:141
+msgid "events"
+msgstr "esdeveniments"
+
+#: views/single-event.php:190
+msgid "Venue"
+msgstr "Lloc"
+
+#: views/single-event.php:200
+msgid "Location"
+msgstr "Localització"
+
+#: views/single-event.php:449
+msgid "Related events"
+msgstr "Esdeveniments relacionats"
+
+#: views/single-event.php:163
+msgid "Back"
+msgstr "esquena"
+
+#: ecwd_class.php:173
+msgid "Event Details"
+msgstr "Detalls de l'esdeveniment"

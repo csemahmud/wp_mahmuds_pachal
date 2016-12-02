@@ -1,0 +1,387 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: event_calendar_wd\n"
+"POT-Creation-Date: 2015-07-23 13:04+0400\n"
+"PO-Revision-Date: 2016-06-15 12:03+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sk_SK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPathExcluded-0: views/admin\n"
+"X-Poedit-SearchPathExcluded-1: js\n"
+"X-Poedit-SearchPathExcluded-2: includes/ecwd-cpt-class.php\n"
+"X-Poedit-SearchPathExcluded-3: includes/register-settings.php\n"
+"X-Poedit-SearchPathExcluded-4: includes/ecwd-ical-events-class.php\n"
+"X-Poedit-SearchPathExcluded-5: includes/ecwd-google-events-class.php\n"
+"X-Poedit-SearchPathExcluded-6: includes/ecwd-facebook-events-class.php\n"
+"X-Poedit-SearchPathExcluded-7: ecwd_admin_class.php\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/calendar-class.php:175 includes/calendar-class.php:176
+#: views/widgets.php:168
+msgid "Month"
+msgstr "Mesiac"
+
+#: includes/calendar-class.php:177 views/widgets.php:169
+msgid "List"
+msgstr "Zoznam"
+
+#: includes/calendar-class.php:179
+msgid "Week"
+msgstr "Týždeň"
+
+#: includes/calendar-class.php:183
+msgid "Day"
+msgstr "Deň"
+
+#: includes/calendar-class.php:186
+msgid "Map"
+msgstr "Mapa"
+
+#: includes/calendar-class.php:188
+msgid "4 Days"
+msgstr "4 dni"
+
+#: includes/calendar-class.php:191
+msgid "Posterboard"
+msgstr "Posterboard"
+
+#: includes/calendar-class.php:383 includes/calendar-class.php:417
+#: includes/calendar-class.php:572 includes/calendar-class.php:1181
+#: includes/calendar-class.php:1330 includes/ecwd-functions.php:360
+#: views/ecwd-event-content.php:76 views/ecwd-event-content.php:158
+#: views/ecwd-organizer-content.php:145 views/ecwd-venue-content.php:178
+#: views/single-event.php:151 views/single-event.php:247
+#: views/single-event.php:487
+msgid "All day"
+msgstr "Deň"
+
+#: includes/calendar-class.php:440 includes/calendar-class.php:520
+#: includes/calendar-class.php:1386
+msgid "No events"
+msgstr "Žiadne udalosti"
+
+#: includes/calendar-class.php:644
+msgid "No Events"
+msgstr "Žiadne udalosti"
+
+#: includes/calendar-class.php:1256
+msgid "More events"
+msgstr "Ďalšie akcie"
+
+#: includes/ecwd-cpt-filter.php:67
+msgid "From"
+msgstr "Od"
+
+#: includes/ecwd-cpt-filter.php:74
+msgid "To"
+msgstr "Do"
+
+#: includes/ecwd-display-class.php:876 includes/ecwd-display-class.php:882
+#: includes/ecwd-display-class.php:900 includes/ecwd-display-class.php:917
+#: includes/texts.php:60
+msgid "Repeat every"
+msgstr "opakovať každý"
+
+#: includes/ecwd-display-class.php:876 includes/texts.php:66
+msgid "days"
+msgstr "dní"
+
+#: includes/ecwd-display-class.php:878 includes/texts.php:61
+msgid "Repeat every day"
+msgstr "Opakovať každý deň"
+
+#: includes/ecwd-display-class.php:882 includes/texts.php:67
+msgid "weeks"
+msgstr "týždne"
+
+#: includes/ecwd-display-class.php:884 includes/texts.php:62
+msgid "Repeat every week"
+msgstr "Opakovať každý týždeň"
+
+#: includes/ecwd-display-class.php:889
+msgid "on"
+msgstr "na"
+
+#: includes/ecwd-display-class.php:900 includes/texts.php:68
+msgid "months"
+msgstr "mesiace"
+
+#: includes/ecwd-display-class.php:902 includes/texts.php:63
+msgid "Repeat every month"
+msgstr "Opakovať každý mesiac"
+
+#: includes/ecwd-display-class.php:907 includes/ecwd-display-class.php:931
+msgid "on the same day"
+msgstr "v rovnaký deň"
+
+#: includes/ecwd-display-class.php:912 includes/ecwd-display-class.php:936
+msgid "on the"
+msgstr "na"
+
+#: includes/ecwd-display-class.php:917 includes/texts.php:69
+msgid "years"
+msgstr "rokov"
+
+#: includes/ecwd-display-class.php:919 includes/texts.php:64
+msgid "Repeat every year"
+msgstr "Opakovať každý rok"
+
+#: includes/ecwd-display-class.php:940 includes/texts.php:70
+msgid "until"
+msgstr "Do dátumu Dátum:"
+
+#: includes/ecwd-functions.php:8
+msgid "Loading..."
+msgstr "Načítava sa…"
+
+#: includes/ecwd-functions.php:439 includes/texts.php:53
+msgid "DAYS"
+msgstr "Dni"
+
+#: includes/ecwd-functions.php:440 includes/texts.php:54
+msgid "HOURS"
+msgstr "hodiny,"
+
+#: includes/ecwd-functions.php:441 includes/texts.php:55
+msgid "MINUTES"
+msgstr "minúty"
+
+#: includes/ecwd-functions.php:442 includes/texts.php:56
+msgid "SECONDS"
+msgstr "sekundy"
+
+#: includes/texts.php:2
+msgid "January"
+msgstr "Január"
+
+#: includes/texts.php:3
+msgid "February"
+msgstr "Február"
+
+#: includes/texts.php:4
+msgid "March"
+msgstr "Marec"
+
+#: includes/texts.php:5
+msgid "April"
+msgstr "Apríl"
+
+#: includes/texts.php:6
+msgid "May"
+msgstr "Máj"
+
+#: includes/texts.php:7
+msgid "June"
+msgstr "Jún"
+
+#: includes/texts.php:8
+msgid "July"
+msgstr "Júl"
+
+#: includes/texts.php:9
+msgid "August"
+msgstr "August"
+
+#: includes/texts.php:10
+msgid "September"
+msgstr "September"
+
+#: includes/texts.php:11
+msgid "October"
+msgstr "Október"
+
+#: includes/texts.php:12
+msgid "November"
+msgstr "November"
+
+#: includes/texts.php:13
+msgid "December"
+msgstr "December"
+
+#: includes/texts.php:15
+msgid "Sunday"
+msgstr "Nedeľa"
+
+#: includes/texts.php:16
+msgid "Monday"
+msgstr "Pondelok"
+
+#: includes/texts.php:17
+msgid "Tuesday"
+msgstr "Utorok"
+
+#: includes/texts.php:18
+msgid "Wednesday"
+msgstr "Streda"
+
+#: includes/texts.php:19
+msgid "Thursday"
+msgstr "Štvrtok"
+
+#: includes/texts.php:20
+msgid "Friday"
+msgstr "Piatok"
+
+#: includes/texts.php:21
+msgid "Saturday"
+msgstr "Sobota"
+
+#: includes/texts.php:25
+msgid "Sun"
+msgstr "Nedeľa"
+
+#: includes/texts.php:26
+msgid "Mon"
+msgstr "Pondelok"
+
+#: includes/texts.php:27
+msgid "Tue"
+msgstr "Utorok"
+
+#: includes/texts.php:28
+msgid "Wed"
+msgstr "Streda"
+
+#: includes/texts.php:29
+msgid "Thu"
+msgstr "Štvrtok"
+
+#: includes/texts.php:30
+msgid "Fri"
+msgstr "Piatok"
+
+#: includes/texts.php:31
+msgid "Sat"
+msgstr "Sobota"
+
+#: includes/texts.php:34
+msgid "Su"
+msgstr "Ne"
+
+#: includes/texts.php:35
+msgid "Mo"
+msgstr "Po"
+
+#: includes/texts.php:36
+msgid "Tu"
+msgstr "Ut"
+
+#: includes/texts.php:37
+msgid "We"
+msgstr "St"
+
+#: includes/texts.php:38
+msgid "Th"
+msgstr "Št"
+
+#: includes/texts.php:39
+msgid "Fr"
+msgstr "Pi"
+
+#: includes/texts.php:40
+msgid "Sa"
+msgstr "So"
+
+#: includes/texts.php:44
+msgid "Show Filters"
+msgstr "Ukázať filtre"
+
+#: includes/texts.php:45
+msgid "Collapse Filters"
+msgstr "Zbaliť Filtre"
+
+#: includes/texts.php:46
+msgid "Reset Filters"
+msgstr "Obnoviť filtre"
+
+#: includes/texts.php:48
+msgid "Days"
+msgstr "Dni"
+
+#: includes/texts.php:49
+msgid "Categories"
+msgstr "Kategórie"
+
+#: includes/texts.php:50
+msgid "Venues"
+msgstr "Miesta"
+
+#: includes/texts.php:57
+msgid "The event has just started"
+msgstr "Akcia sa práve začalo"
+
+#: includes/texts.php:72
+msgid "Sundays"
+msgstr "Nedeľa"
+
+#: includes/texts.php:73
+msgid "Mondays"
+msgstr "Pondelok"
+
+#: includes/texts.php:74
+msgid "Tuesdays"
+msgstr "Utorok"
+
+#: includes/texts.php:75
+msgid "Wednesdays"
+msgstr "Streda"
+
+#: includes/texts.php:76
+msgid "Thursdays"
+msgstr "Štvrtok"
+
+#: includes/texts.php:77
+msgid "Fridays"
+msgstr "Piatky"
+
+#: includes/texts.php:78
+msgid "Saturdays"
+msgstr "Soboty"
+
+#: views/ecwd-event-content.php:67 views/ecwd-event-content.php:153
+#: views/single-event.php:142 views/single-event.php:242
+msgid "Date"
+msgstr "Dátum"
+
+#: views/ecwd-event-content.php:91 views/single-event.php:170
+msgid "Url"
+msgstr "URL"
+
+#: views/ecwd-event-content.php:97 views/single-event.php:177
+msgid "Organizers"
+msgstr "organizátori"
+
+#: views/ecwd-organizer-content.php:109
+msgid "upcoming events"
+msgstr "Nadchádzajúce udalosti"
+
+#: views/ecwd-venue-content.php:141
+msgid "events"
+msgstr "udalosti"
+
+#: views/single-event.php:190
+msgid "Venue"
+msgstr "Miesto konania"
+
+#: views/single-event.php:200
+msgid "Location"
+msgstr "Lokalita"
+
+#: views/single-event.php:449
+msgid "Related events"
+msgstr "Súvisiace udalosti"
+
+#: views/single-event.php:163
+msgid "Back"
+msgstr "späť"
+
+#: ecwd_class.php:173
+msgid "Event Details"
+msgstr "podrobnosti o udalosti"

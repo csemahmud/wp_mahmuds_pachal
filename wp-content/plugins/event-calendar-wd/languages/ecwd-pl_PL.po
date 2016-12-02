@@ -1,0 +1,1244 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: event_calendar_wd\n"
+"POT-Creation-Date: 2015-11-19 21:47+0100\n"
+"PO-Revision-Date: 2016-06-15 12:17+0400\n"
+"Last-Translator: Jacek <mechlab@gmail.com>\n"
+"Language-Team: jacek <mechlab@gmail.com>\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPathExcluded-0: views/admin\n"
+"X-Poedit-SearchPathExcluded-1: js\n"
+"X-Poedit-SearchPathExcluded-2: includes/ecwd-cpt-class.php\n"
+"X-Poedit-SearchPathExcluded-3: includes/register-settings.php\n"
+"X-Poedit-SearchPathExcluded-4: includes/ecwd-ical-events-class.php\n"
+"X-Poedit-SearchPathExcluded-5: includes/ecwd-google-events-class.php\n"
+"X-Poedit-SearchPathExcluded-6: includes/ecwd-facebook-events-class.php\n"
+"X-Poedit-SearchPathExcluded-7: ecwd_admin_class.php\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ecwd_admin_class.php:87 ecwd_admin_class.php:475
+msgid "Settings"
+msgstr "Ustawienia"
+
+#: ecwd_admin_class.php:95
+msgid "Licensing"
+msgstr "Licencja"
+
+#: ecwd_admin_class.php:101
+msgid "Featured plugins"
+msgstr "Wyróżnione wtyczki"
+
+#: ecwd_admin_class.php:107
+msgid "Featured themes"
+msgstr "Wyróżnione szablony"
+
+#: ecwd_admin_class.php:113
+msgid "Calendar Add-ons"
+msgstr "Dodatki do kalendarza"
+
+#: ecwd_admin_class.php:119
+msgid "Calendar Themes"
+msgstr "Szablony Kalendarza"
+
+#: ecwd_admin_class.php:288 ecwd_class.php:149 includes/ecwd-functions.php:10
+msgid "Loading..."
+msgstr "Ładowanie..."
+
+#: ecwd_admin_class.php:469 views/widgets.php:19
+msgid "Event Calendar WD"
+msgstr "Event Calendar WD"
+
+#: ecwd_admin_class.php:476 includes/ecwd-cpt-class.php:296
+#: views/admin/ecwd-calendar-meta.php:58 views/admin/import.php:26
+#: views/admin/import.php:41
+msgid "Events"
+msgstr "Wydarzenia"
+
+#: ecwd_class.php:57
+msgid "Could not load the localization file: "
+msgstr "Nie można załadować pliku z tłumaczeniem"
+
+#: includes/calendar-class.php:195 includes/calendar-class.php:196
+#: views/widgets.php:168
+msgid "Month"
+msgstr "Miesiąc"
+
+#: includes/calendar-class.php:197 views/widgets.php:169
+msgid "List"
+msgstr "Lista"
+
+#: includes/calendar-class.php:199 views/widgets.php:170
+msgid "Week"
+msgstr "Tydzień"
+
+#: includes/calendar-class.php:203 views/widgets.php:171
+msgid "Day"
+msgstr "Dzień"
+
+#: includes/calendar-class.php:432 includes/calendar-class.php:1040
+#: includes/calendar-class.php:1189 includes/ecwd-functions.php:384
+#: views/ecwd-event-content.php:80 views/ecwd-event-content.php:162
+#: views/ecwd-event-popup.php:151 views/ecwd-event-popup.php:248
+#: views/ecwd-organizer-content.php:146 views/ecwd-venue-content.php:178
+#: views/single-event.php:175 views/single-event.php:280
+#: views/single-event.php:504
+msgid "All day"
+msgstr "Cały dzień"
+
+#: includes/calendar-class.php:505
+msgid "No Events"
+msgstr "Brak wydarzeń"
+
+#: includes/calendar-class.php:1121
+msgid "More events"
+msgstr "Więcej wydarzeń"
+
+#: includes/calendar-class.php:1245
+msgid "No events"
+msgstr "Brak wydarzeń"
+
+#: includes/ecwd-cpt-class.php:96
+msgid "Duplicate Event"
+msgstr "Duplikuj Wydarzenie"
+
+#: includes/ecwd-cpt-class.php:218 includes/ecwd-cpt-class.php:220
+#: includes/ecwd-cpt-class.php:637
+msgid "Calendars"
+msgstr "Kalendarze"
+
+#: includes/ecwd-cpt-class.php:219 includes/ecwd-cpt-class.php:221
+#: includes/ecwd-cpt-class.php:457
+msgid "Calendar"
+msgstr "Kalendarz"
+
+#: includes/ecwd-cpt-class.php:222 includes/ecwd-cpt-class.php:223
+msgid "Add New Calendar"
+msgstr "Dodaj Nowy Kalendarz"
+
+#: includes/ecwd-cpt-class.php:224
+msgid "New Calendar"
+msgstr "Nowy Kalendarz"
+
+#: includes/ecwd-cpt-class.php:225
+msgid "Edit Calendar"
+msgstr "Edytuj Kalendarz"
+
+#: includes/ecwd-cpt-class.php:226
+msgid "View Calendar"
+msgstr "Zobacz Kalendarz"
+
+#: includes/ecwd-cpt-class.php:227
+msgid "All Calendars"
+msgstr "Wszystkie Kalendarze"
+
+#: includes/ecwd-cpt-class.php:228
+msgid "Search Calendar"
+msgstr "Szukaj Kalendarz"
+
+#: includes/ecwd-cpt-class.php:229
+msgid "No Calendars found."
+msgstr "Nie znaleziono Kalendarzy"
+
+#: includes/ecwd-cpt-class.php:230
+msgid "No Calendars found in Trash."
+msgstr "Nie znaleziono Kalendarzy w Koszu"
+
+#: includes/ecwd-cpt-class.php:256 includes/ecwd-cpt-class.php:641
+#: views/ecwd-event-content.php:101 views/ecwd-event-popup.php:180
+#: views/single-event.php:211 views/admin/import.php:27
+#: views/admin/import.php:42
+msgid "Organizers"
+msgstr "Organizatorzy"
+
+#: includes/ecwd-cpt-class.php:257 includes/ecwd-cpt-class.php:258
+msgid "Organizer"
+msgstr "Organizator"
+
+#: includes/ecwd-cpt-class.php:259 includes/ecwd-cpt-class.php:299
+#: includes/ecwd-cpt-class.php:343
+msgid "Add New"
+msgstr "Dodaj"
+
+#: includes/ecwd-cpt-class.php:260
+msgid "Add New Organizer"
+msgstr "Dodaj Nowego Organizatora"
+
+#: includes/ecwd-cpt-class.php:261
+msgid "New Organizer"
+msgstr "Nowy Organizator"
+
+#: includes/ecwd-cpt-class.php:262
+msgid "Edit Organizer"
+msgstr "Edytuj Organizatora"
+
+#: includes/ecwd-cpt-class.php:263
+msgid "View Organizer"
+msgstr "Zobacz Organizatora"
+
+#: includes/ecwd-cpt-class.php:264
+msgid "All Organizers"
+msgstr "Wszyscy Organizatorzy"
+
+#: includes/ecwd-cpt-class.php:265
+msgid "Search Organizer"
+msgstr "Szukaj Organizatora"
+
+#: includes/ecwd-cpt-class.php:266
+msgid "No Organizers found."
+msgstr "Nie znaleziono Organizatorów"
+
+#: includes/ecwd-cpt-class.php:267
+msgid "No Organizers found in Trash."
+msgstr "Nie znaleziono Organizatorów w Koszu"
+
+#: includes/ecwd-cpt-class.php:297 includes/ecwd-cpt-class.php:298
+#: includes/ecwd-cpt-class.php:549
+msgid "Event"
+msgstr "Wydarzenie"
+
+#: includes/ecwd-cpt-class.php:300
+msgid "Add New Event"
+msgstr "Dodaj Nowe Wydarzenie"
+
+#: includes/ecwd-cpt-class.php:301
+msgid "New Event"
+msgstr "Nowe Wydarzenie"
+
+#: includes/ecwd-cpt-class.php:302
+msgid "Edit Event"
+msgstr "Edytuj Wydarzenie"
+
+#: includes/ecwd-cpt-class.php:303
+msgid "View Event"
+msgstr "Zobacz Wydarzenie"
+
+#: includes/ecwd-cpt-class.php:304
+msgid "All Events"
+msgstr "Wszystkie Wydarzenia"
+
+#: includes/ecwd-cpt-class.php:305
+msgid "Search Event"
+msgstr "Szukaj Wydarzenia"
+
+#: includes/ecwd-cpt-class.php:306
+msgid "No events found."
+msgstr "Nie znaleziono wydarzeń."
+
+#: includes/ecwd-cpt-class.php:307
+msgid "No events found in Trash."
+msgstr "Nie znaleziono wydarzeń w Koszu"
+
+#: includes/ecwd-cpt-class.php:340 includes/texts.php:50
+#: views/admin/import.php:28 views/admin/import.php:43
+msgid "Venues"
+msgstr "Miejsca"
+
+#: includes/ecwd-cpt-class.php:341 includes/ecwd-cpt-class.php:342
+#: views/ecwd-event-popup.php:192 views/single-event.php:223
+msgid "Venue"
+msgstr "Miejsce"
+
+#: includes/ecwd-cpt-class.php:344
+msgid "Add New Venue"
+msgstr "Dodaj Nowe Miejsce"
+
+#: includes/ecwd-cpt-class.php:345
+msgid "New Venue"
+msgstr "Nowe Miejsce"
+
+#: includes/ecwd-cpt-class.php:346
+msgid "Edit Venue"
+msgstr "Edytuj Miejsce"
+
+#: includes/ecwd-cpt-class.php:347
+msgid "View Venue"
+msgstr "Zobacz Miejsce"
+
+#: includes/ecwd-cpt-class.php:348
+msgid "All Venues"
+msgstr "Wszystkie Miejsca"
+
+#: includes/ecwd-cpt-class.php:349
+msgid "Search Venue"
+msgstr "Szukaj Miejsca"
+
+#: includes/ecwd-cpt-class.php:350
+msgid "No Venues found."
+msgstr "Nie znaleziono Miejsc."
+
+#: includes/ecwd-cpt-class.php:351
+msgid "No Venues found in Trash."
+msgstr "Nie znaleziono miejsc w Koszu"
+
+#: includes/ecwd-cpt-class.php:455
+msgid "calendar"
+msgstr "kalendarz"
+
+#: includes/ecwd-cpt-class.php:460 includes/ecwd-cpt-class.php:502
+#, php-format
+msgid "%4$s updated."
+msgstr "%4$s zaktualizowano."
+
+#: includes/ecwd-cpt-class.php:461 includes/ecwd-cpt-class.php:503
+#, php-format
+msgid "%4$s updated. "
+msgstr "%4$s zaktualizowano. "
+
+#: includes/ecwd-cpt-class.php:462 includes/ecwd-cpt-class.php:504
+#, php-format
+msgid "%4$s published."
+msgstr "%4$s opublikowano."
+
+#: includes/ecwd-cpt-class.php:463 includes/ecwd-cpt-class.php:505
+#, php-format
+msgid "%4$s saved."
+msgstr "%4$s zapisano."
+
+#: includes/ecwd-cpt-class.php:464 includes/ecwd-cpt-class.php:506
+#, php-format
+msgid "%4$s submitted. "
+msgstr "%4$s przesłano. "
+
+#: includes/ecwd-cpt-class.php:465 includes/ecwd-cpt-class.php:507
+#, php-format
+msgid "%4$s draft updated."
+msgstr "%4$s szkic zaktualizowano."
+
+#: includes/ecwd-cpt-class.php:497 includes/ecwd-cpt-class.php:499
+#: views/admin/ecwd-calendar-meta.php:97
+msgid "Theme"
+msgstr "Szablon"
+
+#: includes/ecwd-cpt-class.php:547
+msgid "event"
+msgstr "wydarzenie"
+
+#: includes/ecwd-cpt-class.php:552 includes/ecwd-cpt-class.php:553
+#, php-format
+msgid "%4$s updated. %1$sView %2$s%3$s"
+msgstr "%4$s zaktualizowano. %1$s Widok %2$s%3$s"
+
+#: includes/ecwd-cpt-class.php:554
+#, php-format
+msgid "%4$s published. %1$sView %2$s%3$s"
+msgstr "%4$s opublikowano. %1$s Zobacz %2$s%3$s"
+
+#: includes/ecwd-cpt-class.php:555
+#, php-format
+msgid "%4$s saved. %1$sView %2$s%3$s"
+msgstr "%4$s opublikowano. %1$s Zobacz %2$s%3$s"
+
+#: includes/ecwd-cpt-class.php:556
+#, php-format
+msgid "%4$s submitted. %1$sView %2$s%3$s"
+msgstr "%4$s opublikowano. %1$s Zobacz %2$s%3$s"
+
+#: includes/ecwd-cpt-class.php:557
+#, php-format
+msgid "%4$s draft updated. %1$sView %2$s%3$s"
+msgstr "%4$s zaktualizowano szkic. %1$s Zobacz %2$s%3$s"
+
+#: includes/ecwd-cpt-class.php:567
+msgid "Calendar Settings"
+msgstr "Ustawienia Kalendarza"
+
+#: includes/ecwd-cpt-class.php:645
+msgid "Event Settings"
+msgstr "Ustawienia Wydarzenia"
+
+#: includes/ecwd-cpt-class.php:650
+msgid "Featured Image"
+msgstr "Obrazek Wyróżniający"
+
+#: includes/ecwd-cpt-class.php:687
+msgid "Calendar Theme Settings"
+msgstr "Ustawienia Szablonu Kalendarza"
+
+#: includes/ecwd-cpt-class.php:789
+msgid "Venue Location"
+msgstr "Lokalizacja Miejsca"
+
+#: includes/ecwd-cpt-class.php:1086
+msgid "Calendar ID"
+msgstr "ID Kalendarza"
+
+#: includes/ecwd-cpt-class.php:1087 views/admin/ecwd-calendar-meta.php:24
+msgid "Calendar Shortcode"
+msgstr "Shortcode Kalendarza"
+
+#: includes/ecwd-cpt-class.php:1097 views/admin/ecwd-event-meta.php:130
+msgid "Event Dates"
+msgstr "Daty Wydarzeń"
+
+#: includes/ecwd-cpt-class.php:1143
+msgid "Search Event Categories"
+msgstr "Szukaj Kategorii Wydarzeń"
+
+#: includes/ecwd-cpt-class.php:1144
+msgid "All Event Categories"
+msgstr "Wszystkie Kategorie Wydarzeń"
+
+#: includes/ecwd-cpt-class.php:1145
+msgid "Parent Category"
+msgstr "Kategoria Nadrzędna"
+
+#: includes/ecwd-cpt-class.php:1146
+msgid "Parent Category:"
+msgstr "Kategoria Nadrzędna:"
+
+#: includes/ecwd-cpt-class.php:1147
+msgid "Edit Category"
+msgstr "Edytuj Kategorię"
+
+#: includes/ecwd-cpt-class.php:1148
+msgid "Update Category"
+msgstr "Aktualizuj Kategorię"
+
+#: includes/ecwd-cpt-class.php:1149
+msgid "Add New Event Category"
+msgstr "Dodaj nową Kategorię Wydarzeń"
+
+#: includes/ecwd-cpt-class.php:1150
+msgid "New Event Category Name"
+msgstr "Nazwa Nowej Kategorii Wydarzenia"
+
+#: includes/ecwd-cpt-class.php:1151
+msgid "Event Categories"
+msgstr "Kategorie Wydarzeń"
+
+#: includes/ecwd-cpt-class.php:1170
+msgid "Event Tags"
+msgstr "Tagi Wydarzeń"
+
+#: includes/ecwd-cpt-class.php:1171
+msgid "Event Tag"
+msgstr "Tag Wydarzenia"
+
+#: includes/ecwd-cpt-class.php:1255 includes/ecwd-cpt-class.php:1273
+msgid "Icon"
+msgstr "Ikona"
+
+#: includes/ecwd-cpt-class.php:1256
+msgid "Color"
+msgstr "Kolor"
+
+#: includes/ecwd-cpt-filter.php:67 views/admin/ecwd-event-meta.php:132
+msgid "From"
+msgstr "Od"
+
+#: includes/ecwd-cpt-filter.php:74 views/admin/ecwd-event-meta.php:139
+msgid "To"
+msgstr "Do"
+
+#: includes/ecwd-event-class.php:188
+#, php-format
+msgid "%s year"
+msgstr "%s rok"
+
+#: includes/ecwd-event-class.php:188
+#, php-format
+msgid "%s years"
+msgstr "%s lat"
+
+#: includes/ecwd-event-class.php:189
+#, php-format
+msgid "%s month"
+msgstr "%s miesiąc"
+
+#: includes/ecwd-event-class.php:189
+#, php-format
+msgid "%s months"
+msgstr "%s miesięcy"
+
+#: includes/ecwd-event-class.php:190
+#, php-format
+msgid "%s week"
+msgstr "%s tydzień"
+
+#: includes/ecwd-event-class.php:190
+#, php-format
+msgid "%s weeks"
+msgstr "%s tygodni"
+
+#: includes/ecwd-event-class.php:191
+#, php-format
+msgid "%s day"
+msgstr "%s dzień"
+
+#: includes/ecwd-event-class.php:191
+#, php-format
+msgid "%s days"
+msgstr "%s dni"
+
+#: includes/ecwd-event-class.php:192
+#, php-format
+msgid "%s hour"
+msgstr "%s godzina"
+
+#: includes/ecwd-event-class.php:192
+#, php-format
+msgid "%s hours"
+msgstr "%s godziny"
+
+#: includes/ecwd-event-class.php:193
+#, php-format
+msgid "%s min"
+msgstr "%s min"
+
+#: includes/ecwd-event-class.php:193
+#, php-format
+msgid "%s mins"
+msgstr "%s min"
+
+#: includes/ecwd-functions.php:463 includes/texts.php:53
+msgid "DAYS"
+msgstr "DNI"
+
+#: includes/ecwd-functions.php:464 includes/texts.php:54
+msgid "HOURS"
+msgstr "GODZINY"
+
+#: includes/ecwd-functions.php:465 includes/texts.php:55
+msgid "MINUTES"
+msgstr "MINUTY"
+
+#: includes/ecwd-functions.php:466 includes/texts.php:56
+msgid "SECONDS"
+msgstr "SEKUNDY"
+
+#: includes/notices.php:17
+msgid "Leave A Review?"
+msgstr "Napiszesz Recenzję?"
+
+#: includes/notices.php:18
+msgid ""
+"We hope you've enjoyed using Event Calendar WD! Would you consider leaving "
+"us a review on WordPress.org?"
+msgstr ""
+"Mamy nadzieję, że podoba Ci się Event Calendar WD! Czy mógłbyś rozważyć "
+"napisanie recenzji na WordPress.org?"
+
+#: includes/notices.php:19
+msgid "Sure! I'd love to!"
+msgstr "Pewnie, że tak!"
+
+#: includes/notices.php:20
+msgid "I've already left a review"
+msgstr "Już napisałem"
+
+#: includes/notices.php:21
+msgid "Maybe Later"
+msgstr "Może później"
+
+#: includes/notices.php:22 includes/notices.php:34
+msgid "Never show again"
+msgstr "Nie pokazuj tego więcej"
+
+#: includes/notices.php:30
+msgid "Hey! How's It Going?"
+msgstr "Hej! Jak leci?"
+
+#: includes/notices.php:31
+msgid ""
+"Thank you for using Events Calendar WD! We hope that you've found everything "
+"you need, but if you have any questions:"
+msgstr ""
+"Dziękujemy za używanie Event Calendar WD! Mamy nadzieję, że znalazłeś "
+"wszystko, czego potrzebowałeś, ale jeśli masz jakieś pytania:"
+
+#: includes/notices.php:32
+msgid "Check out User Guide"
+msgstr "Sprawdź przewodnik użytkownika"
+
+#: includes/notices.php:33
+msgid "Get Some Help"
+msgstr "Znajdź pomoc"
+
+#: includes/register-settings.php:18
+msgid "Cache has been deleted."
+msgstr "Pamięć podręczna została wyczyszczona."
+
+#: includes/register-settings.php:46
+msgid "TimeZone"
+msgstr "Strefa Czasowa"
+
+#: includes/register-settings.php:47
+msgid ""
+"If the timezone is not set, the server timezone will be used (if set in php "
+"settings), otherwise the Europe/Berlin timezone will be used"
+msgstr ""
+"Jeśli strefa czasowa nie jest ustawiona, zostanie użyta strefa czasowa "
+"serwera (jeśli została ustawiona w php), w innym przypadku zostanie użyta "
+"strefa czasowa Europa/Berlin"
+
+#: includes/register-settings.php:53
+msgid "Date format"
+msgstr "Format daty"
+
+#: includes/register-settings.php:54
+msgid "Set the format for displaying event dates. Ex Y-m-d or Y/m/d"
+msgstr "Ustaw format wyświetlania daty. Np.Y-m-d lub Y/m/d"
+
+#: includes/register-settings.php:60
+msgid "Time format"
+msgstr "Format czasu"
+
+#: includes/register-settings.php:61
+msgid "Set the format for displaying event time. Ex H:i or H/i"
+msgstr "Ustaw format wyświetlania czasu. Np. H:i lub H/i"
+
+#: includes/register-settings.php:67
+msgid "Show AM/PM"
+msgstr "Pokaż AM/PM"
+
+#: includes/register-settings.php:68
+msgid "Select the time format type"
+msgstr "Ustaw format wyświetlania czasu"
+
+#: includes/register-settings.php:74
+msgid "List,Week,Day views day format"
+msgstr "Format wyświetlania dnia miesiąca"
+
+#: includes/register-settings.php:75
+msgid "Note: Changed date format will not be translatable"
+msgstr "Uwaga: Zmieniony format daty nie będzie tłumaczony"
+
+#: includes/register-settings.php:82
+msgid "Week start day"
+msgstr "Początek tygodnia"
+
+#: includes/register-settings.php:83
+msgid "Define the starting day for the week."
+msgstr "Ustaw dzień od którego zaczyna się tydzień."
+
+#: includes/register-settings.php:89
+msgid "Enable rewrite"
+msgstr "Włącz nadpisywanie"
+
+#: includes/register-settings.php:91
+msgid "Check yes to enable event(s) url rewrite rule."
+msgstr "Zaznacz \"Tak\" żeby włączyć nadpisywanie adresów url wydarzenia."
+
+#: includes/register-settings.php:97
+msgid "Events slug"
+msgstr "Uproszczona nazwa Wydarzeń"
+
+#: includes/register-settings.php:99
+msgid "Define the slug for the events list page."
+msgstr "Ustaw uproszczoną nazwę (slug) dla strony z listą wydarzeń."
+
+#: includes/register-settings.php:105
+msgid "Single Event slug"
+msgstr "Uproszczona nazwa wydarzenia"
+
+#: includes/register-settings.php:107
+msgid "Define the slug for the single event page."
+msgstr "Ustaw uproszczoną nazwę (slug) dla strony pojedynczego wydarzenia"
+
+#: includes/register-settings.php:113
+msgid "Enable comments for events"
+msgstr "Włącz komentarze do wydarzeń"
+
+#: includes/register-settings.php:114
+msgid "Check to enable commenting."
+msgstr "Zaznacz, żeby włączyć komentowanie."
+
+#: includes/register-settings.php:119
+msgid "Include events in main loop"
+msgstr "Czy dodać wydarzenia do wyświetlania postów?"
+
+#: includes/register-settings.php:120
+msgid "Check to display events within website post list in main pages."
+msgstr ""
+"Zaznacz, żeby wyświetlić wydarzenia razem z listą wpisów na głównych "
+"podstronach."
+
+#: includes/register-settings.php:125
+msgid "Order of Organizers and Venues by"
+msgstr "Kolejność Organizatorów i Miejsc"
+
+#: includes/register-settings.php:126
+msgid "Select Order of Organizers and Venues."
+msgstr "Wybierz kolejność sortowania Organizatorów i Miejsc"
+
+#: includes/register-settings.php:131
+msgid "Open events in new tab"
+msgstr "Otwórz wydarzenia na nowej karcie"
+
+#: includes/register-settings.php:138
+msgid "Enable Social Icons"
+msgstr "Włącz ikony społecznościowe"
+
+#: includes/register-settings.php:139
+msgid "Check to display social icons in event, organizer and venue pages."
+msgstr ""
+"Zaznacz, żeby wyświetlić ikony społecznościowe na stronach Wydarzenia, "
+"Organizatora i Miejsc"
+
+#: includes/register-settings.php:144
+msgid "Show related events in the event page"
+msgstr "Pokaż podobne wydarzenia na stronie Wydarzenia"
+
+#: includes/register-settings.php:151
+msgid "Apply category color to event title in event page"
+msgstr "Dołącz kolor kategorii do tytułu wydarzenia na stronie Wydarzenia"
+
+#: includes/register-settings.php:158
+msgid "Enable Category and Tags"
+msgstr "Włącz Kategorie i Tagi"
+
+#: includes/register-settings.php:159
+msgid "Check to display category and Tags."
+msgstr "Zaznacz, żeby wyświetlić kategorie i tagi."
+
+#: includes/register-settings.php:164
+msgid "Display Events in popup"
+msgstr "Wyświetl Wydarzenia w wyskakującym okienku"
+
+#: includes/register-settings.php:165
+msgid "Check to display events in popup."
+msgstr "Zaznacz, żeby wyświetlić wydarzenia w okienku popup."
+
+#: includes/register-settings.php:173
+msgid "Show the repeat rate"
+msgstr "Pokaż datę powtórzenia"
+
+#: includes/register-settings.php:174
+msgid "Check to show the repeat rate in event page ."
+msgstr "Zaznacz, żeby pokazać powtórzenie na stronie wydarzenia."
+
+#: includes/register-settings.php:453
+#, php-format
+msgid ""
+"The callback function used for the <strong>%s</strong> setting is missing."
+msgstr "Brakuje funkcji użytej do znaczników <strong>%s</strong>."
+
+#: includes/texts.php:2 views/admin/ecwd-event-meta.php:415
+msgid "January"
+msgstr "Styczeń"
+
+#: includes/texts.php:3 views/admin/ecwd-event-meta.php:417
+msgid "February"
+msgstr "Luty"
+
+#: includes/texts.php:4 views/admin/ecwd-event-meta.php:419
+msgid "March"
+msgstr "Marzec"
+
+#: includes/texts.php:5 views/admin/ecwd-event-meta.php:421
+msgid "April"
+msgstr "Kwiecień"
+
+#: includes/texts.php:6 views/admin/ecwd-event-meta.php:423
+msgid "May"
+msgstr "Maj"
+
+#: includes/texts.php:7 views/admin/ecwd-event-meta.php:425
+msgid "June"
+msgstr "Czerwiec"
+
+#: includes/texts.php:8 views/admin/ecwd-event-meta.php:427
+msgid "July"
+msgstr "Lipiec"
+
+#: includes/texts.php:9 views/admin/ecwd-event-meta.php:429
+msgid "August"
+msgstr "Sierpień"
+
+#: includes/texts.php:10 views/admin/ecwd-event-meta.php:431
+msgid "September"
+msgstr "Wrzesień"
+
+#: includes/texts.php:11 views/admin/ecwd-event-meta.php:433
+msgid "October"
+msgstr "Październik"
+
+#: includes/texts.php:12 views/admin/ecwd-event-meta.php:435
+msgid "November"
+msgstr "Listopad"
+
+#: includes/texts.php:13 views/admin/ecwd-event-meta.php:437
+msgid "December"
+msgstr "Grudzień"
+
+#: includes/texts.php:15 views/admin/ecwd-event-meta.php:347
+#: views/admin/ecwd-event-meta.php:406 views/admin/ecwd-event-meta.php:492
+msgid "Sunday"
+msgstr "Niedziela"
+
+#: includes/texts.php:16 views/admin/ecwd-event-meta.php:274
+#: views/admin/ecwd-event-meta.php:394 views/admin/ecwd-event-meta.php:480
+msgid "Monday"
+msgstr "Poniedziałek"
+
+#: includes/texts.php:17 views/admin/ecwd-event-meta.php:286
+#: views/admin/ecwd-event-meta.php:396 views/admin/ecwd-event-meta.php:482
+msgid "Tuesday"
+msgstr "Wtorek"
+
+#: includes/texts.php:18 views/admin/ecwd-event-meta.php:299
+#: views/admin/ecwd-event-meta.php:398 views/admin/ecwd-event-meta.php:484
+msgid "Wednesday"
+msgstr "Środa"
+
+#: includes/texts.php:19 views/admin/ecwd-event-meta.php:311
+#: views/admin/ecwd-event-meta.php:400 views/admin/ecwd-event-meta.php:486
+msgid "Thursday"
+msgstr "Czwartek"
+
+#: includes/texts.php:20 views/admin/ecwd-event-meta.php:323
+#: views/admin/ecwd-event-meta.php:402 views/admin/ecwd-event-meta.php:488
+msgid "Friday"
+msgstr "Piątek"
+
+#: includes/texts.php:21 views/admin/ecwd-event-meta.php:335
+#: views/admin/ecwd-event-meta.php:404 views/admin/ecwd-event-meta.php:490
+msgid "Saturday"
+msgstr "Sobota"
+
+#: includes/texts.php:25
+msgid "Sun"
+msgstr "Nd"
+
+#: includes/texts.php:26
+msgid "Mon"
+msgstr "Pn"
+
+#: includes/texts.php:27
+msgid "Tue"
+msgstr "Wt"
+
+#: includes/texts.php:28
+msgid "Wed"
+msgstr "Śr"
+
+#: includes/texts.php:29
+msgid "Thu"
+msgstr "Czw"
+
+#: includes/texts.php:30
+msgid "Fri"
+msgstr "Pt"
+
+#: includes/texts.php:31
+msgid "Sat"
+msgstr "So"
+
+#: includes/texts.php:34
+msgid "Su"
+msgstr "Nd"
+
+#: includes/texts.php:35
+msgid "Mo"
+msgstr "Pn"
+
+#: includes/texts.php:36
+msgid "Tu"
+msgstr "Wt"
+
+#: includes/texts.php:37
+msgid "We"
+msgstr "Śr"
+
+#: includes/texts.php:38
+msgid "Th"
+msgstr "Czw"
+
+#: includes/texts.php:39
+msgid "Fr"
+msgstr "Pt"
+
+#: includes/texts.php:40
+msgid "Sa"
+msgstr "So"
+
+#: includes/texts.php:44
+msgid "Show Filters"
+msgstr "Pokaż filtry"
+
+#: includes/texts.php:45
+msgid "Collapse Filters"
+msgstr "Zwiń filtry"
+
+#: includes/texts.php:46
+msgid "Reset Filters"
+msgstr "Resetuj Filtry"
+
+#: includes/texts.php:48
+msgid "Days"
+msgstr "Dni"
+
+#: includes/texts.php:49
+msgid "Categories"
+msgstr "Kategorie"
+
+#: includes/texts.php:57
+msgid "The event has just started"
+msgstr "Wydarzenie właśnie się rozpoczęło"
+
+#: includes/texts.php:60 views/admin/ecwd-event-meta.php:237
+msgid "Repeat every"
+msgstr "Powtórz przez"
+
+#: includes/texts.php:61
+msgid "Repeat every day"
+msgstr "Powtórz codziennie"
+
+#: includes/texts.php:62
+msgid "Repeat every week"
+msgstr "Powtórz co tydzień"
+
+#: includes/texts.php:63
+msgid "Repeat every month"
+msgstr "Powtórz co miesiąc"
+
+#: includes/texts.php:64
+msgid "Repeat every year"
+msgstr "Powtórz co roku"
+
+#: includes/texts.php:66
+msgid "days"
+msgstr "dni"
+
+#: includes/texts.php:67
+msgid "weeks"
+msgstr "tygodnie"
+
+#: includes/texts.php:68
+msgid "months"
+msgstr "miesiące"
+
+#: includes/texts.php:69
+msgid "years"
+msgstr "lata"
+
+#: includes/texts.php:70
+msgid "until"
+msgstr "do"
+
+#: includes/texts.php:72
+msgid "Sundays"
+msgstr "Niedziele"
+
+#: includes/texts.php:73
+msgid "Mondays"
+msgstr "Poniedziałki"
+
+#: includes/texts.php:74
+msgid "Tuesdays"
+msgstr "Wtorki"
+
+#: includes/texts.php:75
+msgid "Wednesdays"
+msgstr "Środy"
+
+#: includes/texts.php:76
+msgid "Thursdays"
+msgstr "Czwartki"
+
+#: includes/texts.php:77
+msgid "Fridays"
+msgstr "Piątki"
+
+#: includes/texts.php:78
+msgid "Saturdays"
+msgstr "Soboty"
+
+#: views/ecwd-event-content.php:71 views/ecwd-event-content.php:157
+#: views/ecwd-event-popup.php:141 views/ecwd-event-popup.php:243
+#: views/single-event.php:165 views/single-event.php:275
+msgid "Date"
+msgstr "Data"
+
+#: views/ecwd-event-content.php:95 views/ecwd-event-popup.php:173
+#: views/single-event.php:204
+msgid "Url"
+msgstr "Url"
+
+#: views/ecwd-event-popup.php:201 views/single-event.php:233
+msgid "Location"
+msgstr "Lokalizacja"
+
+#: views/ecwd-organizer-content.php:110
+msgid "upcoming events"
+msgstr "nadchodzące wydarzenia"
+
+#: views/ecwd-venue-content.php:141
+msgid "events"
+msgstr "wydarzenia"
+
+#: views/single-event.php:152
+msgid "Back"
+msgstr "Plecy"
+
+#: views/single-event.php:478
+msgid "Related events"
+msgstr "Podobne wydarzenia"
+
+#: views/widgets.php:19
+msgid "Descr"
+msgstr "Opis"
+
+#: views/widgets.php:63
+msgid ""
+"No valid Event IDs have been entered for this widget. Please check that you "
+"have entered the IDs correctly in the widget settings (Appearance > "
+"Widgets), and that the Events have not been deleted."
+msgstr ""
+"Nie zostało prowadzone poprawne ID wydarzenia dla tego wigdetu. Proszę "
+"sprawdzić, czy poprawnie wpisałeś ID  w ustawieniach widgetu (Wygląd > "
+"Widgety) oraz czy Wydarzenie nie zostało usunięte."
+
+#: views/widgets.php:95
+msgid "You have not added any events yet."
+msgstr "Jeszcze nie dodałeś żadnych wydarzeń."
+
+#: views/widgets.php:128
+msgid "There are no calendars created yet."
+msgstr "Jeszcze nie utworzyłeś żadnego kalendarza."
+
+#: views/widgets.php:129
+msgid "Add your first calendar!"
+msgstr "Dodaj pierwszy kalendarz!"
+
+#: views/widgets.php:147
+msgid "Title:"
+msgstr "Tytuł:"
+
+#: views/widgets.php:152
+msgid "Calendar to display"
+msgstr "Kalendarz do wyświetlenia"
+
+#: views/widgets.php:166
+msgid "Display Events as:"
+msgstr "Wyświetlaj Wydarzenia jako:"
+
+#: views/widgets.php:175
+msgid "Events per page in list view:"
+msgstr "Ilość wydarzeń na stronę w widoku listy:"
+
+#: views/admin/ecwd-calendar-meta.php:21
+msgid "Preview"
+msgstr "Podgląd"
+
+#: views/admin/ecwd-calendar-meta.php:21 views/admin/ecwd-calendar-meta.php:77
+msgid "Add Event"
+msgstr "Dodaj Wydarzenie"
+
+#: views/admin/ecwd-calendar-meta.php:28
+msgid ""
+"Copy and paste this shortcode to display this Calendar event on any post or "
+"page."
+msgstr ""
+"Skopiu ten kod a następnie wklej na stronę lub wpis, żeby wyświetlić ten "
+"kalendarz w dowolnym miejscu."
+
+#: views/admin/ecwd-calendar-meta.php:74
+msgid "Select Events from the list"
+msgstr "Wybierz Wydarzenia z listy"
+
+#: views/admin/ecwd-calendar-meta.php:99
+msgid "Default"
+msgstr "Domyślne"
+
+#: views/admin/ecwd-event-cat-meta.php:4
+#: views/admin/ecwd-event-cat-meta.php:31
+msgid "Image"
+msgstr "Obrazek"
+
+#: views/admin/ecwd-event-cat-meta.php:11
+#: views/admin/ecwd-event-cat-meta.php:34
+msgid "Upload/Add image"
+msgstr "Załaduj / Dodaj obrazek"
+
+#: views/admin/ecwd-event-cat-meta.php:13
+msgid "Remove image"
+msgstr "Usuń obrazek"
+
+#: views/admin/ecwd-event-cat-meta.php:20
+#: views/admin/ecwd-event-cat-meta.php:37
+msgid "Category color"
+msgstr "Kolor Kategorii"
+
+#: views/admin/ecwd-event-cat-meta.php:26
+msgid "Choose the color"
+msgstr "Wybierz kolor"
+
+#: views/admin/ecwd-event-meta.php:54
+msgid "Event Venue"
+msgstr "Miejsce Wydarzenia"
+
+#: views/admin/ecwd-event-meta.php:74
+msgid "Select the venue of the event."
+msgstr "Wybierz miejsce wydarzenia."
+
+#: views/admin/ecwd-event-meta.php:78
+msgid "There is no venue added yet"
+msgstr "Jeszcze nie ma żadnych miejsc"
+
+#: views/admin/ecwd-event-meta.php:83
+msgid "Event Location"
+msgstr "Lokalizacja Wydarzenia"
+
+#: views/admin/ecwd-event-meta.php:115
+msgid ""
+"If venue is not specified you can fill in the address of the event location "
+"or click on the map to drag and drop the marker to the event location."
+msgstr ""
+"Jeśli Miejsce nie zostało zdefiniowane, możesz wypełnić adres lokalizacji "
+"wydarzenia, lub kliknąć na mapie, żeby umieścić znacznik w miejscu "
+"wydarzenia."
+
+#: views/admin/ecwd-event-meta.php:120
+msgid "Show map in event page"
+msgstr "Pokaż mapę na podstronie wydarzenia"
+
+#: views/admin/ecwd-event-meta.php:160
+msgid ""
+"Fill in the starting and ending dates and time of the event. If the event "
+"lasts entire day, check the box on the right."
+msgstr ""
+"Wypełnij daty rozpoczęcia i zakończenia oraz czas wydarzenia. Jeśli "
+"wydarzenie trwa cały dzień, zaznacz pole wyboru z prawej strony."
+
+#: views/admin/ecwd-event-meta.php:167 views/admin/ecwd-event-meta.php:520
+msgid "Repeat rate"
+msgstr "Powtórzenie"
+
+#: views/admin/ecwd-event-meta.php:181
+msgid "Don't repeat"
+msgstr "Nie powtarzaj"
+
+#: views/admin/ecwd-event-meta.php:191
+msgid "Daily"
+msgstr "Dziennie"
+
+#: views/admin/ecwd-event-meta.php:203
+msgid "Weekly"
+msgstr "Tygodniowo"
+
+#: views/admin/ecwd-event-meta.php:218
+msgid "Monthly"
+msgstr "Miesięcznie"
+
+#: views/admin/ecwd-event-meta.php:231
+msgid "Yearly"
+msgstr "Rocznie"
+
+#: views/admin/ecwd-event-meta.php:243
+msgid "day(s)"
+msgstr "dzień(dni)"
+
+#: views/admin/ecwd-event-meta.php:248
+msgid "weeks(s)"
+msgstr "tydzień(tygodnie)"
+
+#: views/admin/ecwd-event-meta.php:249
+msgid "on "
+msgstr "wł"
+
+#: views/admin/ecwd-event-meta.php:253
+msgid "month(s)"
+msgstr "Miesiąc(e)"
+
+#: views/admin/ecwd-event-meta.php:257
+msgid "year(s) in "
+msgstr "rok(lata) w"
+
+#: views/admin/ecwd-event-meta.php:360 views/admin/ecwd-event-meta.php:446
+msgid "On the same day"
+msgstr "Tego samego dnia"
+
+#: views/admin/ecwd-event-meta.php:377 views/admin/ecwd-event-meta.php:463
+msgid "On the: "
+msgstr "W:"
+
+#: views/admin/ecwd-event-meta.php:381 views/admin/ecwd-event-meta.php:467
+msgid "First"
+msgstr "Pierwszy"
+
+#: views/admin/ecwd-event-meta.php:383 views/admin/ecwd-event-meta.php:469
+msgid "Second"
+msgstr "Drugi"
+
+#: views/admin/ecwd-event-meta.php:385 views/admin/ecwd-event-meta.php:471
+msgid "Third"
+msgstr "Trzeci"
+
+#: views/admin/ecwd-event-meta.php:387 views/admin/ecwd-event-meta.php:473
+msgid "Fourth"
+msgstr "Czwarty"
+
+#: views/admin/ecwd-event-meta.php:389 views/admin/ecwd-event-meta.php:475
+msgid "Last"
+msgstr "Ostatni"
+
+#: views/admin/ecwd-event-meta.php:502
+msgid "Repeat until"
+msgstr "Powtarzaj do"
+
+#: views/admin/ecwd-event-meta.php:514
+msgid "Specify the repeating rate of the event."
+msgstr "Uściślij częstotliwość powtórzenia wydarzenia."
+
+#: views/admin/ecwd-event-meta.php:522
+msgid "Upgrade to Pro version"
+msgstr "Aktualizuj do wersji Pro"
+
+#: views/admin/ecwd-event-meta.php:527
+msgid "Event URL"
+msgstr "adres URL Wydarzenia"
+
+#: views/admin/ecwd-event-meta.php:533
+msgid "Provide a custom URL which will display event details."
+msgstr ""
+"Podaj własny adres URL pod którym będą wyświetlać się szczegóły wydarzenia."
+
+#: views/admin/ecwd-event-meta.php:538
+msgid "Event Video URL"
+msgstr "Adres URL do wideo Wydarzenia"
+
+#: views/admin/ecwd-event-meta.php:544
+msgid "Provide Youtube or Vimeo URL of the video to accompany the event."
+msgstr "Podaj adres URL YouTube lub Vimeo z filmem towarzyszącym wydarzeniu."
+
+#: views/admin/ecwd-event-organizers-meta.php:37
+msgid "Add organizer"
+msgstr "Dodaj Organizatora"
+
+#: views/admin/ecwd-venue-meta.php:44
+msgid ""
+"Fill in the address of the venue or click on the map to drag and drop the "
+"marker to a specific location"
+msgstr ""
+"Wypełnij adres Miejsca, lub kliknij na mapie, żeby żeby umieścić znacznik w "
+"docelowym miejscu"
+
+#: views/admin/import.php:32
+msgid "Choose csv file"
+msgstr "Wybierz plik csv"
+
+#: views/admin/import.php:34
+msgid "Import"
+msgstr "Importuj"
+
+#: views/admin/import.php:47
+msgid "Download Export File"
+msgstr "Pobierz plik eksportu"
+
+#: ecwd_class.php:173
+msgid "Event Details"
+msgstr "Szczegóły zdarzenia"
+
+#~ msgid "Map"
+#~ msgstr "Mapa"
+
+#~ msgid "What're we looking for ?"
+#~ msgstr "Czego szukasz?"

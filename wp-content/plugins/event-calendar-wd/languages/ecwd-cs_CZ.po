@@ -1,0 +1,393 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: event_calendar_wd\n"
+"POT-Creation-Date: 2015-07-23 13:04+0400\n"
+"PO-Revision-Date: 2016-06-15 12:27+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPathExcluded-0: views/admin\n"
+"X-Poedit-SearchPathExcluded-1: js\n"
+"X-Poedit-SearchPathExcluded-2: includes/ecwd-cpt-class.php\n"
+"X-Poedit-SearchPathExcluded-3: includes/register-settings.php\n"
+"X-Poedit-SearchPathExcluded-4: includes/ecwd-ical-events-class.php\n"
+"X-Poedit-SearchPathExcluded-5: includes/ecwd-google-events-class.php\n"
+"X-Poedit-SearchPathExcluded-6: includes/ecwd-facebook-events-class.php\n"
+"X-Poedit-SearchPathExcluded-7: ecwd_admin_class.php\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/calendar-class.php:175 includes/calendar-class.php:176
+#: views/widgets.php:168
+msgid "Month"
+msgstr "Měsíc"
+
+#: includes/calendar-class.php:177 views/widgets.php:169
+msgid "List"
+msgstr "Seznam"
+
+#: includes/calendar-class.php:179
+msgid "Week"
+msgstr "Týden"
+
+#: includes/calendar-class.php:183
+msgid "Day"
+msgstr "Den"
+
+#: includes/calendar-class.php:186
+msgid "Map"
+msgstr "Mapa"
+
+#: includes/calendar-class.php:188
+msgid "4 Days"
+msgstr "4 dny"
+
+#: includes/calendar-class.php:191
+msgid "Posterboard"
+msgstr "Nástěnka"
+
+#: includes/calendar-class.php:383 includes/calendar-class.php:417
+#: includes/calendar-class.php:572 includes/calendar-class.php:1181
+#: includes/calendar-class.php:1330 includes/ecwd-functions.php:360
+#: views/ecwd-event-content.php:76 views/ecwd-event-content.php:158
+#: views/ecwd-organizer-content.php:145 views/ecwd-venue-content.php:178
+#: views/single-event.php:151 views/single-event.php:247
+#: views/single-event.php:487
+msgid "All day"
+msgstr "Celý den"
+
+#: includes/calendar-class.php:440 includes/calendar-class.php:520
+#: includes/calendar-class.php:1386
+msgid "No events"
+msgstr "Žádné události"
+
+#: includes/calendar-class.php:644
+msgid "No Events"
+msgstr "Žádné události"
+
+#: includes/calendar-class.php:1256
+msgid "More events"
+msgstr "Mais eventos"
+
+#: includes/ecwd-cpt-filter.php:67
+msgid "From"
+msgstr "Od"
+
+#: includes/ecwd-cpt-filter.php:74
+msgid "To"
+msgstr "Do"
+
+#: includes/ecwd-display-class.php:876 includes/ecwd-display-class.php:882
+#: includes/ecwd-display-class.php:900 includes/ecwd-display-class.php:917
+#: includes/texts.php:60
+msgid "Repeat every"
+msgstr "Opakovat každý"
+
+#: includes/ecwd-display-class.php:876 includes/texts.php:66
+msgid "days"
+msgstr "dny"
+
+#: includes/ecwd-display-class.php:878 includes/texts.php:61
+msgid "Repeat every day"
+msgstr "Opakovat každý den"
+
+#: includes/ecwd-display-class.php:882 includes/texts.php:67
+msgid "weeks"
+msgstr "týdny"
+
+#: includes/ecwd-display-class.php:884 includes/texts.php:62
+msgid "Repeat every week"
+msgstr "Opakovat každý týden"
+
+#: includes/ecwd-display-class.php:889
+msgid "on"
+msgstr "zapnuto"
+
+#: includes/ecwd-display-class.php:900 includes/texts.php:68
+msgid "months"
+msgstr "měsíce"
+
+#: includes/ecwd-display-class.php:902 includes/texts.php:63
+msgid "Repeat every month"
+msgstr "Opakovat každý měsíc"
+
+#: includes/ecwd-display-class.php:907 includes/ecwd-display-class.php:931
+msgid "on the same day"
+msgstr "ve stejný den"
+
+#: includes/ecwd-display-class.php:912 includes/ecwd-display-class.php:936
+msgid "on the"
+msgstr "ve"
+
+#: includes/ecwd-display-class.php:917 includes/texts.php:69
+msgid "years"
+msgstr "roky"
+
+#: includes/ecwd-display-class.php:919 includes/texts.php:64
+msgid "Repeat every year"
+msgstr "Opakovat každý rok"
+
+#: includes/ecwd-display-class.php:940 includes/texts.php:70
+msgid "until"
+msgstr "do"
+
+#: includes/ecwd-functions.php:8
+msgid "Loading..."
+msgstr "Nahrávám …"
+
+#: includes/ecwd-functions.php:439 includes/texts.php:53
+msgid "DAYS"
+msgstr "DNY"
+
+#: includes/ecwd-functions.php:440 includes/texts.php:54
+msgid "HOURS"
+msgstr "HODINY"
+
+#: includes/ecwd-functions.php:441 includes/texts.php:55
+msgid "MINUTES"
+msgstr "MINUTY"
+
+#: includes/ecwd-functions.php:442 includes/texts.php:56
+msgid "SECONDS"
+msgstr "SEKUNDY"
+
+#: includes/texts.php:2
+msgid "January"
+msgstr "Leden"
+
+#: includes/texts.php:3
+msgid "February"
+msgstr "Únor"
+
+#: includes/texts.php:4
+msgid "March"
+msgstr "Březen"
+
+#: includes/texts.php:5
+msgid "April"
+msgstr "Duben"
+
+#: includes/texts.php:6
+msgid "May"
+msgstr "Květen"
+
+#: includes/texts.php:7
+msgid "June"
+msgstr "Červen"
+
+#: includes/texts.php:8
+msgid "July"
+msgstr "Červenec"
+
+#: includes/texts.php:9
+msgid "August"
+msgstr "Srpen"
+
+#: includes/texts.php:10
+msgid "September"
+msgstr "Září"
+
+#: includes/texts.php:11
+msgid "October"
+msgstr "Říjen"
+
+#: includes/texts.php:12
+msgid "November"
+msgstr "Listopad"
+
+#: includes/texts.php:13
+msgid "December"
+msgstr "Prosinec"
+
+#: includes/texts.php:15
+msgid "Sunday"
+msgstr "Neděle"
+
+#: includes/texts.php:16
+msgid "Monday"
+msgstr "Pondělí"
+
+#: includes/texts.php:17
+msgid "Tuesday"
+msgstr "Úterý"
+
+#: includes/texts.php:18
+msgid "Wednesday"
+msgstr "Středa"
+
+#: includes/texts.php:19
+msgid "Thursday"
+msgstr "Čtvrtek"
+
+#: includes/texts.php:20
+msgid "Friday"
+msgstr "Pátek"
+
+#: includes/texts.php:21
+msgid "Saturday"
+msgstr "Sobota"
+
+#: includes/texts.php:25
+msgid "Sun"
+msgstr "Ne"
+
+#: includes/texts.php:26
+msgid "Mon"
+msgstr "Po"
+
+#: includes/texts.php:27
+msgid "Tue"
+msgstr "Út"
+
+#: includes/texts.php:28
+msgid "Wed"
+msgstr "St"
+
+#: includes/texts.php:29
+msgid "Thu"
+msgstr "Čt"
+
+#: includes/texts.php:30
+msgid "Fri"
+msgstr "Pá"
+
+#: includes/texts.php:31
+msgid "Sat"
+msgstr "So"
+
+#: includes/texts.php:34
+msgid "Su"
+msgstr "Ne"
+
+#: includes/texts.php:35
+msgid "Mo"
+msgstr "Po"
+
+#: includes/texts.php:36
+msgid "Tu"
+msgstr "Út"
+
+#: includes/texts.php:37
+msgid "We"
+msgstr "St"
+
+#: includes/texts.php:38
+msgid "Th"
+msgstr "Čt"
+
+#: includes/texts.php:39
+msgid "Fr"
+msgstr "Pá"
+
+#: includes/texts.php:40
+msgid "Sa"
+msgstr "So"
+
+#: includes/texts.php:44
+msgid "Show Filters"
+msgstr "Rozbalit možnosti"
+
+#: includes/texts.php:45
+msgid "Collapse Filters"
+msgstr "Sbalit možnosti"
+
+#: includes/texts.php:46
+msgid "Reset Filters"
+msgstr "Vymazat možnosti"
+
+#: includes/texts.php:48
+msgid "Days"
+msgstr "Dny"
+
+#: includes/texts.php:49
+msgid "Categories"
+msgstr "Kategorie"
+
+#: includes/texts.php:50
+msgid "Venues"
+msgstr "Místa"
+
+#: includes/texts.php:57
+msgid "The event has just started"
+msgstr "Událost právě začala"
+
+#: includes/texts.php:72
+msgid "Sundays"
+msgstr "Neděle"
+
+#: includes/texts.php:73
+msgid "Mondays"
+msgstr "Pondělí"
+
+#: includes/texts.php:74
+msgid "Tuesdays"
+msgstr "Úterý"
+
+#: includes/texts.php:75
+msgid "Wednesdays"
+msgstr "Středy"
+
+#: includes/texts.php:76
+msgid "Thursdays"
+msgstr "Čtvrtky"
+
+#: includes/texts.php:77
+msgid "Fridays"
+msgstr "Pátky"
+
+#: includes/texts.php:78
+msgid "Saturdays"
+msgstr "Soboty"
+
+#: views/ecwd-event-content.php:67 views/ecwd-event-content.php:153
+#: views/single-event.php:142 views/single-event.php:242
+msgid "Date"
+msgstr "Datum"
+
+#: views/ecwd-event-content.php:91 views/single-event.php:170
+msgid "Url"
+msgstr "Url"
+
+#: views/ecwd-event-content.php:97 views/single-event.php:177
+msgid "Organizers"
+msgstr "Organizátoři"
+
+#: views/ecwd-organizer-content.php:109
+msgid "upcoming events"
+msgstr "nejbližší události"
+
+#: views/ecwd-venue-content.php:141
+msgid "events"
+msgstr "události"
+
+#: views/single-event.php:190
+msgid "Venue"
+msgstr "Místo"
+
+#: views/single-event.php:200
+msgid "Location"
+msgstr "Umístění"
+
+#: views/single-event.php:449
+msgid "Related events"
+msgstr "Související události"
+
+#: views/single-event.php:163
+msgid "Back"
+msgstr "Zadní"
+
+#: ecwd_class.php:173
+msgid "Event Details"
+msgstr "Podrobnosti o události"
+
+#~ msgid "What're we looking for ?"
+#~ msgstr "O que vocę estamos procurando?"
+
+#~ msgid "No additional details for this event."
+#~ msgstr "Não há detalhes adicionais para este evento."

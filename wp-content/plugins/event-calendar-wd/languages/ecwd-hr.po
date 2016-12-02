@@ -1,0 +1,1524 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: event_calendar_wd\n"
+"POT-Creation-Date: 2016-01-19 13:43+0400\n"
+"PO-Revision-Date: 2016-06-15 12:23+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPathExcluded-0: views/admin\n"
+"X-Poedit-SearchPathExcluded-1: js\n"
+"X-Poedit-SearchPathExcluded-2: includes/ecwd-cpt-class.php\n"
+"X-Poedit-SearchPathExcluded-3: includes/register-settings.php\n"
+"X-Poedit-SearchPathExcluded-4: includes/ecwd-ical-events-class.php\n"
+"X-Poedit-SearchPathExcluded-5: includes/ecwd-google-events-class.php\n"
+"X-Poedit-SearchPathExcluded-6: includes/ecwd-facebook-events-class.php\n"
+"X-Poedit-SearchPathExcluded-7: ecwd_admin_class.php\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ecwd_class.php:54
+msgid "Could not load the localization file: "
+msgstr "Nije moguće učitati datoteku lokalizacije:"
+
+#: ecwd_class.php:138 includes/ecwd-functions.php:11
+msgid "Loading..."
+msgstr "Učitavanje..."
+
+#: includes/calendar-class.php:204 includes/calendar-class.php:205
+#: views/widgets.php:168
+msgid "Month"
+msgstr "Mjesec"
+
+#: includes/calendar-class.php:206 views/widgets.php:169
+msgid "List"
+msgstr "Lista"
+
+#: includes/calendar-class.php:208 views/widgets.php:170
+msgid "Week"
+msgstr "Tjedan"
+
+#: includes/calendar-class.php:212 views/widgets.php:171
+msgid "Day"
+msgstr "Dan"
+
+#: includes/calendar-class.php:215
+msgid "Map"
+msgstr "Mapa"
+
+#: includes/calendar-class.php:217
+msgid "4 Days"
+msgstr "4 dana"
+
+#: includes/calendar-class.php:220
+msgid "Posterboard"
+msgstr "Posterboard"
+
+#: includes/calendar-class.php:421 includes/calendar-class.php:461
+#: includes/calendar-class.php:621 includes/calendar-class.php:1238
+#: includes/calendar-class.php:1383 includes/ecwd-functions.php:414
+#: views/ecwd-event-content.php:81 views/ecwd-event-content.php:168
+#: views/ecwd-event-popup.php:151 views/ecwd-event-popup.php:249
+#: views/ecwd-organizer-content.php:150 views/ecwd-venue-content.php:183
+#: views/single-event.php:176 views/single-event.php:283
+#: views/single-event.php:524
+msgid "All day"
+msgstr "Cijeli dan"
+
+#: includes/calendar-class.php:484 includes/calendar-class.php:569
+#: includes/calendar-class.php:1441
+msgid "No events"
+msgstr "Nema događanja"
+
+#: includes/calendar-class.php:694
+msgid "No Events"
+msgstr "Nema Događanja"
+
+#: includes/calendar-class.php:1316
+msgid "More events"
+msgstr "Više događanja"
+
+#: includes/ecwd-cpt-filter.php:67
+msgid "From"
+msgstr "Od"
+
+#: includes/ecwd-cpt-filter.php:74
+msgid "To"
+msgstr "Za"
+
+#: includes/ecwd-display-class.php:856 includes/ecwd-display-class.php:862
+#: includes/ecwd-display-class.php:880 includes/ecwd-display-class.php:897
+#: includes/texts.php:60
+msgid "Repeat every"
+msgstr "Ponovite svaki"
+
+#: includes/ecwd-display-class.php:856 includes/texts.php:66
+msgid "days"
+msgstr "dana"
+
+#: includes/ecwd-display-class.php:858 includes/texts.php:61
+msgid "Repeat every day"
+msgstr "Ponovite svaki dan"
+
+#: includes/ecwd-display-class.php:862 includes/texts.php:67
+msgid "weeks"
+msgstr "tjedana"
+
+#: includes/ecwd-display-class.php:864 includes/texts.php:62
+msgid "Repeat every week"
+msgstr "Ponovite svaki tjedan"
+
+#: includes/ecwd-display-class.php:869
+msgid "on"
+msgstr "na"
+
+#: includes/ecwd-display-class.php:880 includes/texts.php:68
+msgid "months"
+msgstr "mjeseci"
+
+#: includes/ecwd-display-class.php:882 includes/texts.php:63
+msgid "Repeat every month"
+msgstr "Ponovite svaki mjesec"
+
+#: includes/ecwd-display-class.php:887 includes/ecwd-display-class.php:911
+msgid "on the same day"
+msgstr "na isti dan"
+
+#: includes/ecwd-display-class.php:892 includes/ecwd-display-class.php:916
+msgid "on the"
+msgstr "na"
+
+#: includes/ecwd-display-class.php:897 includes/texts.php:69
+msgid "years"
+msgstr "godine"
+
+#: includes/ecwd-display-class.php:899 includes/texts.php:64
+msgid "Repeat every year"
+msgstr "Ponovite svake godine"
+
+#: includes/ecwd-display-class.php:920 includes/texts.php:70
+msgid "until"
+msgstr "do"
+
+#: includes/ecwd-event-class.php:188
+#, php-format
+msgid "%s year"
+msgstr "%s godinu"
+
+#: includes/ecwd-event-class.php:188
+#, php-format
+msgid "%s years"
+msgstr "%s godina"
+
+#: includes/ecwd-event-class.php:189
+#, php-format
+msgid "%s month"
+msgstr "%s mjesec"
+
+#: includes/ecwd-event-class.php:189
+#, php-format
+msgid "%s months"
+msgstr "%s mjeseci"
+
+#: includes/ecwd-event-class.php:190
+#, php-format
+msgid "%s week"
+msgstr "%s tjedna"
+
+#: includes/ecwd-event-class.php:190
+#, php-format
+msgid "%s weeks"
+msgstr "%s tjedana"
+
+#: includes/ecwd-event-class.php:191
+#, php-format
+msgid "%s day"
+msgstr "%s dana"
+
+#: includes/ecwd-event-class.php:191
+#, php-format
+msgid "%s days"
+msgstr "%s dana"
+
+#: includes/ecwd-event-class.php:192
+#, php-format
+msgid "%s hour"
+msgstr "%s sat"
+
+#: includes/ecwd-event-class.php:192
+#, php-format
+msgid "%s hours"
+msgstr "%s sati"
+
+#: includes/ecwd-event-class.php:193
+#, php-format
+msgid "%s min"
+msgstr "%s min"
+
+#: includes/ecwd-event-class.php:193
+#, php-format
+msgid "%s mins"
+msgstr "%s mina"
+
+#: includes/ecwd-functions.php:495 includes/texts.php:53
+msgid "DAYS"
+msgstr "DANI"
+
+#: includes/ecwd-functions.php:496 includes/texts.php:54
+msgid "HOURS"
+msgstr "SATI"
+
+#: includes/ecwd-functions.php:497 includes/texts.php:55
+msgid "MINUTES"
+msgstr "MINUTE"
+
+#: includes/ecwd-functions.php:498 includes/texts.php:56
+msgid "SECONDS"
+msgstr "SEKUNDE"
+
+#: includes/notices.php:20
+msgid "Leave A Review?"
+msgstr "Ostavite recenziju?"
+
+#: includes/notices.php:21
+msgid ""
+"We hope you've enjoyed using Event Calendar WD! Would you consider leaving "
+"us a review on WordPress.org?"
+msgstr ""
+"Nadamo se da ste uživali koristeći Event Calendar WD! Biste li nam ostavili "
+"recenziju na WordPress.org?"
+
+#: includes/notices.php:22
+msgid "Sure! I'd love to!"
+msgstr "Naravno! Volio bih!"
+
+#: includes/notices.php:23
+msgid "I've already left a review"
+msgstr "Već sam ostavio recenziju"
+
+#: includes/notices.php:24
+msgid "Maybe Later"
+msgstr "Možda kasnije"
+
+#: includes/notices.php:25 includes/notices.php:37
+msgid "Never show again"
+msgstr "Ne prikazuj ponovo"
+
+#: includes/notices.php:33
+msgid "Hey! How's It Going?"
+msgstr "Hej! Kako ide?"
+
+#: includes/notices.php:34
+msgid ""
+"Thank you for using Events Calendar WD! We hope that you've found everything "
+"you need, but if you have any questions:"
+msgstr ""
+"Hvala što koristite Events Calendar WD! Nadamo se da ste pronašli sve što "
+"vam je potrebno, ali ako imate bilo kakvih pitanja:"
+
+#: includes/notices.php:35
+msgid "Check out User Guide"
+msgstr "Pogledajte Vodič za korisnike"
+
+#: includes/notices.php:36
+msgid "Get Some Help"
+msgstr "Potražite pomoć"
+
+#: includes/texts.php:2
+msgid "January"
+msgstr "Siječanj"
+
+#: includes/texts.php:3
+msgid "February"
+msgstr "Veljača"
+
+#: includes/texts.php:4
+msgid "March"
+msgstr "Ožujak"
+
+#: includes/texts.php:5
+msgid "April"
+msgstr "Travanj"
+
+#: includes/texts.php:6 includes/texts.php:84
+msgid "May"
+msgstr "Svibanj"
+
+#: includes/texts.php:7
+msgid "June"
+msgstr "Lipanj"
+
+#: includes/texts.php:8
+msgid "July"
+msgstr "Srpanj"
+
+#: includes/texts.php:9
+msgid "August"
+msgstr "Kolovoz"
+
+#: includes/texts.php:10
+msgid "September"
+msgstr "Rujan"
+
+#: includes/texts.php:11
+msgid "October"
+msgstr "Listopad"
+
+#: includes/texts.php:12
+msgid "November"
+msgstr "Studeni"
+
+#: includes/texts.php:13
+msgid "December"
+msgstr "Prosinac"
+
+#: includes/texts.php:15
+msgid "Sunday"
+msgstr "Nedjelja"
+
+#: includes/texts.php:16
+msgid "Monday"
+msgstr "Ponedjeljak"
+
+#: includes/texts.php:17
+msgid "Tuesday"
+msgstr "Utorak"
+
+#: includes/texts.php:18
+msgid "Wednesday"
+msgstr "Srijeda"
+
+#: includes/texts.php:19
+msgid "Thursday"
+msgstr "Četvrtak"
+
+#: includes/texts.php:20
+msgid "Friday"
+msgstr "Petak"
+
+#: includes/texts.php:21
+msgid "Saturday"
+msgstr "Subota"
+
+#: includes/texts.php:25
+msgid "Sun"
+msgstr "Ned"
+
+#: includes/texts.php:26
+msgid "Mon"
+msgstr "Pon"
+
+#: includes/texts.php:27
+msgid "Tue"
+msgstr "Uto"
+
+#: includes/texts.php:28
+msgid "Wed"
+msgstr "Sri"
+
+#: includes/texts.php:29
+msgid "Thu"
+msgstr "Čet"
+
+#: includes/texts.php:30
+msgid "Fri"
+msgstr "Pet"
+
+#: includes/texts.php:31
+msgid "Sat"
+msgstr "Sub"
+
+#: includes/texts.php:34
+msgid "Su"
+msgstr "N"
+
+#: includes/texts.php:35
+msgid "Mo"
+msgstr "P"
+
+#: includes/texts.php:36
+msgid "Tu"
+msgstr "U"
+
+#: includes/texts.php:37
+msgid "We"
+msgstr "S"
+
+#: includes/texts.php:38
+msgid "Th"
+msgstr "Č"
+
+#: includes/texts.php:39
+msgid "Fr"
+msgstr "P"
+
+#: includes/texts.php:40
+msgid "Sa"
+msgstr "S"
+
+#: includes/texts.php:44
+msgid "Show Filters"
+msgstr "Pokaži filtre"
+
+#: includes/texts.php:45
+msgid "Collapse Filters"
+msgstr "Sažmi filtre"
+
+#: includes/texts.php:46
+msgid "Reset Filters"
+msgstr "Resetiraj filtre"
+
+#: includes/texts.php:48
+msgid "Days"
+msgstr "Dani"
+
+#: includes/texts.php:49
+msgid "Categories"
+msgstr "Kategorije"
+
+#: includes/texts.php:50
+msgid "Venues"
+msgstr "Mjesta održavanja"
+
+#: includes/texts.php:57
+msgid "The event has just started"
+msgstr "Događanje je upravo počelo"
+
+#: includes/texts.php:72
+msgid "Sundays"
+msgstr "Nedjeljom"
+
+#: includes/texts.php:73
+msgid "Mondays"
+msgstr "Ponedjeljkom"
+
+#: includes/texts.php:74
+msgid "Tuesdays"
+msgstr "Utorkom"
+
+#: includes/texts.php:75
+msgid "Wednesdays"
+msgstr "Srijedom"
+
+#: includes/texts.php:76
+msgid "Thursdays"
+msgstr "Četvrtkom"
+
+#: includes/texts.php:77
+msgid "Fridays"
+msgstr "Petkom"
+
+#: includes/texts.php:78
+msgid "Saturdays"
+msgstr "Subotom"
+
+#: includes/texts.php:80
+msgid "Jan"
+msgstr "Sij"
+
+#: includes/texts.php:81
+msgid "Feb"
+msgstr "Velj"
+
+#: includes/texts.php:82
+msgid "Mar"
+msgstr "Ožu"
+
+#: includes/texts.php:83
+msgid "Apr"
+msgstr "Tra"
+
+#: includes/texts.php:85
+msgid "Jun"
+msgstr "Svi"
+
+#: includes/texts.php:86
+msgid "Jul"
+msgstr "Lip"
+
+#: includes/texts.php:87
+msgid "Aug"
+msgstr "Kol"
+
+#: includes/texts.php:88
+msgid "Sep"
+msgstr "Ruj"
+
+#: includes/texts.php:89
+msgid "Oct"
+msgstr "Lis"
+
+#: includes/texts.php:90
+msgid "Nov"
+msgstr "Stu"
+
+#: includes/texts.php:91
+msgid "Dec"
+msgstr "Pro"
+
+#: views/ecwd-event-content.php:71 views/ecwd-event-content.php:163
+#: views/ecwd-event-popup.php:141 views/ecwd-event-popup.php:244
+#: views/single-event.php:166 views/single-event.php:278
+msgid "Date"
+msgstr "Datum"
+
+#: views/ecwd-event-content.php:97 views/ecwd-event-popup.php:173
+#: views/single-event.php:206
+msgid "Url"
+msgstr "URL"
+
+#: views/ecwd-event-content.php:103 views/ecwd-event-popup.php:180
+#: views/single-event.php:213
+msgid "Organizers"
+msgstr "Organizatori"
+
+#: views/ecwd-event-popup.php:192 views/single-event.php:225
+msgid "Venue"
+msgstr "Mjesto održavanja"
+
+#: views/ecwd-event-popup.php:202 views/single-event.php:236
+msgid "Location"
+msgstr "Lokacija"
+
+#: views/ecwd-organizer-content.php:114
+msgid "upcoming events"
+msgstr "nadolazeća događanja"
+
+#: views/ecwd-venue-content.php:146
+msgid "events"
+msgstr "događanja"
+
+#: views/single-event.php:483
+msgid "Related events"
+msgstr "Povezana događanja"
+
+#: views/taxonomy-ecwd_event_category.php:43
+msgid "Previous page"
+msgstr "Prethodna stranica"
+
+#: views/taxonomy-ecwd_event_category.php:44
+msgid "Next page"
+msgstr "Sljedeća stranica"
+
+#: views/widgets.php:19
+msgid "Event Calendar WD"
+msgstr "Event Calendar WD"
+
+#: views/widgets.php:19
+msgid "A calendar of your events"
+msgstr "Kalendar vaših događanja"
+
+#: views/widgets.php:63
+msgid ""
+"No valid Event IDs have been entered for this widget. Please check that you "
+"have entered the IDs correctly in the widget settings (Appearance > "
+"Widgets), and that the Events have not been deleted."
+msgstr ""
+"U widget nije unijet nijedan valjani ID Događanja. Provjerite jeste li "
+"unijeli dobar ID u postavke widgeta (Appearance > Widgets), i da Događanja "
+"nisu izbrisana."
+
+#: views/widgets.php:95
+msgid "You have not added any events yet."
+msgstr "Niste još dodali događanja."
+
+#: views/widgets.php:128
+msgid "There are no calendars created yet."
+msgstr "Nema kreiranih  kalendara."
+
+#: views/widgets.php:129
+msgid "Add your first calendar!"
+msgstr "Dodaj prvi kalendar!"
+
+#: views/widgets.php:147
+msgid "Title:"
+msgstr "Naziv:"
+
+#: views/widgets.php:152
+msgid "Calendar to display"
+msgstr "Kalendar za prikaz"
+
+#: views/widgets.php:166
+msgid "Display Events as:"
+msgstr "Prikaži događanja kao:"
+
+#: views/widgets.php:175
+msgid "Events per page in list view:"
+msgstr "Događanja po stranici u prikazu Liste događanja:"
+
+#: views/single-event.php:163
+msgid "Back"
+msgstr "Nazad"
+
+#: ecwd_class.php:173
+msgid "Event Details"
+msgstr "Detalji o događaju"
+
+#~ msgid "Settings"
+#~ msgstr "Postavke"
+
+#~ msgid "Calendar Add-ons"
+#~ msgstr "Kalendar Add-ons"
+
+#~ msgid "Featured plugins"
+#~ msgstr "Istaknuti dodaci"
+
+#~ msgid "Featured themes"
+#~ msgstr "Istaknute teme"
+
+#~ msgid "Mail Template"
+#~ msgstr "E-mail predložak"
+
+#~ msgid "Updates"
+#~ msgstr "Ažuriranja"
+
+#~ msgid "Events"
+#~ msgstr "Događanja"
+
+#~ msgid "Duplicate Event"
+#~ msgstr "Napravi kopiju Događanja"
+
+#~ msgid "Duplicate Theme"
+#~ msgstr "Napravi kopiju Teme"
+
+#~ msgctxt "URL slug"
+#~ msgid "venue"
+#~ msgstr "mjesto"
+
+#~ msgctxt "URL slug"
+#~ msgid "organizer"
+#~ msgstr "organizator"
+
+#~ msgid "Calendars"
+#~ msgstr "Kalendari"
+
+#~ msgid "Calendar"
+#~ msgstr "Kalendar"
+
+#~ msgid "Add New Calendar"
+#~ msgstr "Dodaj novi Kalendar"
+
+#~ msgid "New Calendar"
+#~ msgstr "Novi Kalendar"
+
+#~ msgid "Edit Calendar"
+#~ msgstr "Uredi Kalendar"
+
+#~ msgid "View Calendar"
+#~ msgstr "Pogledajte Kalendar"
+
+#~ msgid "All Calendars"
+#~ msgstr "Svi Kalendari"
+
+#~ msgid "Search Calendar"
+#~ msgstr "Pretraži Kalendar"
+
+#~ msgid "No Calendars found."
+#~ msgstr "Nema pronađenih Kalendara"
+
+#~ msgid "No Calendars found in Trash."
+#~ msgstr "Nema Kalendara pronađenih u Smeću."
+
+#~ msgid "Organizer"
+#~ msgstr "Organizator"
+
+#~ msgid "Add New"
+#~ msgstr "Dodaj novu stavku"
+
+#~ msgid "Add New Organizer"
+#~ msgstr "Dodaj novog Organizatora"
+
+#~ msgid "New Organizer"
+#~ msgstr "Novi Organizator"
+
+#~ msgid "Edit Organizer"
+#~ msgstr "Uredi Organizatora"
+
+#~ msgid "View Organizer"
+#~ msgstr "Pogledaj Organizatora"
+
+#~ msgid "All Organizers"
+#~ msgstr "Svi Organizatori"
+
+#~ msgid "Search Organizer"
+#~ msgstr "Pretraži Organizatora"
+
+#~ msgid "No Organizers found."
+#~ msgstr "Nema pronađenih Organizatora."
+
+#~ msgid "No Organizers found in Trash."
+#~ msgstr "Nema pronađenih Organizatora u Smeću."
+
+#~ msgid "Event"
+#~ msgstr "Događanje"
+
+#~ msgid "Add New Event"
+#~ msgstr "Dodaj novo Događanje"
+
+#~ msgid "New Event"
+#~ msgstr "Novo Događanje"
+
+#~ msgid "Edit Event"
+#~ msgstr "Uredi Događanje"
+
+#~ msgid "View Event"
+#~ msgstr "Pogledaj Događanje"
+
+#~ msgid "All Events"
+#~ msgstr "Sva Događanja"
+
+#~ msgid "Search Event"
+#~ msgstr "Pretraži Događanje"
+
+#~ msgid "No events found."
+#~ msgstr "Nema pronađenih Događanja."
+
+#~ msgid "No events found in Trash."
+#~ msgstr "Nema pronađenih Događanja u Smeću."
+
+#~ msgid "Add New Venue"
+#~ msgstr "Dodaj novo Mjesto održavanja"
+
+#~ msgid "New Venue"
+#~ msgstr "Novo Mjesto održavanja"
+
+#~ msgid "Edit Venue"
+#~ msgstr "Uredi Mjesto održavanja"
+
+#~ msgid "View Venue"
+#~ msgstr "Pogledaj Mjesto održavanja"
+
+#~ msgid "All Venues"
+#~ msgstr "Sva Mjesta održavanja"
+
+#~ msgid "Search Venue"
+#~ msgstr "Pretraži Mjesta održavanja"
+
+#~ msgid "No Venues found."
+#~ msgstr "Nema pronađenih Mjesta održavanja."
+
+#~ msgid "No Venues found in Trash."
+#~ msgstr "Nema pronađenih Mjesta održavanja u Smeću."
+
+#~ msgid "Calendar Themes"
+#~ msgstr "Teme Kalendara"
+
+#~ msgid "Calendar Theme"
+#~ msgstr "Tema Kalendara"
+
+#~ msgid "Add New Theme"
+#~ msgstr "Dodaj novu Temu"
+
+#~ msgid "New Theme"
+#~ msgstr "Nova Tema"
+
+#~ msgid "Edit Theme"
+#~ msgstr "Uredi Temu"
+
+#~ msgid "View Theme"
+#~ msgstr "Pogledaj Temu"
+
+#~ msgid "All Themes"
+#~ msgstr "Sve Teme"
+
+#~ msgid "Search Themes"
+#~ msgstr "Pretraži Teme"
+
+#~ msgid "No Themes found."
+#~ msgstr "Nema pronađenih Tema."
+
+#~ msgid "No Theme found in Trash."
+#~ msgstr "Nema pronađenih Tema u smeću."
+
+#~ msgid "calendar"
+#~ msgstr "kalendar"
+
+#~ msgid "%4$s updated."
+#~ msgstr "%4$s ažurirano."
+
+#~ msgid "%4$s updated. "
+#~ msgstr "%4$s ažurirano."
+
+#~ msgid "%4$s published."
+#~ msgstr "%4$s objavljeno."
+
+#~ msgid "%4$s saved."
+#~ msgstr "%4$s spremljeno."
+
+#~ msgid "%4$s submitted. "
+#~ msgstr "%4$s zaprimljeno."
+
+#~ msgid "%4$s draft updated."
+#~ msgstr "%4$s nacrt ažuriran."
+
+#~ msgid "Theme"
+#~ msgstr "Tema"
+
+#~ msgid "event"
+#~ msgstr "događanje"
+
+#~ msgid "%4$s updated. %1$sView %2$s%3$s"
+#~ msgstr "%4$s ažurirano. %1$sView%2$s %3$s"
+
+#~ msgid "%4$s published. %1$sView %2$s%3$s"
+#~ msgstr "%4$s objavljeno. %1$sView%2$s %3$s"
+
+#~ msgid "%4$s saved. %1$sView %2$s%3$s"
+#~ msgstr "%4$s spremljeno. %1$sView %2$s%3$s"
+
+#~ msgid "%4$s submitted. %1$sView %2$s%3$s"
+#~ msgstr "%4$s zaprimljeno. %1$sView %2$s%3$s"
+
+#~ msgid "%4$s draft updated. %1$sView %2$s%3$s"
+#~ msgstr "%4$s nacrt ažuriran. %1$sView %2$s%3$s"
+
+#~ msgid "Calendar Settings"
+#~ msgstr "Postavke Kalendara"
+
+#~ msgid "Event Settings"
+#~ msgstr "Postavke Događanja"
+
+#~ msgid "Featured Image"
+#~ msgstr "Istaknuta slika"
+
+#~ msgid "Calendar Theme Settings"
+#~ msgstr "Postavke Tema Kalendara"
+
+#~ msgid "Venue Location"
+#~ msgstr "Lokacija događanja"
+
+#~ msgid "Calendar ID"
+#~ msgstr "Kalendar ID"
+
+#~ msgid "Calendar Shortcode"
+#~ msgstr "Kalendar Shortcode"
+
+#~ msgid "Event Dates"
+#~ msgstr "Datumi Događanja"
+
+#~ msgctxt "taxonomy general name"
+#~ msgid "Event Categories"
+#~ msgstr "Kategorije Događanja"
+
+#~ msgctxt "taxonomy singular name"
+#~ msgid "Event Category"
+#~ msgstr "Kategorija Događanja"
+
+#~ msgid "Search Event Categories"
+#~ msgstr "Pretraži Kategorije Događanja"
+
+#~ msgid "All Event Categories"
+#~ msgstr "Sve Kategorije Događanja"
+
+#~ msgid "Parent Category"
+#~ msgstr "Glavna Kategorija"
+
+#~ msgid "Parent Category:"
+#~ msgstr "Glavna Kategorija:"
+
+#~ msgid "Edit Category"
+#~ msgstr "Uredi Kategoriju"
+
+#~ msgid "Update Category"
+#~ msgstr "Ažuriraj Kategoriju"
+
+#~ msgid "Add New Event Category"
+#~ msgstr "Dodaj novu Kategoriju Događanja"
+
+#~ msgid "New Event Category Name"
+#~ msgstr "Ime nove Kategorije Događanja"
+
+#~ msgid "Event Categories"
+#~ msgstr "Kategorije Događanja"
+
+#~ msgid "Event Tags"
+#~ msgstr "Tagovi Događanja"
+
+#~ msgid "Event Tag"
+#~ msgstr "Tag Događanja"
+
+#~ msgid "Icon"
+#~ msgstr "Ikona stavke"
+
+#~ msgid "Color"
+#~ msgstr "Boja"
+
+#~ msgid ""
+#~ "Some data was retrieved, but could not be parsed successfully. Please "
+#~ "ensure your event settings are correct."
+#~ msgstr ""
+#~ "Dio podataka je dohvaćen, ali ne može biti uspješno analiziran. "
+#~ "Provjerite jesu li sve postavke događanja ispravne."
+
+#~ msgid "An error has occured."
+#~ msgstr "Došlo je do pogreške."
+
+#~ msgid " Please ensure your calendar ID is correct."
+#~ msgstr "Provjerite je li Kalendar ID ispravan."
+
+#~ msgid "Cache has been deleted."
+#~ msgstr "Cache je izbrisan."
+
+#~ msgid "Clear cache"
+#~ msgstr "Obriši cache"
+
+#~ msgid "Click to clear events cache pulled from other calendars."
+#~ msgstr "Kliknite kako biste očistili cache iz drugih kalendara."
+
+#~ msgid "TimeZone"
+#~ msgstr "Vremenska zona"
+
+#~ msgid ""
+#~ "If the timezone is not set, the server timezone will be used (if set in "
+#~ "php settings), otherwise the Europe/Berlin timezone will be used"
+#~ msgstr ""
+#~ "Ako vremenska zona nije postavljena, koristit će se zona servera (ako je "
+#~ "postavljena u php postavkama), u suprotnom će se koristiti zona Europe / "
+#~ "Berlin"
+
+#~ msgid "Date format"
+#~ msgstr "Format datuma"
+
+#~ msgid "Set the format for displaying event dates. Ex Y-m-d or Y/m/d"
+#~ msgstr "Postavite format za prikaz datuma događanja. Npr, Ymd ili Y / M / D"
+
+#~ msgid "Time format"
+#~ msgstr "Format vremena"
+
+#~ msgid "Set the format for displaying event time. Ex H:i or H/i"
+#~ msgstr ""
+#~ "Postavite format za prikazivanje vremena događanja. Npr, H: I ili H / i"
+
+#~ msgid "Show AM/PM"
+#~ msgstr "Pokaži AM / PM"
+
+#~ msgid "Select the time format type"
+#~ msgstr "Odaberite vrstu formata vremena"
+
+#~ msgid "List,Week,Day views day format"
+#~ msgstr "Format prikaza za Listu, Tjedan i Dan"
+
+#~ msgid "Note: Changed date format will not be translatable"
+#~ msgstr "Napomena: Promijenjeni format datuma neće se moći prevesti"
+
+#~ msgid "Week start day"
+#~ msgstr "Početni dan u tjednu"
+
+#~ msgid "Define the starting day for the week."
+#~ msgstr "Definirajte početni dan u tjednu."
+
+#~ msgid "Enable rewrite"
+#~ msgstr "Omogućite rewrite"
+
+#~ msgid "Check yes to enable event(s) url rewrite rule."
+#~ msgstr ""
+#~ "Označite 'da' kako biste omogućili rewrite pravilo za URL događanja."
+
+#~ msgid "Events slug"
+#~ msgstr "Slug događanja"
+
+#~ msgid "Define the slug for the events list page."
+#~ msgstr "Definirajte slug za stranicu liste događanja."
+
+#~ msgid "Single Event slug"
+#~ msgstr "Slug pojedinog događanja"
+
+#~ msgid "Define the slug for the single event page."
+#~ msgstr "Definirajte slug za stranicu pojedinog događanja."
+
+#~ msgid "Enable comments for events"
+#~ msgstr "Omogućite komentare za događanja"
+
+#~ msgid "Check to enable commenting."
+#~ msgstr "Označite da biste omogućili komentare."
+
+#~ msgid "Include events in main loop"
+#~ msgstr "Uključite događanja u glavnom loopu"
+
+#~ msgid "Check to display events within website post list in main pages."
+#~ msgstr ""
+#~ "Označite za prikaz događanja unutar objava na stranici na glavnim "
+#~ "stranicama."
+
+#~ msgid "Order of Organizers and Venues by"
+#~ msgstr "Redoslijed organizatora i mjesta događanja"
+
+#~ msgid "Select Order of Organizers and Venues."
+#~ msgstr "Odaberite redoslijed organizatora i mjesta događanja."
+
+#~ msgid "Open events in new tab"
+#~ msgstr "Otvori događanja u novoj kartici"
+
+#~ msgid "Enable Social Icons"
+#~ msgstr "Omogući društvene ikone"
+
+#~ msgid "Check to display social icons in event, organizer and venue pages."
+#~ msgstr ""
+#~ "Označite za prikaz društvenih ikona u stranicama događanja, organizatora "
+#~ "i mjesta događanja."
+
+#~ msgid "Show the repeat rate"
+#~ msgstr "Prikaži stopu ponavljanja"
+
+#~ msgid "Check to show the repeat rate in event page ."
+#~ msgstr "Označite za prikaz stope ponavljanja na stranici događanja."
+
+#~ msgid "Show related events in the event page"
+#~ msgstr "Prikaži vezana događanja na stranici događanja"
+
+#~ msgid "Apply category color to event title in event page"
+#~ msgstr "Dodijeli boju kategorije naslovu događanja na stranici događanja"
+
+#~ msgid "Enable Category and Tags"
+#~ msgstr "Omogući Kategorije i Tagove"
+
+#~ msgid "Check to display category and Tags."
+#~ msgstr "Označi za prikaz kategorije i tagova."
+
+#~ msgid "Display Events in popup"
+#~ msgstr "Prikaži Događanja kao popup."
+
+#~ msgid "Check to display events in popup."
+#~ msgstr "Označite za prikaz događanja u popup-u."
+
+#~ msgid "Add fixed height for events in posterboard view"
+#~ msgstr "Dodaj fiksnu visinu za događanja u pregledu Posterboard"
+
+#~ msgid "Events category slug"
+#~ msgstr "Slug kategorije događanja"
+
+#~ msgid "Display Description"
+#~ msgstr "Prikaži opis"
+
+#~ msgid "Display Image"
+#~ msgstr "Prikaži sliku"
+
+#~ msgid "Custom css"
+#~ msgstr "Prilagođeni CSS"
+
+#~ msgid ""
+#~ "The callback function used for the <strong>%s</strong> setting is missing."
+#~ msgstr ""
+#~ "Nedostaje pozivna funkcija koja se koristi za <strong>%s</strong> "
+#~ "postavku."
+
+#~ msgid "Preview"
+#~ msgstr "Pretpregled"
+
+#~ msgid "Add Event"
+#~ msgstr "Dodaj Događanje"
+
+#~ msgid ""
+#~ "Copy and paste this shortcode to display this Calendar event on any post "
+#~ "or page."
+#~ msgstr ""
+#~ "Kopirajte i zalijepite ovaj SHORTCODE da biste dodali Kalendar događanja "
+#~ "na bilo koji post ili stranicu."
+
+#~ msgid "Select Events from the list"
+#~ msgstr "Odaberite Događanje s popisa"
+
+#~ msgid "Add theme"
+#~ msgstr "Dodaj temu"
+
+#~ msgid "Image"
+#~ msgstr "Slika"
+
+#~ msgid "Upload/Add image"
+#~ msgstr "Dodaj sliku"
+
+#~ msgid "Remove image"
+#~ msgstr "Ukloni sliku"
+
+#~ msgid "Category color"
+#~ msgstr "Boja Kategorije"
+
+#~ msgid "Choose the color"
+#~ msgstr "Odaberite boju"
+
+#~ msgid "Event Venue"
+#~ msgstr "Mjesto događaja"
+
+#~ msgid "Select the venue of the event."
+#~ msgstr "Odaberite mjesto događaja."
+
+#~ msgid "There is no venue added yet"
+#~ msgstr "Još nema unesenih mjesta događaja"
+
+#~ msgid "Event Location"
+#~ msgstr "Lokacija događanja"
+
+#~ msgid ""
+#~ "If venue is not specified you can fill in the address of the event "
+#~ "location or click on the map to drag and drop the marker to the event "
+#~ "location."
+#~ msgstr ""
+#~ "Ako mjesto nije određeno možete popuniti adresu mjesta događaja ili "
+#~ "kliknite na kartu te povucite i ispustite marker na mjesto događanja."
+
+#~ msgid "Show map in event page"
+#~ msgstr "Prikaži kartu na stranici događanja"
+
+#~ msgid ""
+#~ "Fill in the starting and ending dates and time of the event. If the event "
+#~ "lasts entire day, check the box on the right."
+#~ msgstr ""
+#~ "Unesite datume početka i završetka događanja. Ako događanje traje cijeli "
+#~ "dan, označite okvir na desnoj strani."
+
+#~ msgid "Repeat rate"
+#~ msgstr "Ponavljanje"
+
+#~ msgid "Don't repeat"
+#~ msgstr "Bez ponavljanja"
+
+#~ msgid "Daily"
+#~ msgstr "Dnevno"
+
+#~ msgid "Weekly"
+#~ msgstr "Tjedno"
+
+#~ msgid "Monthly"
+#~ msgstr "Mjesečno"
+
+#~ msgid "Yearly"
+#~ msgstr "Godišnje"
+
+#~ msgid "day(s)"
+#~ msgstr "dan(i)"
+
+#~ msgid "weeks(s)"
+#~ msgstr "tjedan(i)"
+
+#~ msgid "on "
+#~ msgstr "na"
+
+#~ msgid "month(s)"
+#~ msgstr "mjesec (i)"
+
+#~ msgid "year(s) in "
+#~ msgstr "u godini (godinama)"
+
+#~ msgid "On the same day"
+#~ msgstr "Istoga dana"
+
+#~ msgid "On the: "
+#~ msgstr "Na:"
+
+#~ msgid "First"
+#~ msgstr "Prvi"
+
+#~ msgid "Second"
+#~ msgstr "Drugi"
+
+#~ msgid "Third"
+#~ msgstr "Treći"
+
+#~ msgid "Fourth"
+#~ msgstr "Četvrti"
+
+#~ msgid "Last"
+#~ msgstr "Posljednji"
+
+#~ msgid "Repeat until"
+#~ msgstr "Ponavljaj do"
+
+#~ msgid "Specify the repeating rate of the event."
+#~ msgstr "Navedite stopu ponavljanja događanja."
+
+#~ msgid "Event URL"
+#~ msgstr "URL događanja"
+
+#~ msgid "Provide a custom URL which will display event details."
+#~ msgstr "Unesite URL koji vežete uz detalje događanja."
+
+#~ msgid "Event Video URL"
+#~ msgstr "Video URL događanja"
+
+#~ msgid "Provide Youtube or Vimeo URL of the video to accompany the event."
+#~ msgstr ""
+#~ "Unesite Youtube or Vimeo URL za video koji želite povezati uz događanje."
+
+#~ msgid "Add organizer"
+#~ msgstr "Dodaj organizatora"
+
+#~ msgid "Reset Theme"
+#~ msgstr "Resetiraj Temu"
+
+#~ msgid "General"
+#~ msgstr "Općenito"
+
+#~ msgid "Header"
+#~ msgstr "Zaglavlje"
+
+#~ msgid "Views"
+#~ msgstr "Pregledi"
+
+#~ msgid "Filter"
+#~ msgstr "Filter"
+
+#~ msgid "Week days"
+#~ msgstr "Dani u tjednu"
+
+#~ msgid "Pagination"
+#~ msgstr "Obilježavanje stranica"
+
+#~ msgid ""
+#~ "In this section you can make changes for the calendar overall display."
+#~ msgstr ""
+#~ "U ovoj sekciji možete unijeti promjene za cjelokupni prikaz kalendara."
+
+#~ msgid "Calendar width"
+#~ msgstr "Širina kalendara"
+
+#~ msgid "Calendar border color"
+#~ msgstr "Boja ruba kalendara"
+
+#~ msgid "Border width"
+#~ msgstr "Širina ruba"
+
+#~ msgid "Border radius"
+#~ msgstr "Radijus ruba"
+
+#~ msgid ""
+#~ "In this section you can make the changes within the calendar header "
+#~ "(current, next and previous month display, navigation and overall color "
+#~ "scheme)."
+#~ msgstr ""
+#~ "U ovoj sekciji možete unijeti promjene za zaglavlje kalendara (prikaz "
+#~ "trenutačnog, prošlog i sljedećeg mjeseca, navigacije i općenito sheme "
+#~ "boja)."
+
+#~ msgid "Header color"
+#~ msgstr "Boja zaglavlja"
+
+#~ msgid "Header border color"
+#~ msgstr "Boja ruba zaglavlja"
+
+#~ msgid "Current year color"
+#~ msgstr "Boja trenutačne godine"
+
+#~ msgid "Current year font size"
+#~ msgstr "Veličina fonta trenutačne godine"
+
+#~ msgid "Current month color"
+#~ msgstr "Boja trenutačnog mjeseca"
+
+#~ msgid "Current month font size"
+#~ msgstr "Veličina fonta tenutačnog mjeseca"
+
+#~ msgid "Next, Prev links color"
+#~ msgstr "Sljedeći, Prethodni - boja linkova"
+
+#~ msgid "Next, Prev links font size"
+#~ msgstr "Sljedeći, Prethodni - veličina fonta"
+
+#~ msgid ""
+#~ "In this section you can make changes within the view tabs below the main "
+#~ "header."
+#~ msgstr ""
+#~ "U ovoj sekciji možete unijeti promjene unutar kartica pregleda ispod "
+#~ "glavnog zaglavlja."
+
+#~ msgid "View tabs background color"
+#~ msgstr "Boja podloge kartica pregleda"
+
+#~ msgid "View tabs border color"
+#~ msgstr "Boja ruba kartica pregleda"
+
+#~ msgid "Current tab color"
+#~ msgstr "Boja trenutačne kartice"
+
+#~ msgid "View tabs text color"
+#~ msgstr "Boja teksta kartica pregleda"
+
+#~ msgid "View tabs text font size"
+#~ msgstr "Veličina fonta teksta kartica pregleda"
+
+#~ msgid "Current tab text color"
+#~ msgstr "Boja teksta trenutačne kartice pregleda"
+
+#~ msgid "Search background color"
+#~ msgstr "Boja podloge Pretraživača"
+
+#~ msgid "Search icon color"
+#~ msgstr "Boja ikone Pretraživača"
+
+#~ msgid ""
+#~ "In this section you can make color changes within the filtering drop-down "
+#~ "box."
+#~ msgstr ""
+#~ "U ovoj sekciji možete unijeti promjene boje u padajućem okviru za "
+#~ "filtriranje."
+
+#~ msgid "Filters header background color (top)"
+#~ msgstr "Boja pozadine zaglavlja filtra (vrh)"
+
+#~ msgid "Filters header background color (left)"
+#~ msgstr "Boja pozadine zaglavlja filtra (lijevo)"
+
+#~ msgid "Filters header text color (top)"
+#~ msgstr "Boja teksta zaglavlja filtra (vrh)"
+
+#~ msgid "Filters header text color (left)"
+#~ msgstr "Boja teksta zaglavlja filtra (lijevo)"
+
+#~ msgid "Sections"
+#~ msgstr "Sekcije"
+
+#~ msgid "Filters section background color"
+#~ msgstr "Boja pozadine sekcije filtra"
+
+#~ msgid "Filters section border color"
+#~ msgstr "Boja ruba sekcije filtra"
+
+#~ msgid "Filters sction arrow color"
+#~ msgstr "Boja strelica sekcije filtra"
+
+#~ msgid "Filters section text color"
+#~ msgstr "Boja teksta sekcije filtra"
+
+#~ msgid "Filters section text font size"
+#~ msgstr "Veličina fonta teksta sekcije filtra"
+
+#~ msgid "Filters reset text color"
+#~ msgstr "Reset boja teksta filtra"
+
+#~ msgid "Filters reset text font size"
+#~ msgstr "Reset veličina fonta teksta filtra"
+
+#~ msgid "Items"
+#~ msgstr "Stavke"
+
+#~ msgid "Filters background color"
+#~ msgstr "Boja pozadine filtra"
+
+#~ msgid "Filters border color"
+#~ msgstr "Boja ruba filtra"
+
+#~ msgid "Filters text color"
+#~ msgstr "Boja teksta filtra"
+
+#~ msgid "Filters text font size"
+#~ msgstr "Veličina fonta teksta filtra"
+
+#~ msgid ""
+#~ "In this section you can make color and font size changes within the tabs "
+#~ "displaying the titles of the week days."
+#~ msgstr ""
+#~ "U ovoj sekciji možete unijeti promjene za boju i veličinu fonta u "
+#~ "karticama koje prikazuju imena dana u tjednu."
+
+#~ msgid "Week days background color"
+#~ msgstr "Boja pozadine dana u tjednu"
+
+#~ msgid "Week days border color"
+#~ msgstr "Boja ruba dana u tjednu"
+
+#~ msgid "Week days text color"
+#~ msgstr "Boja teksta dana u tjednu"
+
+#~ msgid "Week days text font size"
+#~ msgstr "Veličina fonta teksta dana u tjednu"
+
+#~ msgid ""
+#~ "In this section you can make changes within the cells displaying the days "
+#~ "of the week/month."
+#~ msgstr ""
+#~ "U ovoj sekciji možete unijeti promjene za rubrike koje prikazuju dane "
+#~ "tjedana/mjeseci."
+
+#~ msgid "Cell background color"
+#~ msgstr "Boja pozadine rubrika"
+
+#~ msgid "Cell border color"
+#~ msgstr "Boja ruba rubrike"
+
+#~ msgid "Weekend cell background color"
+#~ msgstr "Boja pozadine rubrike vikenda"
+
+#~ msgid "Prev/Next month cell background color"
+#~ msgstr "Sljedeći, Prethodni mjesec - boja pozadine rubrika"
+
+#~ msgid "Day number background color"
+#~ msgstr "Boja pozadine broja dana"
+
+#~ msgid "Day text color"
+#~ msgstr "Boja teksta dana"
+
+#~ msgid "Day text font size"
+#~ msgstr "Veličina fonta teksta dana"
+
+#~ msgid "Current day cell background color"
+#~ msgstr "Boja pozadine rubrike trenutačnog dana"
+
+#~ msgid "Current day number background color"
+#~ msgstr "Boja pozadine broja trenutačnog dana"
+
+#~ msgid "Current day text color"
+#~ msgstr "Boja teksta trenutačnog dana"
+
+#~ msgid ""
+#~ "In this section you can make changes within the cells displaying events "
+#~ "in various views, as well as the event detail display tooltip."
+#~ msgstr ""
+#~ "U ovoj sekciji možete unijeti promjene u rubrikama koje prikazuju "
+#~ "događanja u raznim vrstama pregleda, kao i prikaz tooltipa detalja "
+#~ "događanja."
+
+#~ msgid "Event title color"
+#~ msgstr "Boja naslova događanja"
+
+#~ msgid "Event title font size"
+#~ msgstr "Veličina fonta naslova događanja"
+
+#~ msgid "Event details background color"
+#~ msgstr "Boja pozadine detalja događanja"
+
+#~ msgid "Event details border color"
+#~ msgstr "Boja ruba detalja događanja"
+
+#~ msgid "Event details text color"
+#~ msgstr "Boja teksta detalja događanja"
+
+#~ msgid "Event date background color"
+#~ msgstr "Boja pozadine datuma događanja"
+
+#~ msgid "Event date text color"
+#~ msgstr "Boja teksta datuma događanja"
+
+#~ msgid "Event date font size"
+#~ msgstr "Veličina fonta datuma događanja"
+
+#~ msgid "Posterboard view date background color"
+#~ msgstr "Boja pozadine datuma u Posterboard pregledu"
+
+#~ msgid "Posterboard view date text color"
+#~ msgstr "Boja teksta datuma u Posterboard pregledu"
+
+#~ msgid "In this section you can make changes for the pagination"
+#~ msgstr "U ovoj sekciji možete unijeti promjene za numeriranje."
+
+#~ msgid "Page numbers background color"
+#~ msgstr "Boja pozadine broja stranica"
+
+#~ msgid "Current page background color"
+#~ msgstr "Boja pozadine trenutačne stranice"
+
+#~ msgid "Page number color"
+#~ msgstr "Boja brojeva stranica"
+
+#~ msgid ""
+#~ "Fill in the address of the venue or click on the map to drag and drop the "
+#~ "marker to a specific location"
+#~ msgstr ""
+#~ "Ispunite mjesto za adresu ili kliknite na kartu i povucite pa ispustite "
+#~ "oznaku na željenom mjestu"
+
+#~ msgid ""
+#~ "This event was created using Community Events. Are you sure you want to "
+#~ "sell tickets for it?"
+#~ msgstr ""
+#~ "Ovaj događaj je izrađen koristeći Community Events. Jeste li sigurni da "
+#~ "želite prodavati ulaznice za to?"
+
+#~ msgid "Upload image for the ticket header"
+#~ msgstr "Upload slike za zaglavlje ulaznica"
+
+#~ msgid ""
+#~ "The maximum image size in the email will be 580px wide by any height, and "
+#~ "then scaled for mobile. If you would like \"retina\" support use an image "
+#~ "sized to 1160px wide."
+#~ msgstr ""
+#~ "Maksimalna veličina slike u poruci e-pošte bit će 580 px širine u bilo "
+#~ "kojoj visini, a zatim umanjena za mobilne uređaje. Ako želite koristiti "
+#~ "\"retina\" podrškom onda koristite slike širine do 1160 px."
+
+#~ msgid "Select an Image"
+#~ msgstr "Odaberite sliku"
+
+#~ msgid "Remove"
+#~ msgstr "Ukloni"
+
+#~ msgid "Add new ticket"
+#~ msgstr "Dodaj novu ulaznicu"
+
+#~ msgid "Edit ticket"
+#~ msgstr "Uredi ulaznicu"
+
+#~ msgid "Sell using:"
+#~ msgstr "Prodaja pomoću:"
+
+#~ msgid "Ticket Name:"
+#~ msgstr "Naziv ulaznice:"
+
+#~ msgid "Ticket Description:"
+#~ msgstr "Opis ulaznice:"
+
+#~ msgid "Price:"
+#~ msgstr "Cijena:"
+
+#~ msgid "(0 or empty for free tickets)"
+#~ msgstr "(0 ili prazno za besplatne ulaznice)"
+
+#~ msgid "Start sale:"
+#~ msgstr "Početak prodaje:"
+
+#~ msgid "End sale:"
+#~ msgstr "Kraj prodaje:"
+
+#~ msgid ""
+#~ "When will ticket sales occur? If you don't set a start/end date for "
+#~ "sales, tickets will be available from now until the event ends."
+#~ msgstr ""
+#~ "Kada će se prodavati ulaznice? Ako ne postavite datum početka/kraja "
+#~ "prodaje, ulaznice će biti dostupne od sad sve dok događanje ne završi."
+
+#~ msgid "Save this ticket"
+#~ msgstr "Spremite ovu ulaznicu"

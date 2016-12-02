@@ -1,0 +1,403 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: event_calendar_wd\n"
+"POT-Creation-Date: 2015-07-23 13:04+0400\n"
+"PO-Revision-Date: 2016-06-15 12:01+0400\n"
+"Last-Translator: Borisa Djuraskovic <borisad@webhostinghub.com>\n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPathExcluded-0: views/admin\n"
+"X-Poedit-SearchPathExcluded-1: js\n"
+"X-Poedit-SearchPathExcluded-2: includes/ecwd-cpt-class.php\n"
+"X-Poedit-SearchPathExcluded-3: includes/register-settings.php\n"
+"X-Poedit-SearchPathExcluded-4: includes/ecwd-ical-events-class.php\n"
+"X-Poedit-SearchPathExcluded-5: includes/ecwd-google-events-class.php\n"
+"X-Poedit-SearchPathExcluded-6: includes/ecwd-facebook-events-class.php\n"
+"X-Poedit-SearchPathExcluded-7: ecwd_admin_class.php\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/calendar-class.php:175 includes/calendar-class.php:176
+#: views/widgets.php:168
+msgid "Month"
+msgstr "Mesec"
+
+#: includes/calendar-class.php:177 views/widgets.php:169
+msgid "List"
+msgstr "Lista"
+
+#: includes/calendar-class.php:179
+msgid "Week"
+msgstr "Nedelja"
+
+#: includes/calendar-class.php:183
+msgid "Day"
+msgstr "Dan"
+
+#: includes/calendar-class.php:186
+msgid "Map"
+msgstr "Mapa"
+
+#: includes/calendar-class.php:188
+msgid "4 Days"
+msgstr "4 dana"
+
+#: includes/calendar-class.php:191
+msgid "Posterboard"
+msgstr "Tabla sa posterima"
+
+#: includes/calendar-class.php:383 includes/calendar-class.php:417
+#: includes/calendar-class.php:572 includes/calendar-class.php:1181
+#: includes/calendar-class.php:1330 includes/ecwd-functions.php:360
+#: views/ecwd-event-content.php:76 views/ecwd-event-content.php:158
+#: views/ecwd-organizer-content.php:145 views/ecwd-venue-content.php:178
+#: views/single-event.php:151 views/single-event.php:247
+#: views/single-event.php:487
+msgid "All day"
+msgstr "Svi dani"
+
+#: includes/calendar-class.php:440 includes/calendar-class.php:520
+#: includes/calendar-class.php:1386
+msgid "No events"
+msgstr "Nema događaja"
+
+#: includes/calendar-class.php:644
+msgid "No Events"
+msgstr "Nema Događaja"
+
+#: includes/calendar-class.php:1256
+msgid "More events"
+msgstr "Više događaja"
+
+#: includes/ecwd-cpt-filter.php:67
+msgid "From"
+msgstr "Iz"
+
+#: includes/ecwd-cpt-filter.php:74
+msgid "To"
+msgstr "Za"
+
+#: includes/ecwd-display-class.php:876 includes/ecwd-display-class.php:882
+#: includes/ecwd-display-class.php:900 includes/ecwd-display-class.php:917
+#: includes/texts.php:60
+msgid "Repeat every"
+msgstr "Ponoviti svaki"
+
+#: includes/ecwd-display-class.php:876 includes/texts.php:66
+msgid "days"
+msgstr "dani"
+
+#: includes/ecwd-display-class.php:878 includes/texts.php:61
+msgid "Repeat every day"
+msgstr "Ponoviti svakog dana"
+
+#: includes/ecwd-display-class.php:882 includes/texts.php:67
+msgid "weeks"
+msgstr "nedelje"
+
+#: includes/ecwd-display-class.php:884 includes/texts.php:62
+msgid "Repeat every week"
+msgstr "Ponoviti svake nedelje"
+
+#: includes/ecwd-display-class.php:889
+msgid "on"
+msgstr "na"
+
+#: includes/ecwd-display-class.php:900 includes/texts.php:68
+#, fuzzy
+msgid "months"
+msgstr "meseci"
+
+#: includes/ecwd-display-class.php:902 includes/texts.php:63
+msgid "Repeat every month"
+msgstr "Ponoviti svakog meseca"
+
+#: includes/ecwd-display-class.php:907 includes/ecwd-display-class.php:931
+msgid "on the same day"
+msgstr "istog dana"
+
+#: includes/ecwd-display-class.php:912 includes/ecwd-display-class.php:936
+msgid "on the"
+msgstr "na"
+
+#: includes/ecwd-display-class.php:917 includes/texts.php:69
+msgid "years"
+msgstr "godine"
+
+#: includes/ecwd-display-class.php:919 includes/texts.php:64
+msgid "Repeat every year"
+msgstr "Ponoviti svake godine"
+
+#: includes/ecwd-display-class.php:940 includes/texts.php:70
+msgid "until"
+msgstr "do"
+
+#: includes/ecwd-functions.php:8
+msgid "Loading..."
+msgstr "Učitavanje..."
+
+#: includes/ecwd-functions.php:439 includes/texts.php:53
+msgid "DAYS"
+msgstr "DANI"
+
+#: includes/ecwd-functions.php:440 includes/texts.php:54
+msgid "HOURS"
+msgstr "SATI"
+
+#: includes/ecwd-functions.php:441 includes/texts.php:55
+msgid "MINUTES"
+msgstr "MINUTI"
+
+#: includes/ecwd-functions.php:442 includes/texts.php:56
+msgid "SECONDS"
+msgstr "SEKUNDE"
+
+#: includes/texts.php:2
+msgid "January"
+msgstr "Januar"
+
+#: includes/texts.php:3
+msgid "February"
+msgstr "Februar"
+
+#: includes/texts.php:4
+msgid "March"
+msgstr "Mart"
+
+#: includes/texts.php:5
+msgid "April"
+msgstr "April"
+
+#: includes/texts.php:6
+msgid "May"
+msgstr "Maj"
+
+#: includes/texts.php:7
+msgid "June"
+msgstr "Jun"
+
+#: includes/texts.php:8
+msgid "July"
+msgstr "Jul"
+
+#: includes/texts.php:9
+msgid "August"
+msgstr "Avgust"
+
+#: includes/texts.php:10
+msgid "September"
+msgstr "Septembar"
+
+#: includes/texts.php:11
+msgid "October"
+msgstr "Oktobar"
+
+#: includes/texts.php:12
+msgid "November"
+msgstr "Novembar"
+
+#: includes/texts.php:13
+msgid "December"
+msgstr "Decembar"
+
+#: includes/texts.php:15
+msgid "Sunday"
+msgstr "Nedelja"
+
+#: includes/texts.php:16
+msgid "Monday"
+msgstr "Ponedeljak"
+
+#: includes/texts.php:17
+msgid "Tuesday"
+msgstr "Utorak"
+
+#: includes/texts.php:18
+msgid "Wednesday"
+msgstr "Sreda"
+
+#: includes/texts.php:19
+msgid "Thursday"
+msgstr "Četvrtak"
+
+#: includes/texts.php:20
+msgid "Friday"
+msgstr "Petak"
+
+#: includes/texts.php:21
+msgid "Saturday"
+msgstr "Subota"
+
+#: includes/texts.php:25
+msgid "Sun"
+msgstr "Ned."
+
+#: includes/texts.php:26
+msgid "Mon"
+msgstr "Pon."
+
+#: includes/texts.php:27
+msgid "Tue"
+msgstr "Ut."
+
+#: includes/texts.php:28
+msgid "Wed"
+msgstr "Sred."
+
+#: includes/texts.php:29
+msgid "Thu"
+msgstr "Četvrt."
+
+#: includes/texts.php:30
+msgid "Fri"
+msgstr "Pet."
+
+#: includes/texts.php:31
+msgid "Sat"
+msgstr "Sub."
+
+#: includes/texts.php:34
+msgid "Su"
+msgstr "Ne."
+
+#: includes/texts.php:35
+msgid "Mo"
+msgstr "Po."
+
+#: includes/texts.php:36
+msgid "Tu"
+msgstr "U."
+
+#: includes/texts.php:37
+msgid "We"
+msgstr "Sr."
+
+#: includes/texts.php:38
+msgid "Th"
+msgstr "Če."
+
+#: includes/texts.php:39
+msgid "Fr"
+msgstr "Pe."
+
+#: includes/texts.php:40
+msgid "Sa"
+msgstr "Su."
+
+#: includes/texts.php:44
+msgid "Show Filters"
+msgstr "Pokazati filtere"
+
+#: includes/texts.php:45
+msgid "Collapse Filters"
+msgstr "Oboriti filtere"
+
+#: includes/texts.php:46
+msgid "Reset Filters"
+msgstr "Resetovati filtere"
+
+#: includes/texts.php:48
+msgid "Days"
+msgstr "Dani"
+
+#: includes/texts.php:49
+msgid "Categories"
+msgstr "Kategorije"
+
+#: includes/texts.php:50
+msgid "Venues"
+msgstr "Delokrug"
+
+#: includes/texts.php:57
+msgid "The event has just started"
+msgstr "Događaj je upravo otpočeo"
+
+#: includes/texts.php:72
+#, fuzzy
+msgid "Sundays"
+msgstr "Nedeljom"
+
+#: includes/texts.php:73
+#, fuzzy
+msgid "Mondays"
+msgstr "Ponedeljkom"
+
+#: includes/texts.php:74
+#, fuzzy
+msgid "Tuesdays"
+msgstr "Utorkom"
+
+#: includes/texts.php:75
+#, fuzzy
+msgid "Wednesdays"
+msgstr "Sredom"
+
+#: includes/texts.php:76
+#, fuzzy
+msgid "Thursdays"
+msgstr "Četvrtkom"
+
+#: includes/texts.php:77
+#, fuzzy
+msgid "Fridays"
+msgstr "Petkom"
+
+#: includes/texts.php:78
+#, fuzzy
+msgid "Saturdays"
+msgstr "Subotom"
+
+#: views/ecwd-event-content.php:67 views/ecwd-event-content.php:153
+#: views/single-event.php:142 views/single-event.php:242
+msgid "Date"
+msgstr "Datum"
+
+#: views/ecwd-event-content.php:91 views/single-event.php:170
+msgid "Url"
+msgstr "Url"
+
+#: views/ecwd-event-content.php:97 views/single-event.php:177
+msgid "Organizers"
+msgstr "Organizatori"
+
+#: views/ecwd-organizer-content.php:109
+msgid "upcoming events"
+msgstr "predstojeći događaji"
+
+#: views/ecwd-venue-content.php:141
+msgid "events"
+msgstr "događaji"
+
+#: views/single-event.php:190
+#, fuzzy
+msgid "Venue"
+msgstr "Delokrug"
+
+#: views/single-event.php:200
+msgid "Location"
+msgstr "Lokacija"
+
+#: views/single-event.php:449
+msgid "Related events"
+msgstr "Vezani događaji"
+
+#: views/single-event.php:163
+msgid "Back"
+msgstr "Назад"
+
+#: ecwd_class.php:173
+msgid "Event Details"
+msgstr "Детаљи догађаја"
+
+#~ msgid "What're we looking for ?"
+#~ msgstr "Что мы ищем?"
+
+#~ msgid "No additional details for this event."
+#~ msgstr "Нет дополнительной информации о мероприятии."
